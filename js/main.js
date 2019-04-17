@@ -277,7 +277,7 @@ function createLegend(map, attributes){
 			var circles = {
             max: 20,
             mean: 40,
-            min: 60
+            min: 60// hi
         };
 
         //loop to add each circle and text to svg string
