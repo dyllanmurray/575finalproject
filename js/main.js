@@ -32,8 +32,8 @@ function createMap(){
     };
 
     var map = L.map('map', {
-        center:  [38.832, -97.333],
-        zoom: 4.5,
+        center: [46.894, -110.218],
+        zoom: 7,
         layers: [Esri_WorldTopoMap]
     });
 	let parks = L.layerGroup();
@@ -51,10 +51,14 @@ function createMap(){
 	});
 	// This function is run for every feature found in the geojson file. It adds the feature to the empty layer we created above
 	function addMyData(feature, layer){
-        if(layer.feature.properties.PARKNAME !== ''){
+        if(layer.feature.properties.PARKNAME == 'Yellowstone' ) {
         parks.addLayer(layer);
-        console.log(layer)
-        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE);
+
+        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/yell/index.htm");
+        // layer.bindTooltip("National Park").openTooltip();
+        } else if (layer.feature.properties.PARKNAME == 'Glacier' ) {
+        parks.addLayer(layer);
+        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/glac/index.htm");
         }
 
         // parks.addLayer(layer);

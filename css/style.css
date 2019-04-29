@@ -6,12 +6,12 @@ html, body, #map {
   }
   #map{
     width: 70%;
-    float: left;
+    float: right;
     border-style: double
   }
   
   #panel {
-    float: right;
+    float: left;
     width: 26%;
     padding: 20px;
     /* display: inline-block; */
@@ -19,12 +19,12 @@ html, body, #map {
     text-align: center;
     line-height: 30px;
     background-color: white;
-    /* border-style: double  */
+    border-style: double
   }
   
   body {
       /* background: linear-gradient(to right, #ffff66, #ffffcc); */
-      background-color: #f7f7f7;
+      /* background-color: #f7f7f7; */
       border-radius: 6px;
       height: 120px;
     font-family: Verdana;
@@ -93,13 +93,13 @@ html, body, #map {
   }
   
   #header {
-    color:#ffd204;
-    -webkit-text-stroke-color: #9b1e25;
-    -webkit-text-stroke-width: 1px;
+    color:#748555;
+    /* -webkit-text-stroke-color: #9b1e25;
+    -webkit-text-stroke-width: 1px; */
     /* border-color: #9b1e25; */
     text-align: center;
       font-size: 2em;
-    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-family:Helvetica,Arial,sans-serif;
     padding: 0;
   }
   
@@ -107,7 +107,8 @@ html, body, #map {
     padding: 0;
     text-align: center;
     font-size: 1em;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Helvetica,Arial,sans-serif;
+    color:#748555;
   }
   
   #sources {
