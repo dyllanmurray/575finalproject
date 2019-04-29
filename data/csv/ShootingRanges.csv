@@ -1,0 +1,110 @@
+OBJECTID,Name,WEBSITE,CONTACT,PHONE,ADDRESS,CITY,OUTDOOR,INDOOR,ARCH,SHOTG,SHOTGUNTYP,HANDG,RIFLE,MUZZLEL,Lat,Long
+1,Gallatin Sporting Clays,http://www.gallatinclays.org, ,4063881346,1300 Little Coulee Trail,Bozeman,x, , ,x,"sporting, 5 stand", , , ,45.891851,-111.44061
+2,Logan Gun Club, ,Gary Reed, ,438 Logan Trident Road,Logan,x, ,x,x,"trap, skeet",x,x,x,45.891851,-111.44061
+3,Havre Trap Club, ,Earl Hepler, ,"101 Co Rd 802
+",Havre, , , ,x, , , , ,48.522414,-109.670642
+4,Rudyard Gun Club, ,Bob Wehr, ,Rudyard Road South,Rudyard,x, , ,x, , , , ,48.465788,-110.560841
+5,Judith Basin Archery Club, , ,4065662292,"3rd St W
+",Stanford,x,x,x, , , , , ,47.149043,-110.223756
+6,Helena Trap Club,http://www.helenatrapclub.com,Mark Keller,4064589920,5505 Norh Montana Ave,Helena,x, , ,x,trap, , , ,46.653576,-112.018259
+7,Tobacco Valley Rod & Gun, , , ,3rd St W,Eureka,x, , ,x, ,x,x,x,48.856929,-115.070916
+8,Hellgate Civilian Shooters Association,http://www.hellgatecsa.org, ,4065433075,17770 Deep Creek Rd.,Missoula,x, , ,x,unk,x,x,x,46.8595,-114.07593
+9,Five Valley Archery,https://www.facebook.com/FVArcheryClub,Paul Roush, ,5106 Mainview Dr,Missoula,x, , , , , , , ,46.792151,-114.063184
+10,Missoula Trap & Skeet Club,http://www.missoulatrapandskeet.com,Gene Clawson,4065494815,8650 Hwy 10 W,Missoula,x, , ,x,"trap, skeet, 5 stand", , , ,46.954403,-114.148243
+11,Wilderness Sportsman Club,http://www.mtwsc.org, , ,"Woodworth Seeley Lake Rd
+",Seeley Lake,x, , ,x, ,x,x,x,47.189026,-113.445192
+12,Park County Rod & Gun,http://www.pcrgc.blogspot.com,Hayes Goosey,4065800119,Meigs Road,Livingston,x, ,x,x,trap,x,x,x,45.702672,-110.574116
+13,Hamilton Trap Club,http://www.hamiltontrapclub.com,Mary Guiles,4063632656,Hamilton Airport Road,Hamilton,x, , ,x,"trap, 5 stand", , , ,46.252854,-114.130436
+14,Whittecar Rifle & Pistol Range,http://www.whittecarrange.com,Hoot Gibson,4063637078,578 Blodgett View Rd,Hamilton,x, , ,x,5 stand,x,x,x,46.273361,-114.215222
+15,Lone Tree Archers, ,Kenny Satra, ,"County Roud 122 (8 miles from Sidney)
+",Sidney,x, ,x, , , , , ,47.704263,-104.079468
+16,Colstrip Sportsmans Club, ,Bob Henriksen, ,"left off of MT-39 N
+",Colstrip,x,x,x, , ,x,x,x,45.898776,-106.640736
+17,Hot Springs Shooting Range, ,Don F Smith, ,"124 Little Bitteroot Road
+",Hot Springs,x, ,x,x,trap,x,x,x,47.61335,-114.599575
+18,Noxon Rod & Gun Club,http://www.rockymountainrangers.com,Jim Mershon, ,"305 Remington Road
+",Noxon,x,x,x,x,trap,x,x,x,47.986398,-115.771364
+19,Plains City Range, ,Bill Holland, ,"7245 MT-200 
+",Plains,x, , , , ,x,x,x,47.503097,-114.920995
+20,Thompson Falls Trap Club, ,Mike Freed, ,"26 Trap Club Lane
+",Thompson Falls,x, ,x,x, ,x,x,x,47.580966,-115.232171
+21,Plentywood Trap Club, ,Melvin Hall, ,"Sheridan County Fairgrounds
+",Plentywood, , , ,x,trap, , , ,48.767779,-104.538992
+22,Windy Ridge Trap, ,Cas Dirkis, ,"32 1st Road NW
+",Fairfield, , , , , , , , ,47.620544,-111.990882
+23,Shelby Trap Club, ,Ray Tomscheck, ,"90 Benjamin Road 
+",Shelby,x, , ,x, , ,x, ,48.510689,-111.832424
+24,Billings Rod & Gun Club,http://www.billingsrodandgun.org,Larry Whitmyer,4062590006,2931 Rod And Gun Club Rd,Billings,x,x,x,x,"skeet, sporting, 5 stand",x,x,x,45.81669,-108.590383
+25,Broadwater Rod & Gun Club,http://www.brgcmt.com,Virgil Binkley, ,"330 Indian Creek Road
+",Townsend,x,x, ,x,trap,x,x, ,46.335959,-111.602432
+26,Central Montana Shooting Complex,http://www.cmtsc.com,Bruce Luhrsen,4065389408,520 Lime Klin Rd,Lewistown,x, , ,x,"sporting clay, trap, skeet",x,x,x,47.096618,-109.42498
+27,Anaconda Archery Range, , , ,"Washoe Park
+",Anaconda, , , , , , , , ,46.135262,-112.960762
+28,Anaconda Trap Club, , ,4065633800,4111 Mount Highway 1 E,Anaconda,x, , ,x,"trap, skeet", , , ,46.110845,-112.850804
+29,Cut Bank Sportsman's Gun Range,http://www.cutbanksportsman.blogspot.com, , ,2628 Valier HWY,Cut Bank, , , , , , , , ,48.605807,-112.359098
+30,Pondera Shooting Sports, , , ,"972 GRANITE RD
+",Conrad, , , , , , , , ,48.163588,-111.977553
+31,Western Montana Fish and Game Association,http://www.wmfg.org, ,4063700804,6328 Shooting Center Lane,Missoula,x,x,x,x,trap,x,x,x,46.872431,-113.92264
+32,Chinook Rod and Gun Club, , , ,Clear Creek Road,Chinook, , , , , ,x, , ,48.549063,-109.310617
+33,Rocky Mountain Rangers, , , ,"305 Remington Road
+",Noxon, , , , , , , , ,47.986398,-115.771364
+34,Beaverhead Gun Club, ,Hank Greitl,4066834923,"2125 White Lane
+",Dillon,x, , ,x,trap, , , ,45.199458,-112.61386
+35,Trails End Rifle & Pistol Club, ,Terry Pedersen,4063776836,"917 Snyder Ave
+",Glendive, ,x, , , ,x,x, ,47.090718,-104.710535
+36,Anaconda Rifle & Pistol Club, , ,4065635691,"4434 N Cable Road 
+",Anaconda, , , , , , ,x, ,46.165142,-113.059952
+37,Billings Trap Club,http://www.billingstrapclub.com,Dave Rahn,4062596148,2499 Lake Elmo Dr,Billings,x, , ,x,trap, , , ,45.84201,-108.475011
+38,Polson Shooters Association,http://www.polsonshooters.com,Rob St. Clair,4062708886,38386 Kerr Dam Rd,Polson,x, , , , ,x,x,x,47.661347,-114.1953
+39,"Montana Fish, Wildlife & Parks",fwp.mt.gov/education/montanaWild/, ,(406) 444-9944,"2668 Broadwater Ave
+",Helena,x, ,x, , , , , ,46.608618,-112.077465
+40,Lewistown Trap & Skeet Club, ,Bill Berg,4065383289,863 Airport Road,Lewistown,x, , ,x,"trap, skeet", , , ,47.044897,-109.454844
+41,Bigfork Gun Club,http://www.bigforkgunclub.com,Crow Carter,4068373805,78569-79077 Highway 83,Bigfork,x, , ,x,"trap, skeet",x,x, ,48.011322,-113.950679
+42,Mission Valley Shooting Range, ,Dan Toelke,4062503386,46341 Leghton Rd,Ronan,x,x,x, , ,x,x,x,47.539261,-114.155999
+43,Libby Rod & Gun Club, ,Don Clark, ,319 Warren Rd,Libby,x, , ,x,trap,x,x,x,48.28942,-115.487784
+44,Hellgate Civilian Juniors, , , ,2331 S Third West,Missoula, , , , , , , , ,46.8595,-114.07593
+45,Valley County Rifle and Pistol Club, ,Ken Holt, ,186 Fox Farm Rd,Nashua,x, , ,x, ,x,x,x,48.219651,-106.602468
+46,Dillon Rifle Range, ,Bitterroot Trading Post, ,Dump Road,Dillon,x, , , , ,x,x,x,45.2355,-112.760441
+47,Treasure Shooting Association, , , ,"Old Highway 10
+",Hysham,x, , , , , , , ,46.2486,-107.28637
+49,Harlem Rod & Gun Club, ,Frank Orlando, ,North of Harlem,Harlem,x, , ,x,trap, , , ,48.53336,-108.79417
+50,Broadwater Rod & Gun Club,http://www.brgcmt.com,Virgil Binkley, ,Indian Creek Rd,Townsend,x, , , , , , , ,46.335959,-111.602432
+51,Broadwater Rod & Gun Club,http://www.brgcmt.com,Neil Severinson, ,Indian Creek Rd,Townsend,x,x, ,x,5 stand,x,x, ,46.335484,-111.600392
+52,Great Falls Shooting Sports Complex,http://www.gfssc.org,Jim Panagopoulos, ,2611 10th Ave S Suite 2,Great Falls,x, , , , ,x,x, ,47.572542,-111.229669
+53,Great Falls Trap & Skeet Club, ,Rick Dorr,4064535032,183 N Ulm Frontage Rd,Great Falls,x, , ,x,"trap, skeet, 5stand",x,x, ,47.445027,-111.474416
+54,Custer Rod & Gun Club,http://www.custerrodandgun.com,Fred Tetschner, ,"181 Wednesday Drive
+",Miles City,x, ,x,x,"trap, skeet",x,x, ,46.48201,-105.869975
+55,Glendive Trap Club, ,Faron Hansen, ,"440 Colorado Blvd
+",Glendive, , , , , , , , ,47.132492,-104.685268
+56,Fallon County Sportsman Club, , , ,"8806 Hwy 12 S 
+",Baker,x, , ,x, ,x,x,x,46.4553,-104.2667
+57,Denton Rod & Gun Club, ,Orville McCracken, ,"12842 MT-81
+",Denton,x, , , , ,x,x, ,47.320601,-109.957465
+58,Bridger Skeet Club, , ,4065800866, ,Belgrade,x, , ,x,"skeet, trap, sporting, 5 stand", , , ,45.79444,-111.19947
+59,Meagher County Sportsmen's Association,http://www.meaghercosportsmen.com,Jerry Churchill, ,"465 Jackson Road
+",White Sulphur Springs,x,x,x,x, ,x,x,x,46.566508,-110.905372
+60,Basin - Last Chance Handgunners, , , ,230 Cattle drive RD,Basin, , , , , ,x, , ,46.24948,-112.174448
+61,Bozeman Rifle Club, , , ,Gallatin County Fairgrounds,Bozeman, , , , , , ,x, ,45.690017,-111.03591
+62,Bridger shooting range, , , , ,Bridger, , , , , , ,x, ,45.3077,-108.8711
+63,Coffee Creek Trap Club, , , ,412 Broadway Ave,Coffee Creek, , , ,x, , , , ,47.34765,-110.079632
+64,Dagmar-Pioneer Gun Club, , , ,Park Ave.,Dagmar, , , ,x, , , , ,48.582476,-104.194735
+65,Glasgow Fish and Wildlife Assoc. Trap Range, , , ,off skylark road,Glasgow, , , ,x, , , , ,48.147498,-106.507911
+66,Harlowton Shooting Range, , , ,North of Harlow,Harlowton, , , , , , ,x, ,46.454003,-109.821919
+67,Hellgate Civilian Shooters Association-West Riverside, , , ,7350 Zaugg Drive,Missoula, , , , , , ,x, ,46.88329,-113.89677
+68,Kootenai Cross-Country Ski Club, , , , ,Libby, , , , , , ,x, ,48.3436,-115.57514
+69,Lewis and Clark Co 4H Bldg, , , ,98 West Custer Ave,Helena, , , , , , , , ,46.619852,-112.057022
+70,Loring Trap Club, , , ,69 2nd Ave E.,Loring, , , ,x, , , , ,48.78942,-107.859731
+71,Marias Valley Archery, , , ,off roadrunner Trail,Shelby, , ,x, , , , , ,48.52954,-111.84624
+72,Medicine Lake Trap Club, , , ,325 Section St.,Medicine Lake, , , ,x, , , , ,48.507742,-104.498607
+73,Palmer Shooting Range-Boone and Crockett, , , ,388 Upper TRM Ranch Road,Dupuyer, , , , , , ,x, ,48.0943,-112.6561
+74,Rendezvous Ski Trails Biathlon Range, , , ,99 S Geyser St,West Yellowstone, , , , , , ,x, ,44.657361,-111.108572
+75,Roundup Sportmen's Association, , , ,83 Golf Course Road,Roundup, , , , , , , , ,46.455852,-108.564025
+76,Ruby Valley Gun Club, , , ,500 Dry Georgia Gulch Road,Sheridan, , , , , , , , ,45.507085,-112.258246
+77,Toole County Shooting Sports Program, , , ,W Marias Fair Road,Marias, , , , , , ,x, ,48.494281,-111.837348
+78,Turner Trap, , , ,50 2nd Street East,Turner, , , ,x, , , , ,48.845469,-108.400911
+79,West Yellowstone Shooting Sports Association, , , ,Park Edge Road,West Yellowstone, , , , , , ,x, ,44.624867,-111.098142
+80,Yaak Rod & Gun Club, , , ,Shooting Range Road,Yaak/Troy, , , , , , , , ,48.466272,-115.841332
+81,Havre Rifle & Pistol Club, ,Evr Hamblock,4062654918,"5 miles west on River Road N of Havre
+",Havre,x, ,x, , ,x,x, ,48.582429,-109.77308
+82,Butte Trap Club, , , ,"70 Basin Creek Road/Gun Club Road
+",Butte,x, , ,x,trap, , , ,45.987803,-112.640199

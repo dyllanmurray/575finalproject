@@ -1,0 +1,48 @@
+ObjectID,Name,ParkType,URL,Lat,Long
+1,Upper Lake Campground,Fish & Wildlife Service,http://www.fws.gov/refuge/Red_Rock_Lakes/,44.593457,-111.729116
+2,River Marsh Campground,Fish & Wildlife Service,http://www.fws.gov/refuge/Red_Rock_Lakes/,44.646651,-111.880218
+3,Slippery Ann Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.616026,-108.578298
+4,Crooked Creek Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.432105,-107.936786
+5,James Kipp Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.625554,-108.681774
+6,Fourchette Creek Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.672523,-107.655088
+7,Devils Creek Recreation Area,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.616894,-107.653554
+8,Bone Trail Recreation Area,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.676671,-107.248237
+9,Hell Creek Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.617525,-106.887561
+10,Rock Creek Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.733516,-106.260927
+11,The Pines Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.823782,-106.614123
+12,Fork Peck Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.984896,-106.522973
+13,Nelson Creek Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.568136,-106.226644
+14,McGuire Creek Recreation Area Campground,Fish & Wildlife Service,https://www.fws.gov/refuge/Charles_M_Russell/,47.615032,-106.23715
+15,Bannack,Montana State Park,N/A,45.164728,-113.004447
+16,Beavertail Hill,Montana State Park,N/A,46.720192,-113.574422
+17,Black Sandy,Montana State Park,N/A,46.744716,-111.886127
+18,Brush Lake,Montana State Park,N/A,48.604968,-104.101579
+19,Cooney,Montana State Park,N/A,45.443195,-109.204171
+20,Finley Point,Montana State Park,N/A,47.75471,-114.085651
+21,Hell Creek,Montana State Park,N/A,47.615527,-106.886274
+22,Lake Mary Ronan,Montana State Park,N/A,47.925436,-114.38205
+23,Lewis and Clark Caverns,Montana State Park,N/A,45.8233,-111.855802
+24,Logan,Montana State Park,N/A,48.033448,-115.068296
+25,Lost Creek,Montana State Park,N/A,46.20201,-112.988245
+26,Makoshika,Montana State Park,N/A,47.075472,-104.69596
+27,Missouri Headwaters,Montana State Park,N/A,45.918072,-111.501754
+28,Painted Rocks,Montana State Park,N/A,45.683021,-114.300662
+29,Placid Lake,Montana State Park,N/A,47.118311,-113.501373
+30,Salmon Lake,Montana State Park,N/A,47.091896,-113.396934
+31,Tongue River Reservoir,Montana State Park,N/A,45.096343,-106.792517
+32,Wayfarers,Montana State Park,N/A,48.052872,-114.081817
+33,Whitefish Lake,Montana State Park,N/A,48.425002,-114.370359
+34,Yellow Bay,Montana State Park,N/A,47.876338,-114.028656
+35,Avalanche Creek,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.676546,-113.818525
+36,Fish Creek,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.550131,-113.982963
+37,Sprague Creek,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.605617,-113.885413
+38,Apgar,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.526081,-113.98186
+39,Many Glacier,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.796496,-113.67762
+40,Kintla Lake,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.935745,-114.34593
+41,Bowman Lake,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.829046,-114.20313
+42,Quartz Creek,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.722121,-114.224806
+43,Logging Creek,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.698455,-114.191656
+44,St Mary,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.751679,-113.442405
+45,Rising Sun,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.694532,-113.522684
+46,Cut  Bank,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.60183,-113.382903
+47,Two Medicine Lake,National Park Service,https://www.nps.gov/glac/planyourvisit/camping.htm,48.492115,-113.364071
