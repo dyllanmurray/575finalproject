@@ -44,7 +44,8 @@ function createMap(){
 			onEachFeature: addMyData,
 			color: 'grey',
 			fillColor: 'green' ,
-			fillOpacity: .6,
+            fillOpacity: .6,
+            outline: 'purple',
 			weight: .1,
 			opacity: 1
 		})
@@ -54,21 +55,67 @@ function createMap(){
         if(layer.feature.properties.PARKNAME == 'Yellowstone' ) {
         parks.addLayer(layer);
 
-        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/yell/index.htm");
+        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/yell/index.htm", closePopUpOnCLick = 'true');
         // layer.bindTooltip("National Park").openTooltip();
         } else if (layer.feature.properties.PARKNAME == 'Glacier' ) {
         parks.addLayer(layer);
-        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/glac/index.htm");
+        layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/glac/index.htm", closePopUpOnCLick = 'true');
         }
-
-        // parks.addLayer(layer);
-        // console.log(layer)
-        // layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE);
-        // // layer.popupContent(function(evt){console.log(evt)});
-        
-	};
+    };
+    let campgrounds = L.layerGroup()
+    let fishing = L.layerGroup()
+    let brew = L.layerGroup()
+    jQuery.getJSON( "data/campgrounds.geojson", function(json){
+		L.geoJSON(json, {
+			onEachFeature: addCamp,
+			color: 'blue',
+			fillColor: 'yellow' ,
+            // fillOpacity:
+			weight: 1,
+			opacity: 1
+		})
+    });
+    function addCamp(feature, layer){
+            campgrounds.addLayer(layer);
+            layer.bindTooltip("<b>State Campground:</b> " + layer.feature.properties.Name)
+            // layer.bindPopup(layer.feature.properties.URL)
+    }
+    jQuery.getJSON( "data/fishing.geojson", function(json){
+		L.geoJSON(json, {
+			onEachFeature: addFish,
+			color: 'black',
+			fillColor: 'yellow' ,
+            // fillOpacity:
+			weight: 1,
+			opacity: 1
+		})
+    });
+    function addFish(feature, layer){
+            fishing.addLayer(layer);
+            layer.bindTooltip("Fishing Access Site: " + layer.feature.properties.NAME)
+            layer.bindPopup("<p><b>Fishing Access Site: </b>" + layer.feature.properties.NAME + "</p><p><b>Camping: </b>" + layer.feature.properties.CAMPING + "</p> <p><b>Hunting: </b>" + layer.feature.properties.HUNTING + "</p> <p><b>Boat Facility: </b>" + layer.feature.properties.BOAT_FAC, closePopUpOnCLick = 'true')
+            // layer.bindPopup(layer.feature.properties.URL)
+    }
+    jQuery.getJSON( "data/brewery.geojson", function(json){
+		L.geoJSON(json, {
+			onEachFeature: addBrew,
+			color: 'blue',
+			fillColor: 'yellow' ,
+            // fillOpacity:
+			weight: 1,
+			opacity: 1
+		})
+    });
+    function addBrew(feature, layer){
+            brew.addLayer(layer);
+            layer.bindTooltip("<b>Name:</b> " + layer.feature.properties.Name)
+            // layer.bindPopup(layer.feature.properties.URL)
+    }
 	var overlayMaps = {
-		"National Parks": parks
+        "National Parks": parks,
+        "Campgrounds": campgrounds,
+        "Fishing Access": fishing,
+        "Breweries": brew
     };
     //add esri basemao tilelayer
     
@@ -97,7 +144,7 @@ function createPropSymbols(data, map, attributes){
 //Step 2: Import GeoJSON data
 function getData(map){
     //load the data
-    $.ajax("data/outsideTop25.geojson", {
+    $.ajax("data/airports.geojson", {
         dataType: "json",
         success: function(response){
             //call function to create proportional symbols
@@ -148,8 +195,8 @@ function pointToLayer(feature, latlng, attributes){
     var popupContent = "<p><b>City:</b> " + feature.properties.City + "</p>";
 
     //add formatted attribute to popup content string
-    var year = attribute.split("_")[1];
-    popupContent += "<p><b>Population in " + year + ":</b> " + feature.properties[attribute] + "</p>";
+    // var year = attribute.split("_")[1];
+    // popupContent += "<p><b>Population in " + year + ":</b> " + feature.properties[attribute] + "</p>";
     
     //bind the popup to the circle marker
     layer.bindPopup(popupContent);
@@ -338,7 +385,7 @@ function getCircleValues(map, attribute){
 
 function updateLegend(map, attribute){
     //create dynamic title
-    var year = attribute.split("_")[1];
+    // var year = attribute.split("_")[1];
     var content = "Population in " + year;
 
     //replace legend content
