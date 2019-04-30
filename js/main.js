@@ -1,5 +1,13 @@
 function createMap(){
     //create the map
+
+    let parks = L.layerGroup();
+    let campgrounds = L.layerGroup()
+    let fishing = L.layerGroup()
+    let brew = L.layerGroup()
+    let airports = L.layerGroup()
+
+
     //dark matter basemap
     var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -11,8 +19,6 @@ function createMap(){
      var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     });
-
-
     //add esri_ world physical basemap
     var Esri_WorldPhysical = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}', {
 	attribution: 'Tiles &copy; Esri &mdash; Source: US National Park Service',
@@ -22,8 +28,6 @@ function createMap(){
     var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
     });
-
-
     var baseMaps = {
         "Dark": CartoDB_DarkMatter,
         "Imagery": Esri_WorldImagery,
@@ -36,7 +40,6 @@ function createMap(){
         zoom: 7,
         layers: [Esri_WorldTopoMap]
     });
-	let parks = L.layerGroup();
 	
 	// cycle through geojson to get an array
 	jQuery.getJSON( "https://opendata.arcgis.com/datasets/b1598d3df2c047ef88251016af5b0f1e_0.geojson", function(json){
@@ -62,17 +65,11 @@ function createMap(){
         layer.bindPopup("<p><b>Park:</b> " + layer.feature.properties.PARKNAME +  "</p><b>State:</b> " + layer.feature.properties.STATE + "</p> <b>Learn More: </b> https://www.nps.gov/glac/index.htm", closePopUpOnCLick = 'true');
         }
     };
-    let campgrounds = L.layerGroup()
-    let fishing = L.layerGroup()
-    let brew = L.layerGroup()
+
     jQuery.getJSON( "data/campgrounds.geojson", function(json){
 		L.geoJSON(json, {
 			onEachFeature: addCamp,
-			color: 'blue',
-			fillColor: 'yellow' ,
-            // fillOpacity:
-			weight: 1,
-			opacity: 1
+
 		})
     });
     function addCamp(feature, layer){
@@ -83,11 +80,7 @@ function createMap(){
     jQuery.getJSON( "data/fishing.geojson", function(json){
 		L.geoJSON(json, {
 			onEachFeature: addFish,
-			color: 'black',
-			fillColor: 'yellow' ,
-            // fillOpacity:
-			weight: 1,
-			opacity: 1
+
 		})
     });
     function addFish(feature, layer){
@@ -96,26 +89,24 @@ function createMap(){
             layer.bindPopup("<p><b>Fishing Access Site: </b>" + layer.feature.properties.NAME + "</p><p><b>Camping: </b>" + layer.feature.properties.CAMPING + "</p> <p><b>Hunting: </b>" + layer.feature.properties.HUNTING + "</p> <p><b>Boat Facility: </b>" + layer.feature.properties.BOAT_FAC, closePopUpOnCLick = 'true')
             // layer.bindPopup(layer.feature.properties.URL)
     }
+      
     jQuery.getJSON( "data/brewery.geojson", function(json){
 		L.geoJSON(json, {
 			onEachFeature: addBrew,
-			color: 'blue',
-			fillColor: 'yellow' ,
-            // fillOpacity:
-			weight: 1,
-			opacity: 1
 		})
     });
     function addBrew(feature, layer){
+
             brew.addLayer(layer);
             layer.bindTooltip("<b>Name:</b> " + layer.feature.properties.Name)
-            // layer.bindPopup(layer.feature.properties.URL)
+        
     }
 	var overlayMaps = {
         "National Parks": parks,
         "Campgrounds": campgrounds,
         "Fishing Access": fishing,
-        "Breweries": brew
+        "Breweries": brew,
+        "Airports": airports
     };
     //add esri basemao tilelayer
     
@@ -129,7 +120,6 @@ function createMap(){
     
     getData(map);
 };
-
 
 //Add circle markers for point features to the map
 function createPropSymbols(data, map, attributes){
@@ -175,11 +165,11 @@ function pointToLayer(feature, latlng, attributes){
 
     //create marker options
     var options = {
-        fillColor: "#ffd204",
-        color: "#9b1e25",
+        fillColor: "#0066cc",
+        color: "#ffed10",
         weight: 1.5,
         opacity: 1,
-        fillOpacity: 0.8
+        fillOpacity: 0.5
     };
 
     //For each feature, determine its value for the selected attribute
@@ -192,7 +182,7 @@ function pointToLayer(feature, latlng, attributes){
     var layer = L.circleMarker(latlng, options);
 
     //build popup content string
-    var popupContent = "<p><b>City:</b> " + feature.properties.City + "</p>";
+    var popupContent = "<p><b>Airport:</b> " + feature.properties.Airport + "</p>";
 
     //add formatted attribute to popup content string
     // var year = attribute.split("_")[1];
@@ -275,11 +265,11 @@ function updatePropSymbols(map,attribute){
             layer.setRadius(radius);
             updateLegend(map, attribute);	
             //add city to popup content string
-            var popupContent = "<p><b>City:</b> " + props.City + "</p>";
+            var popupContent = "<p><b>City:</b> " + props.Airport + "</p>";
 
             //add formatted attribute to panel content string
             var year = attribute.split("_")[1];
-            popupContent += "<p><b>Population in " + year + ":</b> " + props[attribute] + "</p>";
+            popupContent += "<p><b>Ridership in " + year + ":</b> " + props[attribute] + "</p>";
 
             //replace the layer popup
             layer.bindPopup(popupContent, {
@@ -299,7 +289,7 @@ function processData(data){
     //push each attribute name into attributes array
     for (var attribute in properties){
         //only take attributes with population values
-        if (attribute.indexOf("Pop") > -1){
+        if (attribute.indexOf("year") > -1){
             attributes.push(attribute);
         };
     };
@@ -334,7 +324,7 @@ function createLegend(map, attributes){
         //loop to add each circle and text to svg string
         for (var circle in circles){
             //circle string
-            svg += '<circle class="legend-circle" id="' + circle + '" fill="#ffd204" fill-opacity="0.8" stroke="#9b1e25" cx="30"/>';
+            svg += '<circle class="legend-circle" id="' + circle + '" fill="#0066cc" fill-opacity="0.8" stroke="#ffed10" cx="30"/>';
 
             //text string
             svg += '<text id="' + circle + '-text" x="65" y="' + circles[circle] + '"></text>';
@@ -382,11 +372,10 @@ function getCircleValues(map, attribute){
     };
 };
 
-
 function updateLegend(map, attribute){
     //create dynamic title
-    // var year = attribute.split("_")[1];
-    var content = "Population in " + year;
+    var year = attribute.split("_")[1];
+    var content = "Ridership in " + year;
 
     //replace legend content
     $('#temporal-legend').html(content);

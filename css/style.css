@@ -9,18 +9,7 @@ html, body, #map {
     float: right;
     border-style: double
   }
-  
-  #panel {
-    float: left;
-    width: 26%;
-    padding: 20px;
-    /* display: inline-block; */
-    vertical-align: top;
-    text-align: center;
-    line-height: 30px;
-    background-color: white;
-    border-style: double
-  }
+
   
   body {
       /* background: linear-gradient(to right, #ffff66, #ffffcc); */
@@ -118,3 +107,18 @@ html, body, #map {
     color: blue;
     opacity: .8;
   }
+
+  
+#panel {
+    float: left;
+    width: 26%;
+    padding: 20px;
+    height: 750px;
+    /* display: inline-block; */
+    vertical-align: top;
+    text-align: center;
+    line-height: 30px;
+    background-color: white;
+    border-style: double;
+    overflow: scroll;
+  }  
