@@ -2,17 +2,17 @@ function createMap(){
     //create the map
 
     let parks = L.layerGroup();
-    let campgrounds = L.layerGroup()
-    let fishing = L.layerGroup()
-    let brew = L.layerGroup()
-    let airports = L.layerGroup()
+    let campgrounds = L.markerClusterGroup()
+    let fishing = L.markerClusterGroup()
+    let brew = L.markerClusterGroup()
+    let trails = L.markerClusterGroup()
+    // let airports = L.layerGroup()
 
 
     //dark matter basemap
-    var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 19
+    var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+        maxZoom: 16
     });
     
      //addesri imagery tilelayer
@@ -29,7 +29,7 @@ function createMap(){
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
     });
     var baseMaps = {
-        "Dark": CartoDB_DarkMatter,
+        "Grey": Esri_WorldGrayCanvas,
         "Imagery": Esri_WorldImagery,
         "Physical": Esri_WorldPhysical,
         "Topo": Esri_WorldTopoMap
@@ -74,9 +74,25 @@ function createMap(){
     });
     function addCamp(feature, layer){
             campgrounds.addLayer(layer);
-            layer.bindTooltip("<b>State Campground:</b> " + layer.feature.properties.Name)
-            // layer.bindPopup(layer.feature.properties.URL)
+            layer.bindTooltip("<b>Campground:</b> " + layer.feature.properties.Campground)
+            layer.bindPopup("<p><b>Campground:</b> " + layer.feature.properties.Campground + 
+            "</p><b>Type: </b>"+ layer.feature.properties.Type + 
+            "</p><b>Managing Agency: </b>"+ layer.feature.properties.Managed_by + 
+            "</p><b>Fee: </b>"+ layer.feature.properties.Fee,  closePopUpOnCLick = 'true')
     }
+
+    jQuery.getJSON( "data/trailhead.geojson", function(json){
+		L.geoJSON(json, {
+			onEachFeature: addTrail,
+
+		})
+    });
+    function addTrail(feature, layer){
+            trails.addLayer(layer);
+            layer.bindTooltip("<b>Trailhead:</b> " + layer.feature.properties.Name)
+            layer.bindPopup("<p><b>Trailhead:</b> " + layer.feature.properties.Name + "</p><b>National Forest: </b>"+ layer.feature.properties.National_Forest,  closePopUpOnCLick = 'true')
+    }
+
     jQuery.getJSON( "data/fishing.geojson", function(json){
 		L.geoJSON(json, {
 			onEachFeature: addFish,
@@ -95,31 +111,29 @@ function createMap(){
 			onEachFeature: addBrew,
 		})
     });
+    var markers = L.markerClusterGroup();
     function addBrew(feature, layer){
-
             brew.addLayer(layer);
             layer.bindTooltip("<b>Name:</b> " + layer.feature.properties.Name)
-        
     }
 	var overlayMaps = {
         "National Parks": parks,
         "Campgrounds": campgrounds,
         "Fishing Access": fishing,
         "Breweries": brew,
-        "Airports": airports
+        //"Airports": airports,
+        "Trailheads": trails
     };
     //add esri basemao tilelayer
     
     var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
     }).addTo(map);
-
-
-     
     L.control.layers(baseMaps, overlayMaps).addTo(map);
+    // getData(map);
     
-    getData(map);
 };
+
 
 //Add circle markers for point features to the map
 function createPropSymbols(data, map, attributes){
@@ -178,7 +192,6 @@ function pointToLayer(feature, latlng, attributes){
     //Give each feature's circle marker a radius based on its attribute value
     options.radius = calcPropRad(attValue);
 
-    //create circle marker layer
     var layer = L.circleMarker(latlng, options);
 
     //build popup content string

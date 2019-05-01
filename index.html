@@ -12,16 +12,33 @@
         crossorigin=""/>
         <link rel="stylesheet" href="css/style.css"
         crossorigin=""/>
+        <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css' rel='stylesheet' />
+        <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css' rel='stylesheet' />
 	          
     </head>
 
 	<body>
-            <h1 id="header"> Get To Know The Big Sky State            </h1>
-            <!-- <h2 id="header2">Population change 2010-2017</h2> -->
-      
-            <h3></h3>
+            <div id="header">Montana</div>
+            <div id="sidebar">
+                <div class="sidebar-wrapper">
+                  <div class="panel panel-default">
+                    <div class="sidebar-table">
+                      <table class="table table-hover" >
+                        <thead class="hidden">
+                        </thead>
+                        <tbody class="list"></tbody>
+                      </table>
+                      <table class="table table-hover">
+                        <thead class="hidden">
+                        </thead>
+                        <tbody class="list"></tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
         <div id="map"></div>      
-        <div id="panel">
+        <!-- <div id="panel">
             <h1>Background</h1>
             Outside Magazine publishes a list of 25 cities and towns every year that the editors believe to be idealic for their subscribers. 
             These cities and towns span all across the United States. These locations are great for people interested in craft beers, outside activities, and exceptional food!
@@ -32,24 +49,20 @@
             </p>
             <br>  
         </br>
-        
-        <!-- <h2>Sources:</h2>
-        <div id=sources></div>
-            <p>http://worldpopulationreview.com/us-cities/</p>
-            <p>https://www.outsideonline.com/2193631/best-towns-2017</p>
-            <p>https://public-nps.opendata.arcgis.com/datasets/<br></p>
-            <p>national-park-service-park-unit-boundaries</p>
-       </div>   -->
+         -->
     </body>
     
     <!--you can also use this space for internal scripts or stylesheets;
 		place these within <script> or <style> tags-->
 
 	<!--put your external script links here-->
-   	<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
-       <script src="lib/leaflet/leaflet.js"
-       crossorigin=""></script>   
+       <script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+       <!-- <script src="leaflet.markercluster.layersupport.js"></script> -->
+       <script src="lib/leaflet/leaflet.js" crossorigin=""></script>   
+       <script type="text/javascript" src= "lib/Leaflet.markercluster-1.4.1/dist/leaflet.markercluster.js"></script> 
        <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
        <script type="text/javascript" src="js/main.js"></script>
+       <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/leaflet.markercluster.js'></script>
+
        <!-- <script type= 'text/javascript' src='js/geojson.js'></script> -->
                 
