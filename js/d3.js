@@ -2,7 +2,7 @@
 (function() {  
 	
     // variables for joining data
-    var attrArray = ["Total Area of State","Acres owned by Fed Gov't", "% of State's Total Area Federally Owned", "Acres Owned by State", "% of State's Total Area State Owned", "BLM", "USFS", "NPS", "NWR", "Army Corps Engineers", "Military Bases", "Tribal Lands"];		
+    var attrArray = ["Total","Gas","Lodging",	"Restaurant",	"Visitors",	"Visit_Rank"];
     var expressed = attrArray[0];	// initial attribute
     
     //* Chart frame dimensions
@@ -32,33 +32,33 @@
         
         //* Create an Albers Equal Area Projection
         var projection = d3.geoAlbers()
-            .center([4.32,42]) 
-            .rotate([101.64,4.55,0])
-            .scale(950)
+            .center([-10,51.5]) 
+           .rotate([100,4,0])
+            .scale(5500)
             .translate([width /2, height / 2]);
     
         var path = d3.geoPath()
             .projection(projection);
         //* Use queue to parallelize asynchronous data loading
         d3.queue() 
-            .defer(d3.csv, "data/pubLand.csv") 	// Load attributes
-            .defer(d3.json,"data/US_States.topojson")	// Load choropleth data
+            .defer(d3.csv, "data/csv/MontanaCounties.csv") 	// Load attributes
+            .defer(d3.json,"data/montana_counties.topojson")	// Load choropleth data
             .await(callback);
         
             
         //This function is called when the data has loaded
-        function callback(error, csvData,usStates) {
+        function callback(error, csvData,mtCounties) {
             setGraticule(map, path);
-            var usStates = topojson.feature(usStates, usStates.objects.US_States).features;
+            var mtCounties = topojson.feature(mtCounties, mtCounties.objects.montana_counties).features;
             
             //Join CSV Data to US Shapes 
-            usStates = joinData(usStates,csvData);
+            mtCounties = joinData(mtCounties,csvData);
             
             //Create the color scale
             var colorScale = makeColorScale(csvData);
             
             //Add enumerations units to the map 
-            setEnumerationUnits(usStates, map, path,colorScale);
+            setEnumerationUnits(mtCounties, map, path,colorScale);
     
             //Add Chart to the map and display bars in the chart
             setChart(csvData,colorScale);
@@ -86,16 +86,16 @@
             .attr("d", path); //project graticule lines
         };
     
-        function setEnumerationUnits(usStates, map, path, colorScale) {
+        function setEnumerationUnits(mtCounties, map, path, colorScale) {
             
-            var usa = map.selectAll(".STATE_ABBR")	
-                .data(usStates)
+            var mt = map.selectAll(".NAME")	
+                .data(mtCounties)
                 .enter()
                 .append("path")
                 .attr("class",function(d) {
     
                     //* Print state name
-                    return "state " + d.properties.STATE_ABBR;	
+                    return "county " + d.properties.NAME;	
                     
                 })
                 .attr("d",path)
@@ -115,15 +115,15 @@
                 //* listener for labeling each state or bar
                 .on("mousemove", moveLabel);
             //* Add a style descriptor to each path 
-            var desc = usa.append("desc")
+            var desc = mt.append("desc")
                 .text('{"stroke": "#000", "stroke-widht": "0.5px"}');
     
         }; //* end setEnumerationUnits()
         
-        function joinData(usStates,csvData) {
+        function joinData(mtCounties,csvData) {
             
             //* Columns used to Join data to US States
-            var attrArray = ["Total Area of State", "Acres owned by Fed Gov't", "% of State's Total Area Federally Owned","Acres Owned by State", "% of State's Total Area State Owned", "BLM", "USFS", "NPS", "NWR", "Army Corps Engineers", "Military Bases", "Tribal Lands"];
+            var attrArray = ["Total","Gas","Lodging",	"Restaurant",	"Visitors",	"Visit_Rank"];;
     
             var expressed = attrArray[1];	// initial attribute
             
@@ -137,16 +137,16 @@
                 
                 //* Primary key of CSV/Attribute file
                 //* Ex. AK, AL, etc
-                var csvKey = csvState.STATE_ABBR;
+                var csvKey = csvState.NAME;
                 
-                var test = usStates[i].properties;
+                var test = mtCounties[i].properties;
                 //* Loop through the US States to find matching attribute
-                for (var a = 0; a < usStates.length; a++){
+                for (var a = 0; a < mtCounties.length; a++){
                     //* Current US State 
-                    var geojsonProps = usStates[a].properties;
+                    var geojsonProps = mtCounties[a].properties;
                 
                     //* Primary key of the CSV/Attribute File
-                    var geojsonKey = geojsonProps.STATE_ABBR;
+                    var geojsonKey = geojsonProps.NAME;
                 
                 
                     if (geojsonKey == csvKey) {	
@@ -161,11 +161,11 @@
                         
                     }; // end if (geojsonKey)
                     
-                }; //* end for loop usStates()
+                }; //* end for loop mtCounties()
                 
             }; //* end for loop csvData.length()
             
-            return usStates;
+            return mtCounties;
         }; 
         
     };  //* end setMap()
@@ -176,8 +176,8 @@
         var colorClasses = [
             // '#8c510a','#d8b365','#f6e8c3','#c7eae5','#5ab4ac','#01665e'
             // '#ca0020','#f4a582','#f7f7f7','#92c5de','#0571b0'
-            // '#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#c7eae5','#80cdc1','#35978f','#01665e','#003c30'
-            '#d7191c','#fdae61','#ffffbf','#a6d96a','#1a9641'
+            '#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#c7eae5','#80cdc1','#35978f','#01665e','#003c30'
+            //'#d7191c','#fdae61','#1a9641'
         ];
     
         //* Create quantile color scale generator
@@ -222,7 +222,7 @@
                 return b[expressed] - a[expressed]
             })
             .attr("class", function(d){
-                return "bar " + d.STATE_ABBR;
+                return "bar " + d.NAME;
             })
             .attr("width", chartInnerWidth / csvData.length - 1)
             .on("mouseover", highlight)
@@ -255,7 +255,7 @@
     //* Function to reset the element style on mouseout	
     function dehighlight(props) {
         
-        var selected = d3.selectAll("." + props.STATE_ABBR)
+        var selected = d3.selectAll("." + props.NAME)
             .style("stroke", function() {
                 return getStyle(this,"stroke")	
             })
@@ -352,42 +352,42 @@
             .call(yAxis);
     
         //* Update Chart Title
-        if (expressed == "Total Area of State") {
-            newTitle = "Total Area of State";
+        if (expressed == "Total") {
+            newTitle = "Total";
             secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "Acres owned by Fed Gov't"){
-            newTitle = "Acres owned by Fed Gov't";
+        } else if (expressed == "Gas"){
+            newTitle = "Gas";
             secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "% of State's Total Area Federally Owned"){
-            newTitle = "Percent of State's Total Area Federally Owned";
-            secondTitle = ''
-        } else if (expressed == "Acres Owned by State"){
-            newTitle = "Acres Owned by State";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "% of State's Total Area State Owned"){
-            newTitle = "Percent of State's Total Area State Owned";
+        // } else if (expressed == "% of State's Total Area Federally Owned"){
+        //     newTitle = "Percent of State's Total Area Federally Owned";
+        //     secondTitle = ''
+        // } else if (expressed == "Acres Owned by State"){
+        //     newTitle = "Acres Owned by State";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "% of State's Total Area State Owned"){
+        //     newTitle = "Percent of State's Total Area State Owned";
             
-        } else if (expressed == "BLM"){
-            newTitle = "BLM";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "USFS"){
-            newTitle = "USFS";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "NPS"){
-            newTitle = "NPS";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "NWR"){
-            newTitle = "NWR";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "Army Corps Engineers"){
-            newTitle = "Army Corps Engineers";
-            secondTitle = "Thousands (000's) Acres";
-        } else if (expressed == "Military Bases"){
-            newTitle = "Military Bases";
-            secondTitle = "Thousands (000's) Acres";
-        } else {
-            newTitle = "Tribal Lands";
-            secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "BLM"){
+        //     newTitle = "BLM";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "USFS"){
+        //     newTitle = "USFS";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "NPS"){
+        //     newTitle = "NPS";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "NWR"){
+        //     newTitle = "NWR";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "Army Corps Engineers"){
+        //     newTitle = "Army Corps Engineers";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else if (expressed == "Military Bases"){
+        //     newTitle = "Military Bases";
+        //     secondTitle = "Thousands (000's) Acres";
+        // } else {
+        //     newTitle = "Tribal Lands";
+        //     secondTitle = "Thousands (000's) Acres";
         };
             
         
@@ -403,7 +403,7 @@
         
     }; 
     function highlight(props) {
-        var selected = d3.selectAll("." + props.STATE_ABBR)	
+        var selected = d3.selectAll("." + props.NAME)	
             .style("stroke", "blue")
             .style("opacity", .5)			
             .style("stroke-width","2");		
@@ -424,7 +424,7 @@
             .domain([0,max])
             .nice();
         
-        var state = d3.selectAll(".state")
+        var state = d3.selectAll(".county")
         
             .transition()
             .duration(1000)
@@ -462,12 +462,12 @@
         var infolabel = d3.select("body")
             .append("div")
             .attr("class", "infolabel")
-            .attr("id", props.STATE_ABBR + "_label")
+            .attr("id", props.NAME + "_label")
             .html(labelAttribute);
         
         var stateName = infolabel.append("div")
             .attr("class", "labelname")
-            .html(props.STATE_ABBR);
+            .html(props.NAME);
         
     }; //* end setLabel()
     
