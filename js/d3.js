@@ -174,9 +174,9 @@
     //* Color Scale Generator
     function makeColorScale(data) {
         var colorClasses = [
-            // '#8c510a','#d8b365','#f6e8c3','#c7eae5','#5ab4ac','#01665e'
+            '#8c510a','#d8b365','#f6e8c3','#c7eae5','#5ab4ac','#01665e'
             // '#ca0020','#f4a582','#f7f7f7','#92c5de','#0571b0'
-            '#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#c7eae5','#80cdc1','#35978f','#01665e','#003c30'
+            // '#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#c7eae5','#80cdc1','#35978f','#01665e','#003c30'
             //'#d7191c','#fdae61','#1a9641'
         ];
     

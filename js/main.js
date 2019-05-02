@@ -38,6 +38,7 @@ function createMap(){
     var map = L.map('map', {
         center: [46.894, -110.218],
         zoom: 7,
+        minZoom: 7,
         layers: [Esri_WorldTopoMap]
     });
 	
@@ -130,7 +131,7 @@ function createMap(){
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
     }).addTo(map);
     L.control.layers(baseMaps, overlayMaps).addTo(map);
-    // getData(map);
+    getData(map);
     
 };
 
@@ -407,5 +408,10 @@ function updateLegend(map, attribute){
         //Step 4: add legend text
         $('#'+key+'-text').text(Math.round((circleValues[key]*100)/100));
     };
+};
+
+function bozeman(){
+    var marker = L.marker([lat, lng],{}).addTo(map);
+    map.flyTo([lat, lng], zoom);
 };
 $(document).ready(createMap);

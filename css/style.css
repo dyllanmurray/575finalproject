@@ -6,13 +6,11 @@
 html, body, #container {
   height: 100%;
   width: 100%;
-  overflow: auto;
+  overflow: inherit;
 }
 body {
   padding-top: 50px;
-}
-input[type="radio"], input[type="checkbox"] {
-  margin: 0;
+  background-image: 'img/mt.jpg'
 }
 #sidebar {
   width: 250px;
@@ -25,8 +23,9 @@ input[type="radio"], input[type="checkbox"] {
 }
 #map {
   background-color: #686363;
-  width: auto;
+  width: 75%;
   height: 100%;
+  
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
   
