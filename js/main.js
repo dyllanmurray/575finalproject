@@ -344,11 +344,13 @@ L.TopoJSON = L.GeoJSON.extend({
 
         "State Parks": stateParks,
         "National Parks": parks,
+
+        "Airports": airports
         
     }
 
 
-        // "Airports": airports,
+        //
 
     //add esri basemao tilelayer
     
@@ -358,13 +360,7 @@ L.TopoJSON = L.GeoJSON.extend({
     
     L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
 
-
-    // map.addControl( new L.Control.PanelLayers(baseMaps, overlayMaps) );
-    
-    // function loadAir(map){
-    // var airports = getData(map)
-    // }
-    // getData(map);
+    getData(airports);
     
 };
 
