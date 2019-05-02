@@ -349,6 +349,7 @@
             .call(yAxis);
     
         //* Update Chart Title
+        // this is bullshit
         if (expressed == "Total") {
             newTitle = "Total Spending";
             secondTitle = "2017 Non-Resident Tourism Dollars Spent by County";
