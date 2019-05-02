@@ -41,7 +41,6 @@ function createMap(){
         minZoom: 7,
         layers: [Esri_WorldTopoMap]
     });
-	
 	// cycle through geojson to get an array
 	jQuery.getJSON( "https://opendata.arcgis.com/datasets/b1598d3df2c047ef88251016af5b0f1e_0.geojson", function(json){
 		L.geoJSON(json, {
@@ -69,62 +68,60 @@ function createMap(){
 
 
     /////CAMPGROUND //////
-    jQuery.getJSON( "data/campgrounds.geojson", function(json){
-		L.geoJSON(json, {
-			onEachFeature: addCamp,
 
-		})
+    var campIcon = L.icon({
+        iconUrl: 'img/camping.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
-
-    function addCamp(feature, layer){
-            campgrounds.addLayer(layer);
-            layer.bindTooltip("<b>Campground:</b> " + layer.feature.properties.Campground)
-            layer.bindPopup("<p><b>Campground:</b> " + layer.feature.properties.Campground + 
-            "</p><b>Type: </b>"+ layer.feature.properties.Type + 
-            "</p><b>Managing Agency: </b>"+ layer.feature.properties.Managed_by + 
-            "</p><b>Fee: </b>"+ layer.feature.properties.Fee,  closePopUpOnCLick = 'true')
-    }
-
+    
+    breweryLayer = jQuery.getJSON( "data/campgrounds.geojson", function(json){
+		L.geoJSON(json, {
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: campIcon}).bindPopup("<p><b>Campground:</b> " + feature.properties.Campground + 
+            "</p><b>Type: </b>"+ feature.properties.Type + 
+            "</p><b>Managing Agency: </b>"+ feature.properties.Managed_by + 
+            "</p><b>Fee: </b>"+ feature.properties.Fee,  closePopUpOnCLick = 'true');
+            }
+		}).addTo(campgrounds)
+    });
     ///END CAMPGROUND ////
-
-
     ////// TRAILHEAD /////
-    jQuery.getJSON( "data/trailhead.geojson", function(json){
-		L.geoJSON(json, {
-			onEachFeature: addTrail,
 
-		})
+    var trailIcon = L.icon({
+        iconUrl: 'img/trailhead.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
-    function addTrail(feature, layer){
-            trails.addLayer(layer);
-            layer.bindTooltip("<b>Trailhead:</b> " + layer.feature.properties.Name)
-            layer.bindPopup("<p><b>Trailhead:</b> " + layer.feature.properties.Name + "</p><b>National Forest: </b>"+ layer.feature.properties.National_Forest,  closePopUpOnCLick = 'true')
-    }
-
+    
+    breweryLayer = jQuery.getJSON( "data/trailhead.geojson", function(json){
+		L.geoJSON(json, {
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: trailIcon}).bindTooltip("<b>Trailhead:</b> " + feature.properties.Name).bindPopup("<p><b>Trailhead:</b> " + feature.properties.Name + "</p><b>National Forest: </b>"+ feature.properties.National_Forest,  closePopUpOnCLick = 'true');
+            }
+		}).addTo(trails)
+    });
     ////END TrailHEAD
-
-    // jQuery.getJSON( "data/fishing.geojson", function(json){
-	// 	L.geoJSON(json, {
-	// 		onEachFeature: addFish,
-
-	// 	})
-    // });
-    // function addFish(feature, layer){
-    //         fishing.addLayer(layer);
-    //         layer.bindTooltip("Fishing Access Site: " + layer.feature.properties.NAME)
-    //         layer.bindPopup("<p><b>Fishing Access Site: </b>" + layer.feature.properties.NAME + "</p><p><b>Camping: </b>" + layer.feature.properties.CAMPING + "</p> <p><b>Hunting: </b>" + layer.feature.properties.HUNTING + "</p> <p><b>Boat Facility: </b>" + layer.feature.properties.BOAT_FAC, closePopUpOnCLick = 'true')
-    //         // layer.bindPopup(layer.feature.properties.URL)
-    // }
       ////// FISHING
     var fishIcon = L.icon({
         iconUrl: 'img/fishing.png',
         // shadowUrl: 'img/fishing.png',
     
-        iconSize:     [30, 50], // size of the icon
+        iconSize:     [20, 20], // size of the icon
         // shadowSize:   [50, 64], // size of the shadow
-        iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
         // shadowAnchor: [4, 62],  // the same for the shadow
-        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
     
     myLayer = jQuery.getJSON( "data/fishing.geojson", function(json){
@@ -134,31 +131,33 @@ function createMap(){
             }
 		}).addTo(fishing)
     });
-
     //// END FISHING
-
-
     //// BREWERy////
-
-    jQuery.getJSON( "data/brewery.geojson", function(json){
-		L.geoJSON(json, {
-			onEachFeature: addBrew,
-		})
+    var brewIcon = L.icon({
+        iconUrl: 'img/brewery.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
-
-    function addBrew(feature, layer){
-            brew.addLayer(layer);
-            layer.bindTooltip("<b>Name:</b> " + layer.feature.properties.Name)
-    }
-
+    
+    breweryLayer = jQuery.getJSON( "data/brewery.geojson", function(json){
+		L.geoJSON(json, {
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: brewIcon}).bindTooltip("<p><b>Brewery: </b>" + feature.properties.Name);
+            }
+		}).addTo(brew)
+    });
         //////// END BREWERY
-
 	var overlayMaps = {
         "National Parks": parks,
         "Campgrounds": campgrounds,
         "Fishing Access": fishing,
         "Breweries": brew,
-        "Airports": airports,
+        // "Airports": airports,
         "Trailheads": trails
     };
     //add esri basemao tilelayer
@@ -184,7 +183,7 @@ function createPropSymbols(data, map, attributes){
         pointToLayer: function(feature, latlng){
             return pointToLayer(feature, latlng, attributes);
         }
-    }).addTo(map);
+    }).addTo(airports);
 };
 
 //Step 2: Import GeoJSON data
@@ -356,7 +355,8 @@ function processData(data){
 };
 
 function createLegend(map, attributes){
-	var LegendControl = L.Control.extend({
+    
+    var LegendControl = L.Control.extend({
 		options: {
             position: 'bottomright'
         },
