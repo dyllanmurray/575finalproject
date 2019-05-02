@@ -6,6 +6,10 @@ function createMap(){
     let fishing = L.markerClusterGroup()
     let brew = L.markerClusterGroup()
     let trails = L.markerClusterGroup()
+    let cities =L.markerClusterGroup()
+    let wine = L.layerGroup()
+    let university = L.markerClusterGroup()
+    let stateParks = L.layerGroup()
     // let airports = L.layerGroup()
 
 
@@ -36,12 +40,11 @@ function createMap(){
     };
 
     var map = L.map('map', {
-        center: [46.894, -110.218],
+        center: [47, -109.4],
         zoom: 7,
         minZoom: 7,
-        layers: [Esri_WorldTopoMap]
+        layers: [Esri_WorldGrayCanvas]
     });
-	
 	// cycle through geojson to get an array
 	jQuery.getJSON( "https://opendata.arcgis.com/datasets/b1598d3df2c047ef88251016af5b0f1e_0.geojson", function(json){
 		L.geoJSON(json, {
@@ -67,74 +70,301 @@ function createMap(){
         }
     };
 
-    jQuery.getJSON( "data/campgrounds.geojson", function(json){
-		L.geoJSON(json, {
-			onEachFeature: addCamp,
+        ////// UNI //
+        var uniIcon = L.icon({
+            iconUrl: 'img/college.png',
+            // shadowUrl: 'img/fishing.png',
+        
+            iconSize:     [20, 20], // size of the icon
+            // shadowSize:   [50, 64], // size of the shadow
+            iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+            // shadowAnchor: [4, 62],  // the same for the shadow
+            popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+        });
+        
+        campLayer = jQuery.getJSON( "data/university.geojson", function(json){
+            L.geoJSON(json, {
+                pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: uniIcon}).bindPopup(
+                    "<p><b>Name:</b> " + feature.properties.NAME + 
+                "<p><b>City:</b> "  +  feature.properties.CITY +
+                "<p><b>City Population:</b> "  +  feature.properties.POPULATION +
+                "<p><b>Total Enrollment:</b> "  +  feature.properties.TOT_ENROLL,  closePopUpOnCLick = 'true');
+                }
+            }).addTo(university)
+        });
 
-		})
+    /////CAMPGROUND //////
+
+// var camp_fee = L.geoJson(campLayer, {filter: campFeeFilter}).addTo(campground_fee);
+
+    var campIcon = L.icon({
+        iconUrl: 'img/camping.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
     });
-    function addCamp(feature, layer){
-            campgrounds.addLayer(layer);
-            layer.bindTooltip("<b>Campground:</b> " + layer.feature.properties.Campground)
-            layer.bindPopup("<p><b>Campground:</b> " + layer.feature.properties.Campground + 
-            "</p><b>Type: </b>"+ layer.feature.properties.Type + 
-            "</p><b>Managing Agency: </b>"+ layer.feature.properties.Managed_by + 
-            "</p><b>Fee: </b>"+ layer.feature.properties.Fee,  closePopUpOnCLick = 'true')
-    }
-
-    jQuery.getJSON( "data/trailhead.geojson", function(json){
+    
+    campLayer = jQuery.getJSON( "data/campgrounds.geojson", function(json){
 		L.geoJSON(json, {
-			onEachFeature: addTrail,
-
-		})
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: campIcon}).bindPopup("<p><b>Campground:</b> " + feature.properties.Campground + 
+            "</p><b>Type: </b>"+ feature.properties.Type + 
+            "</p><b>Managing Agency: </b>"+ feature.properties.Managed_by + 
+            "</p><b>Fee: </b>"+ feature.properties.Fee,  closePopUpOnCLick = 'true');
+            }
+		}).addTo(campgrounds)
     });
-    function addTrail(feature, layer){
-            trails.addLayer(layer);
-            layer.bindTooltip("<b>Trailhead:</b> " + layer.feature.properties.Name)
-            layer.bindPopup("<p><b>Trailhead:</b> " + layer.feature.properties.Name + "</p><b>National Forest: </b>"+ layer.feature.properties.National_Forest,  closePopUpOnCLick = 'true')
-    }
+    ///END CAMPGROUND ////
+    ////// TRAILHEAD /////
 
-    jQuery.getJSON( "data/fishing.geojson", function(json){
+    var trailIcon = L.icon({
+        iconUrl: 'img/trailhead.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+    });
+    
+    trailLayer = jQuery.getJSON( "data/trailhead.geojson", function(json){
 		L.geoJSON(json, {
-			onEachFeature: addFish,
-
-		})
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: trailIcon}).bindTooltip("<b>Trailhead:</b> " + feature.properties.Name).bindPopup("<p><b>Trailhead:</b> " + feature.properties.Name + "</p><b>National Forest: </b>"+ feature.properties.National_Forest,  closePopUpOnCLick = 'true');
+            }
+		}).addTo(trails)
     });
-    function addFish(feature, layer){
-            fishing.addLayer(layer);
-            layer.bindTooltip("Fishing Access Site: " + layer.feature.properties.NAME)
-            layer.bindPopup("<p><b>Fishing Access Site: </b>" + layer.feature.properties.NAME + "</p><p><b>Camping: </b>" + layer.feature.properties.CAMPING + "</p> <p><b>Hunting: </b>" + layer.feature.properties.HUNTING + "</p> <p><b>Boat Facility: </b>" + layer.feature.properties.BOAT_FAC, closePopUpOnCLick = 'true')
-            // layer.bindPopup(layer.feature.properties.URL)
-    }
-      
-    jQuery.getJSON( "data/brewery.geojson", function(json){
+    ////END TrailHEAD
+      ////// FISHING
+    var fishIcon = L.icon({
+        iconUrl: 'img/fishing.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [20, 20], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+    });
+    
+    myLayer = jQuery.getJSON( "data/fishing.geojson", function(json){
 		L.geoJSON(json, {
-			onEachFeature: addBrew,
-		})
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: fishIcon}).bindPopup("<p><b>Fishing Access Site: </b>" + feature.properties.NAME + "</p><p><b>Camping: </b>" + feature.properties.CAMPING + "</p> <p><b>Hunting: </b>" + feature.properties.HUNTING + "</p> <p><b>Boat Facility: </b>" + feature.properties.BOAT_FAC, closePopUpOnCLick = 'true');
+            }
+		}).addTo(fishing)
     });
-    var markers = L.markerClusterGroup();
-    function addBrew(feature, layer){
-            brew.addLayer(layer);
-            layer.bindTooltip("<b>Name:</b> " + layer.feature.properties.Name)
+    //// END FISHING
+    //// BREWERy////
+    var brewIcon = L.icon({
+        iconUrl: 'img/brewery.png',
+        // shadowUrl: 'img/fishing.png',
+    
+        iconSize:     [30, 30], // size of the icon
+        // shadowSize:   [50, 64], // size of the shadow
+        iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+        // shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+    });
+    
+    breweryLayer = jQuery.getJSON( "data/brewery.geojson", function(json){
+		L.geoJSON(json, {
+            pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: brewIcon}).bindTooltip("<p><b>Brewery: </b>" + feature.properties.Name);
+            }
+		}).addTo(brew)
+    });
+        //////// END BREWERY
+
+
+        //// citites///
+        var cityIcon = L.icon({
+            iconUrl: 'img/home.png',
+            // shadowUrl: 'img/fishing.png',
+        
+            iconSize:     [15, 15], // size of the icon
+            // shadowSize:   [50, 64], // size of the shadow
+            iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+            // shadowAnchor: [4, 62],  // the same for the shadow
+            popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+        });
+        
+        citiesLayer = jQuery.getJSON( "data/cities.geojson", function(json){
+            L.geoJSON(json, {
+                pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: cityIcon}).bindPopup("<p><b>City: </b>" + feature.properties.Name + "</p><p><b>County: </b>" + feature.properties.County + "</p> <p><b>Population in 2010 </b>" + feature.properties.Pop_2010 + "</p> <p><b>Type: </b>" + feature.properties.Type, closePopUpOnCLick = 'true');
+                }
+            }).addTo(cities)
+        });
+
+//////WINERY ////
+
+        var wineIcon = L.icon({
+            iconUrl: 'img/winery.png',
+            // shadowUrl: 'img/fishing.png',
+        
+            iconSize:     [30, 30], // size of the icon
+            // shadowSize:   [50, 64], // size of the shadow
+            iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
+            // shadowAnchor: [4, 62],  // the same for the shadow
+            popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+        });
+        
+        wineLayer = jQuery.getJSON( "data/wineries.geojson", function(json){
+            L.geoJSON(json, {
+                pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: wineIcon}).bindPopup("<p><b>Winery: </b>" + feature.properties.Winery+ "</p><p><b>Address: </b>" + feature.properties.Address);
+                }
+            }).addTo(wine)
+        });
+///////// TOPOJSON STATE PARKS
+L.TopoJSON = L.GeoJSON.extend({
+    addData: function (data) {
+      var geojson, key;
+      if (data.type === "Topology") {
+        for (key in data.objects) {
+          if (data.objects.hasOwnProperty(key)) {
+            geojson = topojson.feature(data, data.objects[key]);
+            L.GeoJSON.prototype.addData.call(this, geojson);
+          }
+        }
+        return this;
+      }
+      L.GeoJSON.prototype.addData.call(this, data);
+      return this;
     }
-	var overlayMaps = {
-        "National Parks": parks,
-        "Campgrounds": campgrounds,
-        "Fishing Access": fishing,
+  });
+  L.topoJson = function (data, options) {
+    return new L.TopoJSON(data, options);
+  };
+  //create an empty geojson layer
+  //with a style and a popup on click
+  var geojson = L.topoJson(null, {
+    style: function(feature){
+      return {
+        color: "#459F69",
+        opacity: 1,
+        weight: 1.5,
+        fillColor: '#007AC0',
+        fillOpacity: 0.5
+      }
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup('<p><b> Name: </b>'+feature.properties.NAME+'</p>' + 
+      '<p><b> Acres: </b>'+feature.properties.ACRES+'</p>' + 
+      '<p><b>Camping: </b>'+feature.properties.CAMPING+'</p>' +
+      '<p><b>Hunting: </b>'+feature.properties.HUNTING+'</p>'+
+      '<p><b>Boat Facilities: </b>'+feature.properties.BOAT_FAC+'</p>'+
+      '<p><b>Camping: </b>'+feature.properties.CAMPING+'</p>')
+    }
+  }).addTo(stateParks);
+  //fill: #317581;
+  //define a function to get and parse geojson from URL
+  async function getGeoData(url) {
+    let response = await fetch(url);
+    let data = await response.json();
+    console.log(data)
+    return data;
+  }
+  
+  //fetch the geojson and add it to our geojson layer
+  getGeoData('data/state_parks.topojson').then(data => geojson.addData(data));
+
+
+
+
+  L.TopoJSON = L.GeoJSON.extend({
+    addData: function (data) {
+      var geojson, key;
+      if (data.type === "Topology") {
+        for (key in data.objects) {
+          if (data.objects.hasOwnProperty(key)) {
+            geojson = topojson.feature(data, data.objects[key]);
+            L.GeoJSON.prototype.addData.call(this, geojson);
+          }
+        }
+        return this;
+      }
+      L.GeoJSON.prototype.addData.call(this, data);
+      return this;
+    }
+  });
+  L.topoJson = function (data, options) {
+    return new L.TopoJSON(data, options);
+  };
+  //create an empty geojson layer
+  //with a style and a popup on click
+  var geojsonMT = L.topoJson(null, {
+    style: function(feature){
+      return {
+        color: "#748555",
+        opacity: 1,
+        weight: 1,
+        fillColor: '#dbdbdb',
+        fillOpacity: .3
+      }
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup('<p>'+feature.properties.NAME+ ' County')
+    }
+  }).addTo(map);
+  //fill: #317581;
+  //define a function to get and parse geojson from URL
+  async function getGeoData(url) {
+    let response = await fetch(url);
+    let data = await response.json();
+    console.log(data)
+    return data;
+  }
+  
+  //fetch the geojson and add it to our geojson layer
+  getGeoData('data/mT.topojson').then(data => geojsonMT.addData(data));
+
+
+
+
+
+        ///////////////////
+
+	var overlayMaps = {   
+        "Cities and Towns": cities,
+        "Universities": university,
         "Breweries": brew,
-        //"Airports": airports,
-        "Trailheads": trails
-    };
+        "Wineries": wine,
+
+        "Campgrounds": campgrounds,
+        "Trailheads": trails,
+        "Fishing Access": fishing,
+
+        "State Parks": stateParks,
+        "National Parks": parks,
+
+        "Airports": airports
+        
+    }
+
+
+        //
+
     //add esri basemao tilelayer
     
-    var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
-    }).addTo(map);
-    L.control.layers(baseMaps, overlayMaps).addTo(map);
-    getData(map);
+    // var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    //     attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
+    // }).addTo(map);
+    
+    L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
+
+    getData(airports);
     
 };
 
+var airports = L.layerGroup();
 
 //Add circle markers for point features to the map
 function createPropSymbols(data, map, attributes){
@@ -143,7 +373,7 @@ function createPropSymbols(data, map, attributes){
         pointToLayer: function(feature, latlng){
             return pointToLayer(feature, latlng, attributes);
         }
-    }).addTo(map);
+    }).addTo(airports);
 };
 
 //Step 2: Import GeoJSON data
@@ -315,7 +545,8 @@ function processData(data){
 };
 
 function createLegend(map, attributes){
-	var LegendControl = L.Control.extend({
+    
+    var LegendControl = L.Control.extend({
 		options: {
             position: 'bottomright'
         },
@@ -410,8 +641,4 @@ function updateLegend(map, attribute){
     };
 };
 
-function bozeman(){
-    var marker = L.marker([lat, lng],{}).addTo(map);
-    map.flyTo([lat, lng], zoom);
-};
 $(document).ready(createMap);
