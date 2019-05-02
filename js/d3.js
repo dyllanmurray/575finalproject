@@ -1,4 +1,3 @@
-
 (function() {  
 	
     // variables for joining data
@@ -32,8 +31,8 @@
         
         //* Create an Albers Equal Area Projection
         var projection = d3.geoAlbers()
-            .center([-10,51.5]) 
-           .rotate([100,4,0])
+            .center([-0.0,51.1]) 
+            .rotate([110,4.3])
             .scale(5500)
             .translate([width /2, height / 2]);
     
@@ -70,7 +69,7 @@
         function setGraticule(map, path){
             //create graticule generator
             var graticule = d3.geoGraticule()
-            .step([5, 5]); //place graticule lines every 5 degrees of longitude and latitude
+            .step([2, 2]); //place graticule lines every 2 degrees of longitude and latitude
             //create graticule background
             var gratBackground = map.append("path")
             .datum(graticule.outline()) //bind graticule background
@@ -174,10 +173,7 @@
     //* Color Scale Generator
     function makeColorScale(data) {
         var colorClasses = [
-            '#8c510a','#d8b365','#f6e8c3','#c7eae5','#5ab4ac','#01665e'
-            // '#ca0020','#f4a582','#f7f7f7','#92c5de','#0571b0'
-            // '#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#c7eae5','#80cdc1','#35978f','#01665e','#003c30'
-            //'#d7191c','#fdae61','#1a9641'
+            '#edf8e9', '#c7e9c0', '#a1d99b', '#74c476', '#31a354', '#006d2c'
         ];
     
         //* Create quantile color scale generator
@@ -353,50 +349,32 @@
     
         //* Update Chart Title
         if (expressed == "Total") {
-            newTitle = "Total";
-            secondTitle = "Thousands (000's) Acres";
+            newTitle = "Total Spending";
+            secondTitle = "2017 Non-Resident Tourism Dollars Spent by County";
         } else if (expressed == "Gas"){
-            newTitle = "Gas";
-            secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "% of State's Total Area Federally Owned"){
-        //     newTitle = "Percent of State's Total Area Federally Owned";
-        //     secondTitle = ''
-        // } else if (expressed == "Acres Owned by State"){
-        //     newTitle = "Acres Owned by State";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "% of State's Total Area State Owned"){
-        //     newTitle = "Percent of State's Total Area State Owned";
-            
-        // } else if (expressed == "BLM"){
-        //     newTitle = "BLM";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "USFS"){
-        //     newTitle = "USFS";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "NPS"){
-        //     newTitle = "NPS";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "NWR"){
-        //     newTitle = "NWR";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "Army Corps Engineers"){
-        //     newTitle = "Army Corps Engineers";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else if (expressed == "Military Bases"){
-        //     newTitle = "Military Bases";
-        //     secondTitle = "Thousands (000's) Acres";
-        // } else {
-        //     newTitle = "Tribal Lands";
-        //     secondTitle = "Thousands (000's) Acres";
+            newTitle = "Gas Spending";
+            secondTitle = "2017 Non-Resident Tourism Dollars Spent on Gas by County";
+        } else if (expressed == "Lodging"){
+            newTitle = "Lodging Spending";
+            secondTitle = "2017 Non-Resident Tourism Dollars Spent on Lodging by County";
+        } else if (expressed == "Restaurants"){
+            newTitle = "Restaurant Spending";
+            secondTitle = "2017 Non-Resident Tourism Dollars Spent on Restaurants by County";
+        } else if (expressed == "Visitors"){
+            newTitle = "Total Vistitors";
+            secondTitle = "2017 Resident Visits with an Overnight Stay by County";
+        } else if (expressed == "Visit_Rank"){
+            newTitle = "Counties Ranked by Most Visited";
+            secondTitle = "Mob-Rule.com Ranking of Each County by the Most to Least Visited";
         };
             
         
         var chartTitle = d3.select(".chartTitle")
             .text(newTitle)
-            .attr("x","50");
+            .attr("x","340");
         
         chartTitle.append("tspan")
-             .attr("x","50") 
+             .attr("x","185") 
             .attr("dy","20")
             .text(secondTitle);
     
@@ -500,4 +478,3 @@
     };
     
     })();  //* end self-executing anonymous function
-    
