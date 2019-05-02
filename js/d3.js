@@ -1,3 +1,4 @@
+
 (function() {  
 	
     // variables for joining data
@@ -478,3 +479,4 @@
     };
     
     })();  //* end self-executing anonymous function
+    
