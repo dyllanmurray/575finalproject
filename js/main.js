@@ -40,10 +40,10 @@ function createMap(){
     };
 
     var map = L.map('map', {
-        center: [46.894, -110.218],
+        center: [47, -109.4],
         zoom: 7,
         minZoom: 7,
-        layers: [Esri_WorldTopoMap]
+        layers: [Esri_WorldGrayCanvas]
     });
 	// cycle through geojson to get an array
 	jQuery.getJSON( "https://opendata.arcgis.com/datasets/b1598d3df2c047ef88251016af5b0f1e_0.geojson", function(json){
@@ -279,29 +279,86 @@ L.TopoJSON = L.GeoJSON.extend({
 
 
 
+  L.TopoJSON = L.GeoJSON.extend({
+    addData: function (data) {
+      var geojson, key;
+      if (data.type === "Topology") {
+        for (key in data.objects) {
+          if (data.objects.hasOwnProperty(key)) {
+            geojson = topojson.feature(data, data.objects[key]);
+            L.GeoJSON.prototype.addData.call(this, geojson);
+          }
+        }
+        return this;
+      }
+      L.GeoJSON.prototype.addData.call(this, data);
+      return this;
+    }
+  });
+  L.topoJson = function (data, options) {
+    return new L.TopoJSON(data, options);
+  };
+  //create an empty geojson layer
+  //with a style and a popup on click
+  var geojsonMT = L.topoJson(null, {
+    style: function(feature){
+      return {
+        color: "#748555",
+        opacity: 1,
+        weight: 1,
+        fillColor: '#dbdbdb',
+        fillOpacity: .3
+      }
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup('<p>'+feature.properties.NAME+ ' County')
+    }
+  }).addTo(map);
+  //fill: #317581;
+  //define a function to get and parse geojson from URL
+  async function getGeoData(url) {
+    let response = await fetch(url);
+    let data = await response.json();
+    console.log(data)
+    return data;
+  }
+  
+  //fetch the geojson and add it to our geojson layer
+  getGeoData('data/mT.topojson').then(data => geojsonMT.addData(data));
+
+
+
+
+
         ///////////////////
 
 	var overlayMaps = {   
+        "Cities and Towns": cities,
+        "Universities": university,
         "Breweries": brew,
         "Wineries": wine,
-        "National Parks": parks,
-        "Campgrounds": campgrounds,
-        "Fishing Access": fishing,
-        "Trailheads": trails,
-        "Cities and Towns": cities,
-        "University": university,
-        "State Parks": stateParks
 
-    }        
+        "Campgrounds": campgrounds,
+        "Trailheads": trails,
+        "Fishing Access": fishing,
+
+        "State Parks": stateParks,
+        "National Parks": parks,
+        
+    }
+
 
         // "Airports": airports,
 
     //add esri basemao tilelayer
     
-    var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
-    }).addTo(map);
-    L.control.layers(baseMaps, overlayMaps).addTo(map);
+    // var Esri_WorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    //     attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
+    // }).addTo(map);
+    
+    L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
+
+
     // map.addControl( new L.Control.PanelLayers(baseMaps, overlayMaps) );
     
     // function loadAir(map){
