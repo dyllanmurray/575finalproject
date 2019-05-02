@@ -5,53 +5,77 @@
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title>Dyllan Murray Lab 1</title>
+		<title>Dyllan Murray & Mark Jensen Final Lab</title>
 
 		<!--put your external stylesheet links here-->
         <link rel="stylesheet" href="lib/leaflet/leaflet.css"
         crossorigin=""/>
+        <link rel="stylesheet" href="lib/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css"
+        crossorigin=""/>
+<!-- 
+        <link rel="stylesheet" href="/node_modules/leaflet-panel-layers/dist/leaflet-panel-layers.src.css"
+        crossorigin=""/>
+        <link rel="stylesheet" href="/node_modules/leaflet-panel-layers/dist/leaflet-panel-layers.min.css"
+        crossorigin=""/> -->
         <link rel="stylesheet" href="css/style.css"
         crossorigin=""/>
+        <!-- <link rel="stylesheet" href="css/d3.css"
+        crossorigin=""/> -->
+        <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css' rel='stylesheet' />
+        <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css' rel='stylesheet' />
 	          
     </head>
 
 	<body>
-            <h1 id="header"> Outside Magazine's Top 25 Cities of 2017 
-            </h1>
-            <h2 id="header2">Population change 2010-2017</h2>
-      
-            <h3></h3>
-        <div id="map"></div>      
-        <div id="panel">
+            <div id="header">Montana</div>
+            <div id="sidebar"> 
+                       <p>POPULATION: 1,005,141</p>
+                       <p>STATE NICKNAME: TREASURE STATE</p>
+                       <p> STATE CAPITAL: HELENA</p>
+                       <p>  STATE FLOWER: BITTERROOT</p>
+                       <p>  STATE BIRD: WESTERN MEADOWLARK</p>
+                       <p>STATE ANIMAL: GRIZZLY BEAR</p>
+                       <p>STATE FISH: BLACKSPOTTED CUTTHROAT TROUT</p>
+                       <p>STATE GEMSTONES: SAPPHIRE & AGATE</p>
+                       <p>STATE MOTTO: ORO Y PLATA (GOLD AND SILVER)</p> 
+        
+                        <button onclick="window.open(link ='d3.html')">Click here to learn more about Montana Tourism Numbers</button>
+                        <button onclick = "open(link ='visitmt.com')">Montana!
+              </div>
+        <div id="map"></div>     
+        <!-- <div id="d3map"></div> -->
+
+        <!-- <div id="panel">
             <h1>Background</h1>
             Outside Magazine publishes a list of 25 cities and towns every year that the editors believe to be idealic for their subscribers. 
             These cities and towns span all across the United States. These locations are great for people interested in craft beers, outside activities, and exceptional food!
-           <p>Access to the outdoors is very important to the readers of Outside Magazine. A National Parks layer is available for those interested in 
-               learning which parks are closest to each of the Top 25 towns!
+           
            </p>
-            <p>Click the link to read the article:<br>
-            <a href = "https://www.outsideonline.com/2193631/best-towns-2017"> Outside Magazine's Top 25 Cities of 2017 </a> 
+            <p>Click the link to learn more!<br>
+            <a href = "https://www.visitmt.com/"> Montana's Offical Tourism Site  </a> 
             </p>
             <br>  
         </br>
-        
-        <h2>Sources:</h2>
-        <div id=sources></div>
-            <p>http://worldpopulationreview.com/us-cities/</p>
-            <p>https://www.outsideonline.com/2193631/best-towns-2017</p>
-            <p>https://public-nps.opendata.arcgis.com/datasets/<br></p>
-            <p>national-park-service-park-unit-boundaries</p>
-       </div>  
+         -->
     </body>
     
     <!--you can also use this space for internal scripts or stylesheets;
 		place these within <script> or <style> tags-->
 
-	<!--put your external script links here-->
-   	<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
-       <script src="lib/leaflet/leaflet.js"
-       crossorigin=""></script>   
+    <!--put your external script links here-->
+        
+       <script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+       <!-- <script src="leaflet.markercluster.layersupport.js"></script> -->
+       <script src="lib/leaflet/leaflet.js" crossorigin=""></script>   
+       <script type="text/javascript" src= "lib/Leaflet.markercluster-1.4.1/dist/leaflet.markercluster.js"></script> 
+       <script type="text/javascript" src="node_modules/leaflet-panel-layers/dist/leaflet-panel-layers.src.js"></script>
        <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
+       <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+       <script type="text/javascript" src="lib/d3.js"></script>
+       <script type="text/javascript" src="lib/topojson.js"></script>
        <script type="text/javascript" src="js/main.js"></script>
+       <!-- <script type="text/javascript" src="js/d3.js"></script> -->
+       <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/leaflet.markercluster.js'></script>
+
        <!-- <script type= 'text/javascript' src='js/geojson.js'></script> -->
                 

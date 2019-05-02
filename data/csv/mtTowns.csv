@@ -1,0 +1,630 @@
+Lon,Lat,Name,County,Pop_2010,Pop_2000,Pop_1990,Type
+-109.4440002,45.52119827,Absarokee,Stillwater,1150,1223,1039,Census Designated Place
+-114.4820023,47.00419998,Alberton,Mineral,420,374,354,Incorporated Place
+-114.0839996,47.1617012,Arlee,Lake,636,603,490,Census Designated Place
+-104.2220001,48.14099884,Bainville,Roosevelt,208,152,164,Incorporated Place
+-109.1569977,45.16019821,Bearcreek,Carbon,79,80,36,Incorporated Place
+-111.177002,45.77669907,Belgrade,Gallatin,7389,5694,3519,Incorporated Place
+-110.9260025,47.38579941,Belt,Cascade,597,626,569,Incorporated Place
+-110.112999,48.17779922,Big Sandy,Chouteau,598,694,737,Incorporated Place
+-108.5019989,45.7840004,Billings,Yellowstone,104170,91072,82693,Incorporated Place
+-113.8649979,46.87279892,Bonner,Missoula,70,119,121,Manually defined region
+-112.1200027,46.23709869,Boulder,Jefferson,1183,1294,1293,Incorporated Place
+-111.0390015,45.68040085,Bozeman,Gallatin,37280,28195,23546,Incorporated Place
+-108.9140015,45.2947998,Bridger,Carbon,708,728,672,Incorporated Place
+-108.8779984,46.09830093,Broadview,Yellowstone,192,150,133,Incorporated Place
+-113.0130005,48.55609894,Browning,Glacier,1016,1034,1151,Incorporated Place
+-111.6999969,47.27080154,Cascade,Cascade,685,821,734,Incorporated Place
+-114.1719971,47.43909836,Charlo,Lake,379,436,354,Census Designated Place
+-110.9680023,48.50970078,Chester,Liberty,847,868,938,Incorporated Place
+-109.2320023,48.58919907,Chinook,Blaine,1203,1383,1507,Incorporated Place
+-110.6039963,45.88430023,Clyde Park,Park,288,296,244,Incorporated Place
+-106.6259995,45.88489914,Colstrip,Rosebud,2214,2338,2754,Census Designated Place
+-114.1809998,48.37319946,Columbia Falls,Flathead,4688,3888,3283,Incorporated Place
+-109.2529984,45.63729858,Columbus,Stillwater,1893,1750,1549,Incorporated Place
+-111.9459991,48.16949844,Conrad,Pondera,2570,2749,2885,Incorporated Place
+-104.5179977,48.14619827,Culbertson,Roosevelt,714,716,797,Incorporated Place
+-112.3320007,48.63629913,Cut Bank,Glacier,2869,3078,3288,Incorporated Place
+-114.1780014,46.02090073,Darby,Ravalli,720,717,618,Incorporated Place
+-112.7289963,46.39619827,Deer Lodge,Powell,3111,3378,3332,Incorporated Place
+-109.947998,47.31940079,Denton,Fergus,255,300,349,Incorporated Place
+-112.637001,45.21699905,Dillon,Beaverhead,4134,3818,4061,Incorporated Place
+-108.2460022,48.39609909,Dodson,Phillips,124,120,133,Incorporated Place
+-113.1460037,46.66770172,Drummond,Granite,309,295,249,Incorporated Place
+-113.2170029,48.44060135,East Glacier Park,Glacier,363,395,324,Census Designated Place with Alternate Name
+-104.5490036,45.88980103,Ekalaka,Carter,332,410,439,Incorporated Place
+-111.7300034,45.34870148,Ennis,Madison,838,826,760,Incorporated Place
+-115.052002,48.87929916,Eureka,Lincoln,1037,1018,1035,Incorporated Place
+-111.9800034,47.61420059,Fairfield,Teton,708,635,637,Incorporated Place
+-104.0449982,47.85329819,Fairview,Richland,840,708,869,Incorporated Place
+-105.1760025,48.80319977,Flaxville,Daniels,71,79,85,Incorporated Place
+-106.6800003,46.26689911,Forsyth,Rosebud,1777,1904,2152,Incorporated Place
+-108.7590027,48.48300171,Fort Belknap Agency,Blaine,1293,1326,1096,Census Designated Place
+-110.6729965,47.81940079,Fort Benton,Chouteau,1464,1589,1656,Incorporated Place
+-106.4489975,48.00880051,Fort Peck,Valley,233,240,197,Incorporated Place
+-106.0449982,48.05860138,Frazer,Valley,362,427,378,Census Designated Place
+-108.9079971,45.39289856,Fromberg,Carbon,438,483,366,Incorporated Place
+-110.2659988,47.60309982,Geraldine,Chouteau,261,284,300,Incorporated Place
+-106.6389999,48.19630051,Glasgow,Valley,3250,3219,3535,Incorporated Place
+-104.7149963,47.1053009,Glendive,Dawson,4935,4722,4796,Incorporated Place
+-111.3010025,47.49959946,Great Falls,Cascade,58505,56874,55386,Incorporated Place
+-114.1589966,46.24739838,Hamilton,Ravalli,4348,3815,3023,Incorporated Place
+-108.7850037,48.53250122,Harlem,Blaine,808,843,876,Incorporated Place
+-109.8349991,46.43590164,Harlowton,Wheatland,997,1049,1035,Incorporated Place
+-108.6949997,47.99069977,Hays,Blaine,843,777,562,Census Designated Place
+-112.8359985,48.2826004,Heart Butte,Pondera,582,697,498,Census Designated Place
+-110.4219971,48.55419922,Hingham,Hill,118,157,181,Incorporated Place
+-114.6669998,47.6086998,Hot Springs,Sanders,544,544,420,Incorporated Place
+-107.2340012,46.29299927,Hysham,Treasure,312,328,359,Incorporated Place
+-104.7959976,46.50049973,Ismay,Custer,19,26,19,Incorporated Place
+-108.9710007,45.48600006,Joliet,Carbon,595,567,515,Incorporated Place
+-106.9120026,47.3205986,Jordan,Garfield,343,358,481,Incorporated Place
+-109.7519989,46.67739868,Judith Gap,Wheatland,126,163,132,Incorporated Place
+-114.310997,48.19509888,Kalispell,Flathead,19927,15218,12929,Incorporated Place
+-111.9649963,48.74850082,Kevin,Toole,154,175,185,Incorporated Place
+-106.6660004,45.62329865,Lame Deer,Rosebud,2052,2016,1917,Census Designated Place
+-108.7730026,45.6697998,Laurel,Yellowstone,6718,6240,5643,Incorporated Place
+-109.4290009,47.06240082,Lewistown,Fergus,5901,5952,6098,Incorporated Place
+-115.5540009,48.38759995,Libby,Lincoln,2628,2834,3038,Incorporated Place
+-112.5920029,44.63479996,Lima,Beaverhead,221,238,257,Incorporated Place
+-110.560997,45.6631012,Livingston,Park,7044,7091,7011,Incorporated Place
+-114.0820007,46.75780106,Lolo,Missoula,3892,3390,2721,Census Designated Place
+-107.8759995,48.35900116,Malta,Phillips,1997,2072,2284,Incorporated Place
+-111.3320007,45.85720062,Manhattan,Gallatin,1520,1424,1087,Incorporated Place
+-104.5080032,48.5007019,Medicine Lake,Sheridan,225,274,358,Incorporated Place
+-107.8690033,46.59840012,Melstone,Musselshell,96,136,166,Incorporated Place
+-105.8430023,46.40879822,Miles City,Custer,8410,8478,8534,Incorporated Place
+-113.9929962,46.87220001,Missoula,Missoula,66788,57051,49104,Incorporated Place
+-109.6969986,46.9754982,Moore,Fergus,193,182,209,Incorporated Place
+-106.3560028,48.13470078,Nashua,Valley,290,325,369,Incorporated Place
+-110.7360001,46.93310165,Neihart,Cascade,51,91,53,Incorporated Place
+-106.4089966,48.85739899,Opheim,Valley,85,108,142,Incorporated Place
+-104.7789993,48.88909912,Outlook,Sheridan,47,82,109,Incorporated Place
+-114.1190033,47.59909821,Pablo,Lake,2254,1810,1297,Census Designated Place
+-113.2929993,46.33259964,Philipsburg,Granite,820,897,908,Incorporated Place
+-114.2229996,46.33549881,Pinesdale,Ravalli,917,731,663,Incorporated Place
+-114.8809967,47.4598999,Plains,Sanders,1048,1107,974,Incorporated Place
+-104.5589981,48.7743988,Plentywood,Sheridan,1734,2034,2111,Incorporated Place
+-104.5189972,46.41690063,Plevna,Fallon,162,136,140,Incorporated Place
+-114.1620026,47.69309998,Polson,Lake,4488,4210,3556,Incorporated Place
+-105.2009964,48.11249924,Poplar,Roosevelt,810,928,898,Incorporated Place
+-109.2480011,45.18650055,Red Lodge,Carbon,2125,2166,1958,Incorporated Place
+-115.1689987,48.8993988,Rexford,Lincoln,105,140,115,Incorporated Place
+-114.0999985,47.52840042,Ronan,Lake,1871,1775,1510,Incorporated Place
+-108.5429993,46.4455986,Roundup,Musselshell,1788,1921,1795,Incorporated Place
+-107.3440018,48.45640182,Saco,Phillips,197,222,260,Incorporated Place
+-114.0950012,47.31969833,Saint Ignatius,Lake,842,812,792,Incorporated Place
+-105.4229965,48.79180145,Scobey,Daniels,1017,1079,1150,Incorporated Place
+-111.8570023,48.50450134,Shelby,Toole,3376,3219,2790,Incorporated Place
+-112.1959991,45.45619965,Sheridan,Madison,642,652,603,Incorporated Place
+-104.1589966,47.71229935,Sidney,Richland,5191,4946,5401,Incorporated Place
+-114.0920029,46.51029968,Stevensville,Ravalli,1809,1610,1281,Incorporated Place
+-111.9110031,48.88199997,Sunburst,Toole,375,415,437,Incorporated Place
+-114.8909988,47.19350052,Superior,Mineral,812,896,885,Incorporated Place
+-105.3130035,46.79270172,Terry,Prairie,605,608,657,Incorporated Place
+-115.3420029,47.59680176,Thompson Falls,Sanders,1313,1262,1328,Incorporated Place
+-111.552002,45.89310074,Three Forks,Gallatin,1869,1725,1208,Incorporated Place
+-111.5210037,46.31949997,Townsend,Broadwater,1878,1861,1639,Incorporated Place
+-115.8929977,48.46260071,Troy,Lincoln,938,923,994,Incorporated Place
+-112.3310013,45.54510117,Twin Bridges,Madison,375,400,374,Incorporated Place
+-112.2490005,48.30699921,Valier,Pondera,509,494,516,Incorporated Place
+-111.9449997,45.29339981,Virginia City,Madison,190,132,143,Incorporated Place
+-111.1039963,44.66260147,West Yellowstone,Gallatin,1271,1166,906,Incorporated Place
+-104.0510025,48.87039948,Westby,Sheridan,168,170,252,Incorporated Place
+-110.9020004,46.54859924,White Sulphur Springs,Meagher,939,974,953,Incorporated Place
+-114.3359985,48.41030121,Whitefish,Flathead,6357,5623,5041,Incorporated Place
+-112.0970001,45.87139893,Whitehall,Jefferson,1038,1028,1057,Incorporated Place
+-104.1880035,46.98960114,Wibaux,Wibaux,589,567,627,Incorporated Place
+-109.3779984,47.55939865,Winifred,Fergus,208,156,150,Incorporated Place
+-108.3529968,47.00279999,Winnett,Petroleum,182,185,188,Incorporated Place
+-105.6429977,48.09000015,Wolf Point,Roosevelt,2621,2636,2839,Incorporated Place
+-112.1829987,47.8125,Choteau,Teton,1684,1768,1741,Incorporated Place
+-105.5879974,47.41719818,Circle,Mccone,615,626,794,Incorporated Place
+-112.9520035,46.12799835,Anaconda,Deer Lodge,5913,5901,6606,Manually defined region
+-109.9540024,45.83409882,Big Timber,Sweet Grass,1641,1645,1537,Incorporated Place
+-105.4100037,45.44469833,Broadus,Powder River,468,455,573,Incorporated Place
+-106.9560013,45.53699875,Busby,Big Horn,745,695,465,Census Designated Place
+-112.5339966,46.00439835,Butte,Silver Bow,29140,29744,29882,Manually defined region
+-107.4589996,45.60210037,Crow Agency,Big Horn,1616,1547,1459,Census Designated Place
+-111.9150009,46.58990097,East Helena,Lewis and Clark,1984,1759,1599,Incorporated Place
+-107.6139984,45.73320007,Hardin,Big Horn,3505,3396,2978,Incorporated Place
+-112.0360031,46.5929985,Helena,Lewis and Clark,28190,26275,25010,Incorporated Place
+-109.8730011,47.00040054,Hobson,Judith Basin,215,219,204,Incorporated Place
+-108.9380035,46.29449844,Lavina,Golden Valley,187,209,151,Incorporated Place
+-107.3649979,45.31520081,Lodge Grass,Big Horn,428,522,525,Incorporated Place
+-108.5329971,45.42959976,Pryor,Big Horn,618,628,654,Census Designated Place
+-109.2590027,46.29909897,Ryegate,Golden Valley,245,268,260,Incorporated Place
+-110.2190018,47.15340042,Stanford,Judith Basin,401,463,533,Incorporated Place
+-112.5390015,46.02939987,Walkerville,Silver Bow,675,759,811,Incorporated Place
+-109.0059967,45.14260101,Belfry,Carbon,218,215,194,Census Designated Place
+-114.0800018,48.06430054,Bigfork,Flathead,3618,3031,2277,Manually defined region
+-110.0139999,48.31639862,Box Elder,Hill,87,78,92,Census Designated Place
+-111.8399963,48.03659821,Brady,Pondera,140,158,146,Census Designated Place
+-113.7129974,46.77009964,Clinton,Missoula,1052,674,403,Census Designated Place
+-113.7089996,47.52730179,Condon,Missoula,343,268,271,Census Designated Place
+-114.1139984,46.31430054,Corvallis,Ravalli,976,573,331,Census Designated Place
+-107.5540009,46.1291008,Custer,Yellowstone,159,143,100,Census Designated Place
+-114.3150024,47.31620026,Dixon,Sanders,203,216,167,Census Designated Place
+-114.0800018,46.63040161,Florence,Ravalli,765,510,448,Census Designated Place
+-114.2310028,47.0141983,Frenchtown,Missoula,1825,1039,480,Census Designated Place
+-111.3519974,48.47470093,Galata,Toole,12,14,22,2-mile diameter circle
+-111.2009964,45.59220123,Gallatin Gateway,Gallatin,856,867,617,Census Designated Place
+-110.7060013,45.03250122,Gardiner,Park,875,873,927,Census Designated Place
+-110.3000031,48.5685997,Gildford,Hill,179,184,186,Census Designated Place
+-111.7860031,45.70149994,Harrison,Madison,137,158,37,Census Designated Place
+-115.9570007,48.05799866,Heron,Sanders,282,192,180,Census Designated Place
+-107.086998,48.39339828,Hinsdale,Valley,217,211,246,Census Designated Place
+-110.7730026,48.56000137,Joplin,Liberty,157,210,248,Census Designated Place
+-104.6240005,47.68320084,Lambert,Richland,158,157,148,Census Designated Place with Alternate Name
+-114.663002,48.10580063,Marion,Flathead,886,443,232,Census Designated Place
+-111.947998,46.53839874,Montana City,Jefferson,2715,2140,1270,Census Designated Place
+-115.7779999,47.99459839,Noxon,Sanders,218,222,221,Census Designated Place
+-108.9169998,45.6310997,Park City,Stillwater,983,851,675,Census Designated Place
+-105.8310013,48.78319931,Peerless,Daniels,21,46,60,2-mile diameter circle
+-111.6869965,47.71530151,Power,Teton,179,167,121,Census Designated Place
+-110.6819992,45.38019943,Pray,Park,681,421,247,Census Designated Place
+-109.2559967,45.97249985,Rapelje,Stillwater,80,101,69,2-mile diameter circle
+-109.1669998,45.35910034,Roberts,Carbon,361,275,217,Census Designated Place
+-106.4469986,46.27500153,Rosebud,Rosebud,111,89,44,Census Designated Place
+-108.9589996,47.33319855,Roy,Fergus,108,165,101,Census Designated Place
+-110.5540009,48.55920029,Rudyard,Hill,258,274,308,Census Designated Place
+-115.1009979,47.29919815,Saint Regis,Mineral,319,309,327,Census Designated Place
+-111.1679993,47.39910126,Sand Coulee,Cascade,191,135,112,Manually defined region
+-104.3460007,47.45339966,Savage,Richland,320,295,267,Census Designated Place with Alternate Name
+-113.4789963,47.1739006,Seeley Lake,Missoula,1659,1439,933,Census Designated Place
+-108.3460007,45.94369888,Shepherd,Yellowstone,516,471,319,Census Designated Place
+-111.9280014,47.49119949,Simms,Cascade,354,371,292,Census Designated Place
+-114.2249985,48.08050156,Somers,Flathead,1109,872,734,Census Designated Place
+-111.7210007,47.53290176,Sun River,Cascade,124,134,115,Census Designated Place
+-113.8460007,47.92959976,Swan Lake,Lake,113,117,57,Census Designated Place
+-108.4059982,48.84600067,Turner,Blaine,61,60,68,Census Designated Place
+-111.5070038,47.43190002,Ulm,Cascade,738,749,448,Census Designated Place
+-111.5459976,47.56010056,Vaughn,Cascade,658,697,643,Census Designated Place
+-114.1490021,46.41699982,Victor,Ravalli,745,526,358,Census Designated Place
+-113.9830017,48.49629974,West Glacier,Flathead,227,168,172,Census Designated Place
+-107.6279984,48.7602005,Whitewater,Phillips,64,91,42,Census Designated Place
+-111.6449966,45.82590103,Willow Creek,Gallatin,210,255,109,Census Designated Place
+-110.6600037,45.99440002,Wilsall,Park,178,231,156,Census Designated Place
+-108.1620026,45.96060181,Worden,Yellowstone,577,505,459,Census Designated Place
+-111.9860001,46.46549988,Clancy,Jefferson,1029,1048,840,Manually defined region
+-112.3939972,47.49140167,Augusta,Lewis and Clark,309,294,305,Census Designated Place
+-110.4940033,47.25889969,Geyser,Judith Basin,87,67,46,Census Designated Place
+-112.6809998,46.95489883,Lincoln,Lewis and Clark,1013,1095,817,Census Designated Place
+-112.7910004,46.18000031,Warm Springs,Deer Lodge,465,239,395,2-mile diameter circle
+-107.3949966,45.13010025,Wyola,Big Horn,215,184,162,Census Designated Place
+-108.6809998,45.93050003,Acton,Yellowstone,67,12,39,2-mile diameter circle
+-114.2949982,47.32939911,Agency,Sanders,107,95,124,Census Designated Place with Alternate Name
+-112.1070023,45.32379913,Alder,Madison,103,116,52,Census Designated Place
+-111.987999,46.45130157,Alhambra,Jefferson,74,73,58,Manually defined region
+-109.6409988,45.20130157,Alpine,Carbon,1,3,4,2-mile diameter circle
+-114.3000031,45.61880112,Alta,Ravalli,12,12,0,2-mile diameter circle
+-104.4150009,45.02339935,Alzada,Carter,29,14,26,Census Designated Place
+-111.3199997,45.75799942,Amsterdam,Gallatin,180,201,192,Census Designated Place
+-111.3550034,45.64849854,Anceney,Gallatin,43,24,9,2-mile diameter circle
+-104.5469971,47.95439911,Andes,Richland,3,4,5,2-mile diameter circle
+-106.2009964,46.72999954,Angela,Rosebud,0,0,0,2-mile diameter circle
+-104.4570007,48.6896019,Antelope,Sheridan,51,49,53,Census Designated Place
+-112.7070007,45.38190079,Apex,Beaverhead,0,1,0,2-mile diameter circle
+-113.9929962,48.52769852,Apgar,Flathead,0,3,2,2-kilometer diameter circle
+-110.9039993,47.36640167,Armington,Cascade,145,125,161,2-mile diameter circle
+-112.2450027,46.63909912,Austin,Lewis And Clark,20,12,17,2-mile diameter circle
+-112.5970001,46.59840012,Avon,Powell,111,123,100,Census Designated Place
+-113.4369965,48.86029816,Babb,Glacier,174,146,55,Census Designated Place
+-108.1449966,45.94889832,Ballantine,Yellowstone,320,342,307,Census Designated Place
+-112.9960022,45.1609993,Bannack,Beaverhead,2,2,1,2-mile diameter circle
+-112.2639999,46.27130127,Basin,Jefferson,212,253,53,Census Designated Place
+-106.4789963,48.66339874,Baylor,Valley,1,3,2,2-mile diameter circle
+-105.5690002,46.05530167,Beebe,Custer,0,2,0,2-mile diameter circle
+-115.4089966,47.66220093,Belknap,Sanders,158,111,62,Census Designated Place
+-105.1110001,45.1391983,Belle Creek,Powder River,5,23,6,2-mile diameter circle
+-104.3769989,45.63830185,Belltower,Carter,2,2,1,2-mile diameter circle
+-110.0179977,47.07939911,Benchland,Judith Basin,7,7,5,2-mile diameter circle
+-107.3960037,45.45640182,Benteen,Big Horn,41,49,32,2-mile diameter circle
+-105.3379974,45.09939957,Biddle,Powder River,41,48,14,Census Designated Place
+-114.2949982,47.79800034,Big Arm,Lake,177,127,126,Census Designated Place
+-111.3119965,45.26089859,Big Sky Meadow Village,Gallatin,1922,915,426,Manually defined region
+-111.3990021,45.28960037,Big Sky Mountain Village,Madison,386,187,142,Manually defined region
+-107.4489975,46.1617012,Bighorn,Treasure,8,3,23,2-mile diameter circle
+-106.4649963,45.41609955,Birney Day School,Rosebud,127,70,84,"2-mile diameter circle, Part of a CDP"
+-111.2779999,47.52470016,Black Eagle,Cascade,904,908,919,Census Designated Place
+-112.8769989,48.57529831,Blackfoot,Glacier,65,48,29,2-mile diameter circle
+-112.6060028,48.01250076,Blackleaf,Teton,0,3,1,2-mile diameter circle
+-104.9169998,47.41279984,Bloomfield,Dawson,3,3,4,2-mile diameter circle
+-109.0670013,45.45769882,Boyd,Carbon,35,32,3,Census Designated Place
+-105.0309982,45.26919937,Boyes,Carter,3,10,3,2-mile diameter circle
+-106.2330017,45.81610107,Brandenberg,Rosebud,12,13,8,2-mile diameter circle
+-105.7630005,47.29899979,Brockway,McCone,22,35,21,2-mile diameter circle
+-107.2669983,47.4253006,Brusett,Garfield,1,2,2,2-mile diameter circle
+-109.8290024,46.82109833,Buffalo,Fergus,9,18,8,2-mile diameter circle
+-112.3119965,47.9776001,Bynum,Teton,31,31,20,Census Designated Place
+-111.1380005,47.16439819,Calvert,Cascade,1,2,5,2-mile diameter circle
+-114.6579971,47.61800003,Camas,Sanders,58,27,17,Census Designated Place
+-114.6060028,47.46260071,Camas Prairie,Sanders,6,4,8,2-mile diameter circle
+-111.6790009,45.20330048,Cameron,Madison,6,5,4,2-mile diameter circle
+-112.2639999,46.80550003,Canyon Creek,Lewis And Clark,32,30,7,2-mile diameter circle
+-111.7180023,46.6554985,Canyon Ferry,Lewis And Clark,35,47,21,2-mile diameter circle
+-104.0650024,45.43610001,Capitol,Carter,6,3,3,2-mile diameter circle
+-105.810997,48.97589874,Carbert,Daniels,1,1,1,2-mile diameter circle
+-111.9530029,45.85990143,Cardwell,Jefferson,50,40,21,Census Designated Place
+-104.072998,46.6570015,Carlyle,Wibaux,0,2,2,2-mile diameter circle
+-110.9560013,47.78110123,Carter,Chouteau,58,60,67,Census Designated Place
+-106.4670029,46.29940033,Cartersville,Rosebud,5,6,3,2-mile diameter circle
+-111.1429977,47.38970184,Centerville,Cascade,39,30,43,Manually defined region
+-109.0630035,45.01190186,Chance,Carbon,33,25,29,2-mile diameter circle
+-110.5469971,46.57239914,Checkerboard,Meagher,6,18,10,2-mile diameter circle
+-110.7050018,45.32099915,Chico,Park,19,4,4,2-mile diameter circle
+-115.4869995,47.7784996,Childs,Sanders,76,69,45,2-mile diameter circle
+-109.3249969,47.38399887,Christina,Fergus,11,5,8,2-mile diameter circle
+-111.3040009,45.75080109,Churchill,Gallatin,902,573,322,Census Designated Place
+-111.4140015,46.0298996,Clarkston,Gallatin,52,21,10,"2-mile diameter circle, Part of a CDP"
+-113.3779984,47.00019836,Clearwater,Missoula,12,8,4,2-mile diameter circle
+-109.1529999,48.26940155,Cleveland,Blaine,4,3,1,2-mile diameter circle
+-108.4089966,45.88219833,Cline,Yellowstone,258,243,226,2-mile diameter circle
+-104.1880035,48.69760132,Coalridge,Sheridan,6,10,8,2-mile diameter circle
+-105.5910034,45.72809982,Coalwood,Powder River,2,4,3,2-mile diameter circle
+-110.0820007,47.34780121,Coffee Creek,Fergus,22,16,24,2-mile diameter circle
+-106.6179962,47.0544014,Cohagen,Garfield,4,2,8,2-mile diameter circle
+-111.8099976,47.92829895,Collins,Teton,6,7,4,2-mile diameter circle
+-114.125,45.93069839,Conner,Ravalli,216,92,42,Census Designated Place
+-110.2259979,45.50830078,Contact,Park,11,12,7,2-mile diameter circle
+-107.5599976,48.02059937,Content,Phillips,1,5,3,2-mile diameter circle
+-109.9339981,45.01959991,Cooke City,Park,75,114,58,Census Designated Place
+-114.0459976,48.41799927,Coram,Flathead,539,498,339,Census Designated Place
+-112.0619965,46.38050079,Corbin,Jefferson,40,27,40,"2-kilometer diameter circle, Part of a CDP"
+-110.7890015,45.11190033,Corwin Springs,Park,109,126,57,Census Designated Place
+-112.8050003,46.0646019,Crackerville,Deer Lodge,33,35,24,2-kilometer diameter circle
+-111.9629974,47.07440186,Craig,Lewis And Clark,43,53,45,Census Designated Place
+-104.2570038,47.57730103,Crane,Richland,102,83,102,Census Designated Place
+-114.137001,48.18939972,Creston,Flathead,208,129,98,2-mile diameter circle
+-109.0429993,46.28829956,Cushman,Golden Valley,8,13,13,2-mile diameter circle
+-114.5800018,47.00889969,Cyr,Mineral,26,21,12,2-mile diameter circle
+-104.197998,48.58340073,Dagmar,Sheridan,16,11,21,2-mile diameter circle
+-109.7170029,47.22529984,Danvers,Fergus,9,15,8,2-mile diameter circle
+-114.2789993,47.86579895,Dayton,Lake,84,86,60,Census Designated Place
+-115.3460007,47.37580109,De Borgia,Mineral,78,69,28,Census Designated Place
+-109.6900024,45.40470123,Dean,Stillwater,18,29,2,2-mile diameter circle
+-106.862999,45.01190186,Decker,Big Horn,1,3,0,2-mile diameter circle
+-109.677002,47.25970078,Deerfield Colony,Fergus,23,25,30,2-mile diameter circle
+-112.697998,44.72330093,Dell,Beaverhead,27,37,21,2-mile diameter circle
+-108.2190018,46.50469971,Delphia,Musselshell,4,6,8,2-mile diameter circle
+-111.4789963,48.46670151,Devon,Toole,2,3,1,2-mile diameter circle
+-112.8550034,45.77709961,Dewey,Beaverhead,18,19,5,2-mile diameter circle
+-112.7470016,45.75099945,Divide,Silver Bow,36,46,21,2-mile diameter circle
+-111.6640015,48.47800064,Dunkirk,Toole,13,11,2,2-mile diameter circle
+-107.5049973,45.67860031,Dunmore,Big Horn,107,104,79,2-mile diameter circle
+-112.4990005,48.19250107,Dupuyer,Pondera,86,63,53,Census Designated Place
+-108.6340027,47.79560089,DY Junction,Phillips,1,0,9,2-mile diameter circle
+-109.7819977,47.94499969,Eagleton,Chouteau,2,2,2,2-mile diameter circle
+-113.9449997,46.87080002,East Missoula,Missoula,2157,2043,1688,Census Designated Place
+-115.1330032,47.55830002,Eddy,Sanders,38,24,13,2-mile diameter circle
+-111.2720032,47.27000046,Eden,Cascade,4,5,4,2-mile diameter circle
+-108.8519974,45.46469879,Edgar,Carbon,114,100,76,Census Designated Place
+-111.9459991,46.27460098,Elkhorn,Jefferson,10,7,4,Census Designated Place
+-112.4309998,46.56219864,Elliston,Powell,219,214,83,Census Designated Place
+-114.3499985,47.83050156,Elmo,Lake,180,140,99,Census Designated Place
+-108.677002,46.34859848,Elso,Musselshell,7,5,5,2-mile diameter circle
+-110.3079987,45.69580078,Elton,Park,5,2,4,2-mile diameter circle
+-110.7350006,45.36899948,Emigrant,Park,488,282,221,Census Designated Place
+-104.7799988,47.6955986,Enid,Richland,1,1,4,2-mile diameter circle
+-105.651001,45.49169922,Epsie,Powder River,2,2,2,2-mile diameter circle
+-113.612999,48.27799988,Essex,Flathead,33,34,2,2-mile diameter circle
+-112.1210022,48.55780029,Ethridge,Toole,17,17,2,2-mile diameter circle
+-114.0889969,47.03509903,Evaro,Missoula,731,708,486,Manually defined region
+-114.276001,48.22579956,Evergreen,Flathead,7616,6881,6306,Census Designated Place
+-105.1190033,46.83560181,Fallon,Prairie,164,138,151,Census Designated Place
+-111.7750015,48.75419998,Ferdig,Toole,2,3,3,2-mile diameter circle
+-109.0670013,47.33380127,Fergus,Fergus,3,3,5,2-mile diameter circle
+-114.0070038,48.05160141,Ferndale,Lake,421,475,351,"2-mile diameter circle, Part of a CDP"
+-106.9759979,46.28359985,Finch,Rosebud,8,9,13,2-mile diameter circle
+-109.5039978,45.45360184,Fishtail,Stillwater,75,75,44,2-mile diameter circle
+-113.2289963,45.87210083,Fishtrap,Deer Lodge,6,1,2,2-mile diameter circle
+-108.401001,46.83470154,Flatwillow,Petroleum,7,0,1,2-mile diameter circle
+-111.0270004,47.72969818,Floweree,Chouteau,15,12,11,2-mile diameter circle
+-104.7580032,47.10469818,Forest Park,Dawson,1948,1973,2262,Census Designated Place with Alternate Name
+-109.0800018,46.99140167,Forestgrove,Fergus,5,4,6,2-mile diameter circle
+-104.7160034,48.14670181,Fort Kipp,Roosevelt,180,178,51,2-mile diameter circle
+-111.8099976,47.50550079,Fort Shaw,Cascade,280,271,233,Census Designated Place
+-107.9319992,45.31110001,Fort Smith,Big Horn,161,158,95,Census Designated Place
+-114.9029999,48.76440048,Fortine,Lincoln,325,227,193,Census Designated Place
+-105.6060028,48.80970001,Four Buttes,Daniels,9,11,14,2-mile diameter circle
+-112.776001,46.23550034,Galen,Deer Lodge,48,39,210,2-mile diameter circle
+-105.9309998,46.0483017,Garland,Custer,4,1,1,2-mile diameter circle
+-109.7509995,46.75149918,Garneill,Fergus,12,11,4,2-mile diameter circle
+-112.8059998,46.5245018,Garrison,Powell,96,112,46,Census Designated Place
+-107.4199982,45.52659988,Garryowen,Big Horn,15,43,15,2-mile diameter circle
+-113.2460022,46.19940186,Georgetown,Deer Lodge,35,19,12,2-mile diameter circle
+-111.1869965,47.31380081,Giffen,Cascade,12,39,10,2-mile diameter circle
+-104.4219971,47.86780167,Girard,Richland,4,5,3,2-mile diameter circle
+-112.6910019,45.47660065,Glen,Beaverhead,30,41,20,2-mile diameter circle
+-106.2490005,48.84809875,Glentana,Valley,7,7,5,2-mile diameter circle
+-110.5319977,48.89970016,Goldstone,Hill,0,0,0,2-mile diameter circle
+-110.4960022,45.75659943,Grannis,Park,99,90,55,2-mile diameter circle
+-113.0670013,45.00849915,Grant,Beaverhead,9,14,7,2-mile diameter circle
+-114.1419983,46.20349884,Grantsdale,Ravalli,1053,996,772,2-mile diameter circle
+-111.8590012,47.63999939,Greenfield,Teton,46,41,47,2-mile diameter circle
+-113.4369965,46.91659927,Greenough,Missoula,0,5,5,2-mile diameter circle
+-112.8099976,46.04299927,Gregson Hot Springs,Silver Bow,36,34,6,2-kilometer diameter circle
+-109.7850037,45.76330185,Greycliff,Sweet Grass,112,85,8,Census Designated Place
+-114.2399979,48.38769913,Halfmoon,Flathead,693,562,459,2-mile diameter circle
+-113.1969986,46.58520126,Hall,Granite,59,41,31,2-mile diameter circle
+-104.9160004,45.22520065,Hammond,Carter,1,1,2,2-mile diameter circle
+-115.1399994,48.08330154,Happys Inn,Lincoln,164,103,14,Census Designated Place
+-111.8190002,47.18320084,Hardy,Cascade,52,42,41,2-mile diameter circle
+-106.1930008,46.27769852,Hathaway,Rosebud,7,10,5,2-mile diameter circle
+-115.3960037,47.38579941,Haugan,Mineral,19,16,5,2-mile diameter circle
+-106.427002,47.77000046,Haxby,Garfield,0,0,1,2-mile diameter circle
+-109.2669983,46.99580002,Heath,Fergus,23,15,13,2-mile diameter circle
+-112.9609985,46.86660004,Helmville,Powell,26,19,26,2-mile diameter circle
+-109.3600006,47.25389862,Hilger,Fergus,26,37,6,2-mile diameter circle
+-111.1490021,48.78279877,Hill,Liberty,1,2,2,2-mile diameter circle
+-112.0680008,48.97919846,Hillside Colony,Toole,148,13,16,2-mile diameter circle
+-104.3909988,46.98400116,Hodges,Dawson,0,0,1,2-mile diameter circle
+-108.6579971,48.85490036,Hogeland,Blaine,16,18,19,2-mile diameter circle
+-104.5390015,48.42110062,Homestead,Sheridan,19,24,31,2-mile diameter circle
+-106.0619965,46.34140015,Horton,Custer,3,2,3,2-mile diameter circle
+-114.060997,48.38579941,Hungry Horse,Flathead,826,909,640,Census Designated Place
+-108.3099976,45.89649963,Huntley,Yellowstone,446,424,308,Census Designated Place
+-114.3270035,47.03129959,Huson,Missoula,210,147,60,Census Designated Place
+-109.7860031,47.79859924,Iliad,Chouteau,0,1,2,2-mile diameter circle
+-107.375,46.57720184,Ingomar,Rosebud,6,9,18,2-mile diameter circle
+-104.5220032,47.29389954,Intake,Dawson,10,10,9,2-mile diameter circle
+-110.6900024,48.5564003,Inverness,Hill,55,101,96,Census Designated Place
+-113.4089966,45.36800003,Jackson,Beaverhead,19,34,16,2-mile diameter circle
+-110.6340027,45.06990051,Jardine,Park,57,36,34,Census Designated Place
+-111.7060013,45.34880066,Jeffers,Madison,30,39,47,2-kilometer diameter circle
+-112.0279999,46.38830185,Jefferson City,Jefferson,128,125,56,"2-mile diameter circle, Part of a CDP"
+-111.9410019,45.85079956,Jefferson Island,Madison,24,22,1,Manually defined region
+-115.3450012,48.3655014,Jennings,Lincoln,24,39,60,2-mile diameter circle
+-110.4400024,48.17549896,Kenilworth,Chouteau,1,4,2,2-mile diameter circle
+-114.4570007,48.12020111,Kila,Flathead,392,307,237,Census Designated Place
+-107.6019974,45.89860153,Kingley,Big Horn,34,36,25,2-mile diameter circle
+-105.6569977,46.57080078,Kinsey,Custer,23,20,34,2-mile diameter circle
+-113.2710037,48.54769897,Kiowa,Glacier,9,19,5,2-mile diameter circle
+-106.9820023,45.33250046,Kirby,Big Horn,3,5,17,2-mile diameter circle
+-108.5490036,46.40409851,Klein,Musselshell,168,188,136,Census Designated Place
+-105.0879974,46.34360123,Knowlton,Custer,1,3,1,2-mile diameter circle
+-109.7730026,47.10660172,Kolin,Judith Basin,5,10,4,2-mile diameter circle
+-110.086998,48.56969833,Kremlin,Hill,98,125,110,Census Designated Place
+-113.8720016,48.62080002,Lake McDonald,Flathead,2,1,0,2-mile diameter circle
+-114.2249985,48.01940155,Lakeside,Flathead,2669,1983,1128,Census Designated Place
+-111.8349991,46.6780014,Lakeside,Lewis And Clark,164,171,56,2-mile diameter circle
+-111.810997,44.59939957,Lakeview,Beaverhead,4,0,0,2-mile diameter circle
+-108.6220016,47.89780045,Landusky,Phillips,4,2,12,2-mile diameter circle
+-106.2170029,48.57789993,Larslan,Valley,3,4,9,2-mile diameter circle
+-112.1179962,45.35269928,Laurin,Madison,29,36,23,Manually defined region
+-111.822998,48.26029968,Ledger,Pondera,4,4,5,2-mile diameter circle
+-109.3190002,47.87419891,Leroy,Blaine,0,0,0,2-mile diameter circle
+-109.9020004,45.47769928,Limestone,Stillwater,6,3,4,2-mile diameter circle
+-105.1529999,47.22190094,Lindsay,Dawson,18,11,10,2-mile diameter circle
+-109.3619995,48.29029846,Lloyd,Blaine,4,0,1,2-mile diameter circle
+-105.3079987,46.43030167,Locate,Custer,2,3,4,2-mile diameter circle
+-108.5329971,48.03469849,Lodge Pole,Blaine,265,214,146,Census Designated Place
+-111.427002,45.88439941,Logan,Gallatin,99,100,73,Census Designated Place
+-109.4049988,48.58969879,Lohman,Blaine,13,28,23,2-mile diameter circle
+-114.5309982,46.72769928,Lolo Hot Springs,Missoula,4,10,0,2-mile diameter circle
+-110.5039978,47.93690109,Loma,Chouteau,85,91,50,Census Designated Place
+-111.3990021,46.10739899,Lombard,Broadwater,0,3,2,2-mile diameter circle
+-114.637001,47.70299911,Lonepine,Sanders,162,137,86,Census Designated Place
+-107.8619995,48.78990173,Loring,Phillips,2,7,2,2-mile diameter circle
+-113.9430008,45.75189972,Lost Trail Camp,Ravalli,7,4,3,2-mile diameter circle
+-111.2320023,48.47169876,Lothair,Liberty,8,13,15,2-mile diameter circle
+-114.7799988,47.11740112,Lozeau,Mineral,80,36,18,2-mile diameter circle
+-105.9349976,48.40719986,Lustre,Valley,19,11,5,2-mile diameter circle
+-109.4290009,45.28440094,Luther,Carbon,55,41,33,2-mile diameter circle
+-109.4179993,48.14049911,Maddux,Blaine,1,0,1,2-mile diameter circle
+-105.2860031,48.81090164,Madoc,Daniels,15,19,13,2-mile diameter circle
+-109.2300034,47.17779922,Maiden,Fergus,9,7,5,2-mile diameter circle
+-111.461998,47.54079819,Manchester,Cascade,155,171,269,"2-mile diameter circle, Part of a CDP"
+-114.0370026,48.39099884,Martin City,Flathead,500,379,364,Census Designated Place
+-110.3130035,46.45830154,Martinsdale,Meagher,64,55,18,Census Designated Place
+-112.3000031,46.75049973,Marysville,Lewis And Clark,80,75,10,Census Designated Place
+-111.1729965,46.10770035,Maudlow,Gallatin,0,1,1,2-mile diameter circle
+-113.2340012,46.46459961,Maxville,Granite,130,51,23,Census Designated Place
+-111.7320023,45.44440079,McAllister,Madison,112,85,23,2-mile diameter circle
+-110.1159973,45.66270065,McLeod,Sweet Grass,15,20,14,2-mile diameter circle
+-104.375,48.24560165,McCabe,Roosevelt,8,19,21,2-mile diameter circle
+-105.5999985,46.9007988,McCloud,Prairie,0,0,1,2-mile diameter circle
+-112.6839981,45.63190079,Melrose,Silver Bow,91,108,83,2-mile diameter circle
+-109.9509964,46.10329819,Melville,Sweet Grass,6,21,8,2-mile diameter circle
+-111.1780014,45.97480011,Menard,Gallatin,1,1,5,2-mile diameter circle
+-104.3199997,47.51499939,Midway,Richland,37,38,33,2-mile diameter circle
+-104.9599991,46.67580032,Mildred,Prairie,1,1,3,2-mile diameter circle
+-112.2099991,47.32970047,Milford Colony,Lewis And Clark,13,125,3,2-mile diameter circle
+-104.2170029,45.85329819,Mill Iron,Carter,1,4,3,2-mile diameter circle
+-113.8820038,46.87129974,Milltown,Missoula,150,170,149,Manually defined region
+-110.9089966,45.19910049,Miner,Park,24,26,32,2-mile diameter circle
+-105.2669983,46.24470139,Mizpah,Custer,1,1,0,2-mile diameter circle
+-109.9100037,47.05329895,Moccasin,Judith Basin,39,36,41,2-mile diameter circle
+-114.2639999,47.37229919,Moiese,Lake,25,33,18,2-mile diameter circle
+-108.9280014,45.86130142,Molt,Stillwater,8,11,3,2-mile diameter circle
+-110.836998,47.09820175,Monarch,Cascade,22,25,7,2-mile diameter circle
+-112.314003,44.56190109,Monida,Beaverhead,0,0,1,2-mile diameter circle
+-110.4540024,47.67910004,Montague,Chouteau,3,2,4,2-mile diameter circle
+-108.901001,45.50910187,Montaqua,Carbon,74,71,72,2-mile diameter circle
+-105.8710022,45.06620026,Moorhead,Powder River,1,2,1,2-mile diameter circle
+-107.8320007,48.99919891,Morgan,Phillips,0,0,1,2-mile diameter circle
+-107.8840027,46.99219894,Mosby,Garfield,1,2,1,2-mile diameter circle
+-108.0910034,46.51860046,Musselshell,Musselshell,60,60,128,Census Designated Place
+-107.3420029,46.25099945,Myers,Treasure,5,12,5,2-mile diameter circle
+-111.8089981,46.81689835,Nelson,Lewis And Clark,2,0,5,2-mile diameter circle
+-111.9680023,45.30690002,Nevada City,Madison,9,6,4,2-mile diameter circle
+-112.0240021,47.86360168,New Rockport Colony,Teton,62,46,12,2-mile diameter circle
+-114.6050034,47.81409836,Niarada,Flathead,27,36,48,Census Designated Place
+-112.637001,46.00699997,Nissler,Silver Bow,45,47,49,2-kilometer diameter circle
+-104.0920029,47.99560165,Nohly,Richland,3,7,5,2-mile diameter circle
+-111.6910019,45.57049942,Norris,Madison,27,13,22,2-mile diameter circle
+-113.8099976,48.4396019,Nyack,Flathead,8,7,6,2-mile diameter circle
+-109.8089981,45.4355011,Nye,Stillwater,54,86,41,2-mile diameter circle
+-111.8410034,48.74000168,Oilmont,Toole,16,15,24,2-mile diameter circle
+-105.5279999,45.55059814,Olive,Powder River,2,4,2,2-mile diameter circle
+-104.0810013,46.58359909,Ollie,Fallon,1,3,2,2-mile diameter circle
+-114.5780029,48.54859924,Olney,Flathead,191,137,59,Census Designated Place
+-112.8280029,46.10710144,Opportunity,Deer Lodge,541,577,682,2-mile diameter circle
+-114.0479965,46.86330032,Orchard Homes,Missoula,5197,4935,4679,Census Designated Place
+-105.8809967,48.05860138,Oswego,Valley,59,38,59,2-mile diameter circle
+-106.2020035,45.20780182,Otter,Powder River,1,6,1,2-mile diameter circle
+-113.1309967,47.01940155,Ovando,Powell,81,70,76,Census Designated Place
+-114.802002,47.38940048,Paradise,Sanders,163,171,154,Census Designated Place
+-112.2990036,48.07360077,Pendroy,Teton,22,25,27,2-mile diameter circle
+-114.5849991,47.36380005,Perma,Sanders,7,4,1,2-mile diameter circle
+-110.564003,45.50740051,Pine Creek,Park,94,90,54,2-mile diameter circle
+-112.2200012,45.90520096,Pipestone,Jefferson,18,13,19,2-mile diameter circle
+-105.0820007,48.59220123,Pleasant Prairie,Daniels,2,5,5,2-mile diameter circle
+-113.1190033,45.36959839,Polaris,Beaverhead,3,3,2,2-mile diameter circle
+-114.2850037,48.76530075,Polebridge,Flathead,13,8,8,2-mile diameter circle
+-107.9520035,45.99140167,Pompeys Pillar,Yellowstone,70,71,38,2-mile diameter circle
+-111.8939972,45.65850067,Pony,Madison,118,142,2,Census Designated Place
+-111.125,47.65269852,Portage,Cascade,6,18,4,2-mile diameter circle
+-113.3320007,46.25189972,Porters Corner,Granite,23,25,14,2-mile diameter circle
+-113.5800018,46.88159943,Potomac,Missoula,53,44,28,2-mile diameter circle
+-105.1149979,45.75889969,Powderville,Powder River,1,0,1,2-mile diameter circle
+-114.1669998,46.92710114,Primrose,Missoula,276,293,211,2-mile diameter circle
+-114.3050003,47.89239883,Proctor,Lake,50,50,30,2-mile diameter circle
+-106.2829971,45.09640121,Quietus,Big Horn,0,0,0,2-mile diameter circle
+-113.6480026,46.61209869,Quigley,Granite,39,43,34,2-mile diameter circle
+-114.802002,47.32460022,Quinns,Sanders,6,12,7,2-mile diameter circle
+-112.7490005,46.27880096,Racetrack,Powell,70,80,61,2-mile diameter circle
+-111.6320038,46.19580078,Radersburg,Broadwater,66,66,22,Census Designated Place
+-112.685997,46.00579834,Ramsay,Silver Bow,151,151,97,2-mile diameter circle
+-114.1790009,47.27500153,Ravalli,Lake,76,118,79,Census Designated Place
+-104.5800018,48.87639999,Raymond,Sheridan,14,15,11,2-mile diameter circle
+-110.7300034,47.27000046,Raynesford,Judith Basin,43,60,41,2-mile diameter circle
+-104.9440002,48.82170105,Redstone,Sheridan,12,21,41,2-mile diameter circle
+-112.1279984,45.81549835,Renova,Jefferson,85,62,70,2-mile diameter circle
+-104.4599991,48.60559845,Reserve,Sheridan,23,37,26,Census Designated Place
+-114.473999,48.27909851,Rhodes,Flathead,164,140,87,2-mile diameter circle
+-106.0510025,48.82089996,Richland,Valley,11,10,16,2-mile diameter circle
+-105.0199966,45.0469017,Ridge,Carter,4,3,3,2-mile diameter circle
+-104.5100021,45.47520065,Ridgeway,Carter,5,4,1,2-mile diameter circle
+-112.2470016,46.48799896,Rimini,Lewis And Clark,45,46,21,2-mile diameter circle
+-110.8069992,46.27159882,Ringling,Meagher,16,15,19,2-mile diameter circle
+-112.552002,48.32550049,Robere,Pondera,24,28,17,2-mile diameter circle
+-106.2470016,46.81689835,Rock Springs,Rosebud,1,1,1,2-mile diameter circle
+-112.6060028,46.00329971,Rocker,Silver Bow,98,118,84,2-kilometer diameter circle
+-108.8619995,45.5223999,Rockvale,Carbon,85,93,102,2-mile diameter circle
+-109.788002,48.2560997,Rocky Boy's Agency,Hill,228,227,193,"2-mile diameter circle, Part of a CDP"
+-114.197998,47.90610123,Rollins,Lake,209,178,110,Census Designated Place
+-115.0569992,48.99909973,Roosville,Lincoln,55,18,5,2-mile diameter circle
+-109.4970016,45.34970093,Roscoe,Carbon,15,10,3,Census Designated Place
+-109.6930008,47.07720184,Ross Fork,Fergus,5,3,8,2-mile diameter circle
+-109.262001,46.54660034,Rothiemay,Golden Valley,2,0,1,2-mile diameter circle
+-110.0070038,48.79919815,Saint Johns,Hill,1,1,5,2-mile diameter circle
+-113.4300003,48.7439003,Saint Mary,Glacier,36,27,39,2-mile diameter circle
+-104.1439972,46.83089828,Saint Phillip,Wibaux,7,6,6,2-mile diameter circle
+-107.7220001,45.46110153,Saint Xavier,Big Horn,83,66,64,Census Designated Place
+-113.7850037,47.62990189,Salmon Prairie,Lake,45,41,31,2-mile diameter circle
+-115.5100021,47.41019821,Saltese,Mineral,15,23,4,2-mile diameter circle
+-107.4860001,47.10079956,Sand Springs,Garfield,1,2,1,2-mile diameter circle
+-107.0970001,46.29140091,Sanders,Treasure,12,16,11,2-mile diameter circle
+-112.3199997,48.70050049,Santa Rita,Glacier,113,86,107,Census Designated Place
+-110.2509995,46.88909912,Sapphire Village,Judith Basin,25,29,12,2-mile diameter circle
+-111.7679977,45.79489899,Sappington,Gallatin,1,7,7,2-mile diameter circle
+-108.5439987,48.4742012,Savoy,Blaine,5,2,4,2-mile diameter circle
+-114.2020035,46.96409988,Schilling,Missoula,111,113,37,2-mile diameter circle
+-110.848999,45.95970154,Sedan,Gallatin,99,67,61,Census Designated Place
+-109.5250015,46.34489822,Shawmut,Wheatland,42,63,10,Census Designated Place
+-106.1389999,46.33280182,Sheffield,Custer,3,1,10,2-mile diameter circle
+-110.6409988,45.95690155,Shields,Park,16,22,24,2-mile diameter circle
+-110.572998,47.62889862,Shonkin,Chouteau,2,2,3,2-mile diameter circle
+-112.1269989,46.89849854,Sieben,Lewis And Clark,10,10,1,2-mile diameter circle
+-108.8410034,45.55659866,Silesia,Carbon,96,56,51,Census Designated Place
+-112.1699982,46.75550079,Silver City,Lewis And Clark,37,39,21,2-mile diameter circle
+-109.9899979,45.00690079,Silver Gate,Park,20,26,15,Census Designated Place
+-112.2829971,45.69020081,Silver Star,Madison,35,40,15,2-mile diameter circle
+-110.2060013,48.92860031,Simpson,Hill,1,2,0,2-mile diameter circle
+-110.9980011,46.21519852,Sixteen,Meagher,0,1,1,2-mile diameter circle
+-104.697998,48.28779984,Slab Crossing,Roosevelt,2,3,4,2-mile diameter circle
+-105.8310013,45.4131012,Sonnette,Powder River,2,2,1,2-mile diameter circle
+-110.2249985,45.73740005,Springdale,Park,42,27,13,Census Designated Place
+-111.0159988,46.4618988,Springdale Colony,Meagher,21,26,3,2-mile diameter circle
+-110.1999969,47.51599884,Square Butte,Chouteau,10,12,17,2-mile diameter circle
+-105.8909988,45.72000122,Stacey,Powder River,1,5,1,2-mile diameter circle
+-114.5049973,47.12549973,Stark,Missoula,4,10,17,2-mile diameter circle
+-104.6650009,47.21220016,Stipek,Dawson,23,9,15,2-mile diameter circle
+-111.1650009,47.35660172,Stockett,Cascade,169,119,134,Census Designated Place
+-114.7699966,48.67409897,Stryker,Lincoln,26,25,23,Census Designated Place
+-109.3570023,47.46910095,Suffolk,Fergus,6,8,16,2-mile diameter circle
+-113.9820023,45.83660126,Sula,Ravalli,37,30,15,Census Designated Place
+-107.5510025,46.61729813,Sumatra,Rosebud,0,1,3,2-mile diameter circle
+-113.3529968,48.31940079,Summit,Glacier,0,1,0,2-mile diameter circle
+-107.7460022,47.84550095,Sun Prairie,Phillips,0,0,1,2-mile diameter circle
+-111.9629974,48.99649811,Sweet Grass,Toole,58,80,112,Census Designated Place
+-115.8740005,48.71630096,Sylvanite,Lincoln,103,71,18,Census Designated Place
+-115.4319992,47.71369934,Talc,Sanders,67,53,31,2-mile diameter circle
+-106.8270035,48.30469894,Tampico,Valley,5,8,6,2-mile diameter circle
+-114.7389984,47.02130127,Tarkio,Mineral,11,14,4,2-mile diameter circle
+-108.5950012,47.03910065,Teigen,Petroleum,7,3,0,2-mile diameter circle
+-106.9179993,48.8769989,Thoeny,Valley,0,0,0,2-mile diameter circle
+-106.3059998,46.28779984,Thurlow,Rosebud,9,14,5,2-mile diameter circle
+-111.4410019,46.17269897,Toston,Broadwater,108,108,32,Census Designated Place
+-111.1539993,47.4129982,Tracy,Cascade,171,202,190,Manually defined region
+-114.4069977,48.91910172,Trailcreek,Flathead,5,6,2,2-mile diameter circle
+-114.8690033,48.7052002,Trego,Lincoln,541,393,231,Census Designated Place
+-111.4769974,45.94739914,Trident,Gallatin,11,5,2,"2-mile diameter circle, Part of a CDP"
+-115.5979996,47.8368988,Trout Creek,Sanders,242,261,216,Census Designated Place
+-113.8239975,46.83589935,Turah,Missoula,306,166,29,Census Designated Place
+-110.072998,46.42440033,Twodot,Wheatland,28,42,26,2-mile diameter circle
+-112.0849991,46.54130173,Unionville,Lewis And Clark,139,184,156,2-mile diameter circle
+-110.0920029,46.96829987,Utica,Judith Basin,27,24,18,2-mile diameter circle
+-108.4219971,47.31420135,Valentine,Fergus,0,1,0,2-mile diameter circle
+-107.2460022,48.68450165,Valleytown,Phillips,1,1,1,2-mile diameter circle
+-107.0019989,46.39189911,Vananda,Rosebud,1,1,1,2-mile diameter circle
+-106.9100037,48.35469818,Vandalia,Valley,6,6,4,2-mile diameter circle
+-112.2429962,45.81769943,Vendome,Jefferson,14,12,8,2-mile diameter circle
+-105.4929962,47.83369827,Vida,McCone,18,20,10,2-mile diameter circle
+-110.25,48.01530075,Virgelle,Chouteau,11,2,1,2-mile diameter circle
+-105.6809998,45.84280014,Volborg,Custer,1,2,1,2-mile diameter circle
+-105.7180023,48.38909912,Volt,Roosevelt,2,2,1,2-mile diameter circle
+-108.0780029,48.37060165,Wagner,Phillips,18,15,19,2-mile diameter circle
+-108.6579971,45.06000137,Warren,Carbon,0,0,0,2-mile diameter circle
+-109.6060028,48.07170105,Warrick,Chouteau,0,2,1,2-mile diameter circle
+-109.2129974,45.16379929,Washoe,Carbon,3,3,9,2-mile diameter circle
+-112.1920013,45.72190094,Waterloo,Madison,76,48,29,2-mile diameter circle
+-104.2470016,46.05500031,Webster,Fallon,1,1,1,2-mile diameter circle
+-114.9940033,47.52299881,Weeksville,Sanders,83,58,19,Census Designated Place
+-105.8980026,47.61560059,Weldon,McCone,1,1,1,2-mile diameter circle
+-105.9120026,48.68700027,West Fork,Daniels,0,1,2,2-mile diameter circle
+-113.8850021,46.87850189,West Riverside,Missoula,1375,1253,1258,Manually defined region
+-113.0230026,46.15190125,West Valley,Deer Lodge,621,685,753,2-mile diameter circle
+-113.1650009,48.75329971,Wetzel,Glacier,12,10,0,2-mile diameter circle
+-115.5169983,48.34500122,White Haven,Lincoln,577,576,582,Census Designated Place
+-105.1620026,48.89640045,Whitetail,Daniels,14,14,38,2-mile diameter circle
+-111.2529984,48.90829849,Whitlash,Liberty,8,9,13,2-mile diameter circle
+-112.1029968,46.34970093,Wickes,Jefferson,32,22,10,"2-mile diameter circle, Part of a CDP"
+-104.3649979,46.19409943,Willard,Fallon,9,3,2,2-mile diameter circle
+-110.1399994,47.07860184,Windham,Judith Basin,23,30,45,2-mile diameter circle
+-111.6589966,46.47660065,Winston,Broadwater,147,76,50,Census Designated Place
+-113.4499969,45.61660004,Wisdom,Beaverhead,98,112,134,Census Designated Place
+-112.9489975,45.79130173,Wise River,Beaverhead,46,49,24,2-mile diameter circle
+-112.0690002,47.0060997,Wolf Creek,Lewis And Clark,32,38,18,2-mile diameter circle
+-114.0500031,48.00159836,Woods Bay,Lake,661,731,536,Census Designated Place
+-111.2679977,47.87919998,Woods Crossing,Chouteau,2,2,2,2-mile diameter circle
+-114.1549988,46.31330109,Woodside,Ravalli,270,304,175,2-mile diameter circle
+-113.3030014,47.10630035,Woodworth,Powell,15,22,7,2-mile diameter circle
+-115.7089996,48.83300018,Yaak,Lincoln,248,168,109,Census Designated Place
+-111.7519989,46.72159958,York,Lewis And Clark,83,79,40,2-mile diameter circle
+-108.526001,47.9178009,Zortman,Phillips,69,38,15,Census Designated Place
+-109.0299988,48.58440018,Zurich,Blaine,39,23,11,2-mile diameter circle
+-106.5500031,48.40480042,Saint Marie,Valley,264,183,65,Census Designated Place
+-111.2009964,47.50899887,Malmstrom AFB,Cascade,3472,4499,5915,Census Designated Place
+-111.1849976,45.67110062,Four Corners,Gallatin,3146,1827,1497,Census Designated Place
+-108.8730011,46.8302002,Tyler,Fergus,1,1,1,2-mile diameter circle
+-114.1460037,48.3655014,Columbia Heights,Flathead,453,504,324,2-mile diameter circle
+-106.5149994,45.32170105,Birney,Rosebud,14,20,10,2-mile diameter circle
+-112.9280014,46.58430099,Goldcreek,Powell,21,12,7,2-mile diameter circle
+-106.2710037,45.5943985,Ashland,Rosebud,824,865,858,Census Designated Place
+-104.2750015,46.36790085,Baker,Fallon,1741,1693,1815,Incorporated Place
+-104.9179993,48.14979935,Brockton,Roosevelt,255,245,365,Incorporated Place
+-111.7170029,47.84820175,Dutton,Teton,316,386,390,Incorporated Place
+-104.4929962,48.33560181,Froid,Roosevelt,185,194,194,Incorporated Place
+-108.8040009,47.02550125,Grass Range,Fergus,110,141,155,Incorporated Place
+-109.6790009,48.54919815,Havre,Hill,9310,9515,10191,Incorporated Place
+-105.0709991,47.64379883,Richey,Dawson,177,185,256,Incorporated Place
+-109.5419998,45.70849991,Reed Point,Stillwater,193,183,114,Census Designated Place
+-110.7959976,47.5848999,Highwood,Chouteau,176,186,80,Census Designated Place
+-112.1060028,46.6216011,Fort Harrison,Lewis and Clark,96,124,190,"2-mile diameter circle, Part of a CDP"
+-113.1399994,48.58950043,Starr School,Glacier,252,242,249,Census Designated Place
+-108.4140015,45.81259918,Lockwood,Yellowstone,6797,5698,4937,Census Designated Place
+-115.5189972,48.33610153,Pioneer Junction,Lincoln,959,917,937,Census Designated Place
+-113.862999,46.86130142,Piltzville,Missoula,395,65,22,Census Designated Place
+-114.0790024,46.67580032,Carlton,Missoula,694,444,458,Census Designated Place

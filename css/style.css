@@ -1,34 +1,43 @@
 
 
-html, body, #map {
-    height: 800px;
-  
-  }
-  #map{
-    width: 70%;
-    float: left;
-    border-style: double
-  }
-  
-  #panel {
-    float: right;
-    width: 26%;
-    padding: 20px;
-    /* display: inline-block; */
-    vertical-align: top;
-    text-align: center;
-    line-height: 30px;
-    background-color: white;
-    /* border-style: double  */
-  }
-  
-  body {
-      /* background: linear-gradient(to right, #ffff66, #ffffcc); */
-      background-color: #f7f7f7;
-      border-radius: 6px;
-      height: 120px;
-    font-family: Verdana;
-  }
+
+
+
+html, body, #container {
+  height: 100%;
+  overflow: inherit;
+  /* background-image: url("/575/575finalproject/img/mt.jpg"); */
+  width: 100%
+}
+body {
+  /* padding-top: 50px; */
+  /* background-image: url("/img/mt.jpg") */
+
+
+
+}
+#sidebar {
+  width: 450px;
+  height: 100%;
+  max-width: 100%;
+  float: left;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background-color: rgb(191, 224, 183);
+
+  /* -webkit-transition: all 0.25s ease-out;
+  -moz-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out; */
+}
+#map {
+  background-color: #686363;
+  /* width: 75%; */
+  height: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
   
   .leaflet-popup-content p {
       margin: 0.2em 0;
@@ -93,21 +102,22 @@ html, body, #map {
   }
   
   #header {
-    color:#ffd204;
-    -webkit-text-stroke-color: #9b1e25;
-    -webkit-text-stroke-width: 1px;
+    color:#748555;
+    /* -webkit-text-stroke-color: #9b1e25;
+    -webkit-text-stroke-width: 1px; */
     /* border-color: #9b1e25; */
     text-align: center;
       font-size: 2em;
-    font-family: "Guardian Egyptian Web",Georgia,serif;
-    padding: 0;
+    font-family:Helvetica,Arial,sans-serif;
+    padding: 20px;
   }
   
   #header2 {
     padding: 0;
     text-align: center;
     font-size: 1em;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Helvetica,Arial,sans-serif;
+    color:#748555;
   }
   
   #sources {
@@ -116,4 +126,35 @@ html, body, #map {
     line-height: 10px;
     color: blue;
     opacity: .8;
+  }
+
+  
+/* #panel {
+    /* float: left;
+    width: 26%;
+    padding: 20px;
+    height: 750px; */
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    /* text-align: center;
+    line-height: 30px;
+    background-color: white;
+    border-style: double;
+    overflow: scroll; */
+  /* }   */ 
+
+  .sidebar-wrapper {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  .sidebar-table {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+    overflow: auto;
+    background-color: rgb(191, 224, 183);
+    /* color: rgb(14, 10, 248); */
+  
   }

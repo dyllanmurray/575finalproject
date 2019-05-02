@@ -1,0 +1,9440 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4440002,45.52119827 ]
+    },
+    "properties": {
+    "Name":"Absarokee",
+    "County":"Stillwater",
+    "Pop_2010":1150,
+    "Pop_2000":1223,
+    "Pop_1990":1039,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4820023,47.00419998 ]
+    },
+    "properties": {
+    "Name":"Alberton",
+    "County":"Mineral",
+    "Pop_2010":420,
+    "Pop_2000":374,
+    "Pop_1990":354,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0839996,47.1617012 ]
+    },
+    "properties": {
+    "Name":"Arlee",
+    "County":"Lake",
+    "Pop_2010":636,
+    "Pop_2000":603,
+    "Pop_1990":490,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2220001,48.14099884 ]
+    },
+    "properties": {
+    "Name":"Bainville",
+    "County":"Roosevelt",
+    "Pop_2010":208,
+    "Pop_2000":152,
+    "Pop_1990":164,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1569977,45.16019821 ]
+    },
+    "properties": {
+    "Name":"Bearcreek",
+    "County":"Carbon",
+    "Pop_2010":79,
+    "Pop_2000":80,
+    "Pop_1990":36,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.177002,45.77669907 ]
+    },
+    "properties": {
+    "Name":"Belgrade",
+    "County":"Gallatin",
+    "Pop_2010":7389,
+    "Pop_2000":5694,
+    "Pop_1990":3519,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9260025,47.38579941 ]
+    },
+    "properties": {
+    "Name":"Belt",
+    "County":"Cascade",
+    "Pop_2010":597,
+    "Pop_2000":626,
+    "Pop_1990":569,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.112999,48.17779922 ]
+    },
+    "properties": {
+    "Name":"Big Sandy",
+    "County":"Chouteau",
+    "Pop_2010":598,
+    "Pop_2000":694,
+    "Pop_1990":737,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5019989,45.7840004 ]
+    },
+    "properties": {
+    "Name":"Billings",
+    "County":"Yellowstone",
+    "Pop_2010":104170,
+    "Pop_2000":91072,
+    "Pop_1990":82693,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8649979,46.87279892 ]
+    },
+    "properties": {
+    "Name":"Bonner",
+    "County":"Missoula",
+    "Pop_2010":70,
+    "Pop_2000":119,
+    "Pop_1990":121,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1200027,46.23709869 ]
+    },
+    "properties": {
+    "Name":"Boulder",
+    "County":"Jefferson",
+    "Pop_2010":1183,
+    "Pop_2000":1294,
+    "Pop_1990":1293,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0390015,45.68040085 ]
+    },
+    "properties": {
+    "Name":"Bozeman",
+    "County":"Gallatin",
+    "Pop_2010":37280,
+    "Pop_2000":28195,
+    "Pop_1990":23546,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9140015,45.2947998 ]
+    },
+    "properties": {
+    "Name":"Bridger",
+    "County":"Carbon",
+    "Pop_2010":708,
+    "Pop_2000":728,
+    "Pop_1990":672,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8779984,46.09830093 ]
+    },
+    "properties": {
+    "Name":"Broadview",
+    "County":"Yellowstone",
+    "Pop_2010":192,
+    "Pop_2000":150,
+    "Pop_1990":133,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.0130005,48.55609894 ]
+    },
+    "properties": {
+    "Name":"Browning",
+    "County":"Glacier",
+    "Pop_2010":1016,
+    "Pop_2000":1034,
+    "Pop_1990":1151,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6999969,47.27080154 ]
+    },
+    "properties": {
+    "Name":"Cascade",
+    "County":"Cascade",
+    "Pop_2010":685,
+    "Pop_2000":821,
+    "Pop_1990":734,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1719971,47.43909836 ]
+    },
+    "properties": {
+    "Name":"Charlo",
+    "County":"Lake",
+    "Pop_2010":379,
+    "Pop_2000":436,
+    "Pop_1990":354,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9680023,48.50970078 ]
+    },
+    "properties": {
+    "Name":"Chester",
+    "County":"Liberty",
+    "Pop_2010":847,
+    "Pop_2000":868,
+    "Pop_1990":938,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2320023,48.58919907 ]
+    },
+    "properties": {
+    "Name":"Chinook",
+    "County":"Blaine",
+    "Pop_2010":1203,
+    "Pop_2000":1383,
+    "Pop_1990":1507,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6039963,45.88430023 ]
+    },
+    "properties": {
+    "Name":"Clyde Park",
+    "County":"Park",
+    "Pop_2010":288,
+    "Pop_2000":296,
+    "Pop_1990":244,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6259995,45.88489914 ]
+    },
+    "properties": {
+    "Name":"Colstrip",
+    "County":"Rosebud",
+    "Pop_2010":2214,
+    "Pop_2000":2338,
+    "Pop_1990":2754,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1809998,48.37319946 ]
+    },
+    "properties": {
+    "Name":"Columbia Falls",
+    "County":"Flathead",
+    "Pop_2010":4688,
+    "Pop_2000":3888,
+    "Pop_1990":3283,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2529984,45.63729858 ]
+    },
+    "properties": {
+    "Name":"Columbus",
+    "County":"Stillwater",
+    "Pop_2010":1893,
+    "Pop_2000":1750,
+    "Pop_1990":1549,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9459991,48.16949844 ]
+    },
+    "properties": {
+    "Name":"Conrad",
+    "County":"Pondera",
+    "Pop_2010":2570,
+    "Pop_2000":2749,
+    "Pop_1990":2885,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5179977,48.14619827 ]
+    },
+    "properties": {
+    "Name":"Culbertson",
+    "County":"Roosevelt",
+    "Pop_2010":714,
+    "Pop_2000":716,
+    "Pop_1990":797,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3320007,48.63629913 ]
+    },
+    "properties": {
+    "Name":"Cut Bank",
+    "County":"Glacier",
+    "Pop_2010":2869,
+    "Pop_2000":3078,
+    "Pop_1990":3288,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1780014,46.02090073 ]
+    },
+    "properties": {
+    "Name":"Darby",
+    "County":"Ravalli",
+    "Pop_2010":720,
+    "Pop_2000":717,
+    "Pop_1990":618,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7289963,46.39619827 ]
+    },
+    "properties": {
+    "Name":"Deer Lodge",
+    "County":"Powell",
+    "Pop_2010":3111,
+    "Pop_2000":3378,
+    "Pop_1990":3332,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.947998,47.31940079 ]
+    },
+    "properties": {
+    "Name":"Denton",
+    "County":"Fergus",
+    "Pop_2010":255,
+    "Pop_2000":300,
+    "Pop_1990":349,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.637001,45.21699905 ]
+    },
+    "properties": {
+    "Name":"Dillon",
+    "County":"Beaverhead",
+    "Pop_2010":4134,
+    "Pop_2000":3818,
+    "Pop_1990":4061,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.2460022,48.39609909 ]
+    },
+    "properties": {
+    "Name":"Dodson",
+    "County":"Phillips",
+    "Pop_2010":124,
+    "Pop_2000":120,
+    "Pop_1990":133,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1460037,46.66770172 ]
+    },
+    "properties": {
+    "Name":"Drummond",
+    "County":"Granite",
+    "Pop_2010":309,
+    "Pop_2000":295,
+    "Pop_1990":249,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2170029,48.44060135 ]
+    },
+    "properties": {
+    "Name":"East Glacier Park",
+    "County":"Glacier",
+    "Pop_2010":363,
+    "Pop_2000":395,
+    "Pop_1990":324,
+    "Type":"Census Designated Place with Alternate Name"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5490036,45.88980103 ]
+    },
+    "properties": {
+    "Name":"Ekalaka",
+    "County":"Carter",
+    "Pop_2010":332,
+    "Pop_2000":410,
+    "Pop_1990":439,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7300034,45.34870148 ]
+    },
+    "properties": {
+    "Name":"Ennis",
+    "County":"Madison",
+    "Pop_2010":838,
+    "Pop_2000":826,
+    "Pop_1990":760,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.052002,48.87929916 ]
+    },
+    "properties": {
+    "Name":"Eureka",
+    "County":"Lincoln",
+    "Pop_2010":1037,
+    "Pop_2000":1018,
+    "Pop_1990":1035,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9800034,47.61420059 ]
+    },
+    "properties": {
+    "Name":"Fairfield",
+    "County":"Teton",
+    "Pop_2010":708,
+    "Pop_2000":635,
+    "Pop_1990":637,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0449982,47.85329819 ]
+    },
+    "properties": {
+    "Name":"Fairview",
+    "County":"Richland",
+    "Pop_2010":840,
+    "Pop_2000":708,
+    "Pop_1990":869,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1760025,48.80319977 ]
+    },
+    "properties": {
+    "Name":"Flaxville",
+    "County":"Daniels",
+    "Pop_2010":71,
+    "Pop_2000":79,
+    "Pop_1990":85,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6800003,46.26689911 ]
+    },
+    "properties": {
+    "Name":"Forsyth",
+    "County":"Rosebud",
+    "Pop_2010":1777,
+    "Pop_2000":1904,
+    "Pop_1990":2152,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.7590027,48.48300171 ]
+    },
+    "properties": {
+    "Name":"Fort Belknap Agency",
+    "County":"Blaine",
+    "Pop_2010":1293,
+    "Pop_2000":1326,
+    "Pop_1990":1096,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6729965,47.81940079 ]
+    },
+    "properties": {
+    "Name":"Fort Benton",
+    "County":"Chouteau",
+    "Pop_2010":1464,
+    "Pop_2000":1589,
+    "Pop_1990":1656,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4489975,48.00880051 ]
+    },
+    "properties": {
+    "Name":"Fort Peck",
+    "County":"Valley",
+    "Pop_2010":233,
+    "Pop_2000":240,
+    "Pop_1990":197,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0449982,48.05860138 ]
+    },
+    "properties": {
+    "Name":"Frazer",
+    "County":"Valley",
+    "Pop_2010":362,
+    "Pop_2000":427,
+    "Pop_1990":378,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9079971,45.39289856 ]
+    },
+    "properties": {
+    "Name":"Fromberg",
+    "County":"Carbon",
+    "Pop_2010":438,
+    "Pop_2000":483,
+    "Pop_1990":366,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2659988,47.60309982 ]
+    },
+    "properties": {
+    "Name":"Geraldine",
+    "County":"Chouteau",
+    "Pop_2010":261,
+    "Pop_2000":284,
+    "Pop_1990":300,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6389999,48.19630051 ]
+    },
+    "properties": {
+    "Name":"Glasgow",
+    "County":"Valley",
+    "Pop_2010":3250,
+    "Pop_2000":3219,
+    "Pop_1990":3535,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7149963,47.1053009 ]
+    },
+    "properties": {
+    "Name":"Glendive",
+    "County":"Dawson",
+    "Pop_2010":4935,
+    "Pop_2000":4722,
+    "Pop_1990":4796,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3010025,47.49959946 ]
+    },
+    "properties": {
+    "Name":"Great Falls",
+    "County":"Cascade",
+    "Pop_2010":58505,
+    "Pop_2000":56874,
+    "Pop_1990":55386,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1589966,46.24739838 ]
+    },
+    "properties": {
+    "Name":"Hamilton",
+    "County":"Ravalli",
+    "Pop_2010":4348,
+    "Pop_2000":3815,
+    "Pop_1990":3023,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.7850037,48.53250122 ]
+    },
+    "properties": {
+    "Name":"Harlem",
+    "County":"Blaine",
+    "Pop_2010":808,
+    "Pop_2000":843,
+    "Pop_1990":876,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.8349991,46.43590164 ]
+    },
+    "properties": {
+    "Name":"Harlowton",
+    "County":"Wheatland",
+    "Pop_2010":997,
+    "Pop_2000":1049,
+    "Pop_1990":1035,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6949997,47.99069977 ]
+    },
+    "properties": {
+    "Name":"Hays",
+    "County":"Blaine",
+    "Pop_2010":843,
+    "Pop_2000":777,
+    "Pop_1990":562,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8359985,48.2826004 ]
+    },
+    "properties": {
+    "Name":"Heart Butte",
+    "County":"Pondera",
+    "Pop_2010":582,
+    "Pop_2000":697,
+    "Pop_1990":498,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4219971,48.55419922 ]
+    },
+    "properties": {
+    "Name":"Hingham",
+    "County":"Hill",
+    "Pop_2010":118,
+    "Pop_2000":157,
+    "Pop_1990":181,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6669998,47.6086998 ]
+    },
+    "properties": {
+    "Name":"Hot Springs",
+    "County":"Sanders",
+    "Pop_2010":544,
+    "Pop_2000":544,
+    "Pop_1990":420,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2340012,46.29299927 ]
+    },
+    "properties": {
+    "Name":"Hysham",
+    "County":"Treasure",
+    "Pop_2010":312,
+    "Pop_2000":328,
+    "Pop_1990":359,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7959976,46.50049973 ]
+    },
+    "properties": {
+    "Name":"Ismay",
+    "County":"Custer",
+    "Pop_2010":19,
+    "Pop_2000":26,
+    "Pop_1990":19,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9710007,45.48600006 ]
+    },
+    "properties": {
+    "Name":"Joliet",
+    "County":"Carbon",
+    "Pop_2010":595,
+    "Pop_2000":567,
+    "Pop_1990":515,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9120026,47.3205986 ]
+    },
+    "properties": {
+    "Name":"Jordan",
+    "County":"Garfield",
+    "Pop_2010":343,
+    "Pop_2000":358,
+    "Pop_1990":481,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7519989,46.67739868 ]
+    },
+    "properties": {
+    "Name":"Judith Gap",
+    "County":"Wheatland",
+    "Pop_2010":126,
+    "Pop_2000":163,
+    "Pop_1990":132,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.310997,48.19509888 ]
+    },
+    "properties": {
+    "Name":"Kalispell",
+    "County":"Flathead",
+    "Pop_2010":19927,
+    "Pop_2000":15218,
+    "Pop_1990":12929,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9649963,48.74850082 ]
+    },
+    "properties": {
+    "Name":"Kevin",
+    "County":"Toole",
+    "Pop_2010":154,
+    "Pop_2000":175,
+    "Pop_1990":185,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6660004,45.62329865 ]
+    },
+    "properties": {
+    "Name":"Lame Deer",
+    "County":"Rosebud",
+    "Pop_2010":2052,
+    "Pop_2000":2016,
+    "Pop_1990":1917,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.7730026,45.6697998 ]
+    },
+    "properties": {
+    "Name":"Laurel",
+    "County":"Yellowstone",
+    "Pop_2010":6718,
+    "Pop_2000":6240,
+    "Pop_1990":5643,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4290009,47.06240082 ]
+    },
+    "properties": {
+    "Name":"Lewistown",
+    "County":"Fergus",
+    "Pop_2010":5901,
+    "Pop_2000":5952,
+    "Pop_1990":6098,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5540009,48.38759995 ]
+    },
+    "properties": {
+    "Name":"Libby",
+    "County":"Lincoln",
+    "Pop_2010":2628,
+    "Pop_2000":2834,
+    "Pop_1990":3038,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.5920029,44.63479996 ]
+    },
+    "properties": {
+    "Name":"Lima",
+    "County":"Beaverhead",
+    "Pop_2010":221,
+    "Pop_2000":238,
+    "Pop_1990":257,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.560997,45.6631012 ]
+    },
+    "properties": {
+    "Name":"Livingston",
+    "County":"Park",
+    "Pop_2010":7044,
+    "Pop_2000":7091,
+    "Pop_1990":7011,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0820007,46.75780106 ]
+    },
+    "properties": {
+    "Name":"Lolo",
+    "County":"Missoula",
+    "Pop_2010":3892,
+    "Pop_2000":3390,
+    "Pop_1990":2721,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8759995,48.35900116 ]
+    },
+    "properties": {
+    "Name":"Malta",
+    "County":"Phillips",
+    "Pop_2010":1997,
+    "Pop_2000":2072,
+    "Pop_1990":2284,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3320007,45.85720062 ]
+    },
+    "properties": {
+    "Name":"Manhattan",
+    "County":"Gallatin",
+    "Pop_2010":1520,
+    "Pop_2000":1424,
+    "Pop_1990":1087,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5080032,48.5007019 ]
+    },
+    "properties": {
+    "Name":"Medicine Lake",
+    "County":"Sheridan",
+    "Pop_2010":225,
+    "Pop_2000":274,
+    "Pop_1990":358,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8690033,46.59840012 ]
+    },
+    "properties": {
+    "Name":"Melstone",
+    "County":"Musselshell",
+    "Pop_2010":96,
+    "Pop_2000":136,
+    "Pop_1990":166,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8430023,46.40879822 ]
+    },
+    "properties": {
+    "Name":"Miles City",
+    "County":"Custer",
+    "Pop_2010":8410,
+    "Pop_2000":8478,
+    "Pop_1990":8534,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9929962,46.87220001 ]
+    },
+    "properties": {
+    "Name":"Missoula",
+    "County":"Missoula",
+    "Pop_2010":66788,
+    "Pop_2000":57051,
+    "Pop_1990":49104,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6969986,46.9754982 ]
+    },
+    "properties": {
+    "Name":"Moore",
+    "County":"Fergus",
+    "Pop_2010":193,
+    "Pop_2000":182,
+    "Pop_1990":209,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3560028,48.13470078 ]
+    },
+    "properties": {
+    "Name":"Nashua",
+    "County":"Valley",
+    "Pop_2010":290,
+    "Pop_2000":325,
+    "Pop_1990":369,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7360001,46.93310165 ]
+    },
+    "properties": {
+    "Name":"Neihart",
+    "County":"Cascade",
+    "Pop_2010":51,
+    "Pop_2000":91,
+    "Pop_1990":53,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4089966,48.85739899 ]
+    },
+    "properties": {
+    "Name":"Opheim",
+    "County":"Valley",
+    "Pop_2010":85,
+    "Pop_2000":108,
+    "Pop_1990":142,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7789993,48.88909912 ]
+    },
+    "properties": {
+    "Name":"Outlook",
+    "County":"Sheridan",
+    "Pop_2010":47,
+    "Pop_2000":82,
+    "Pop_1990":109,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1190033,47.59909821 ]
+    },
+    "properties": {
+    "Name":"Pablo",
+    "County":"Lake",
+    "Pop_2010":2254,
+    "Pop_2000":1810,
+    "Pop_1990":1297,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2929993,46.33259964 ]
+    },
+    "properties": {
+    "Name":"Philipsburg",
+    "County":"Granite",
+    "Pop_2010":820,
+    "Pop_2000":897,
+    "Pop_1990":908,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2229996,46.33549881 ]
+    },
+    "properties": {
+    "Name":"Pinesdale",
+    "County":"Ravalli",
+    "Pop_2010":917,
+    "Pop_2000":731,
+    "Pop_1990":663,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8809967,47.4598999 ]
+    },
+    "properties": {
+    "Name":"Plains",
+    "County":"Sanders",
+    "Pop_2010":1048,
+    "Pop_2000":1107,
+    "Pop_1990":974,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5589981,48.7743988 ]
+    },
+    "properties": {
+    "Name":"Plentywood",
+    "County":"Sheridan",
+    "Pop_2010":1734,
+    "Pop_2000":2034,
+    "Pop_1990":2111,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5189972,46.41690063 ]
+    },
+    "properties": {
+    "Name":"Plevna",
+    "County":"Fallon",
+    "Pop_2010":162,
+    "Pop_2000":136,
+    "Pop_1990":140,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1620026,47.69309998 ]
+    },
+    "properties": {
+    "Name":"Polson",
+    "County":"Lake",
+    "Pop_2010":4488,
+    "Pop_2000":4210,
+    "Pop_1990":3556,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2009964,48.11249924 ]
+    },
+    "properties": {
+    "Name":"Poplar",
+    "County":"Roosevelt",
+    "Pop_2010":810,
+    "Pop_2000":928,
+    "Pop_1990":898,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2480011,45.18650055 ]
+    },
+    "properties": {
+    "Name":"Red Lodge",
+    "County":"Carbon",
+    "Pop_2010":2125,
+    "Pop_2000":2166,
+    "Pop_1990":1958,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1689987,48.8993988 ]
+    },
+    "properties": {
+    "Name":"Rexford",
+    "County":"Lincoln",
+    "Pop_2010":105,
+    "Pop_2000":140,
+    "Pop_1990":115,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0999985,47.52840042 ]
+    },
+    "properties": {
+    "Name":"Ronan",
+    "County":"Lake",
+    "Pop_2010":1871,
+    "Pop_2000":1775,
+    "Pop_1990":1510,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5429993,46.4455986 ]
+    },
+    "properties": {
+    "Name":"Roundup",
+    "County":"Musselshell",
+    "Pop_2010":1788,
+    "Pop_2000":1921,
+    "Pop_1990":1795,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3440018,48.45640182 ]
+    },
+    "properties": {
+    "Name":"Saco",
+    "County":"Phillips",
+    "Pop_2010":197,
+    "Pop_2000":222,
+    "Pop_1990":260,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0950012,47.31969833 ]
+    },
+    "properties": {
+    "Name":"Saint Ignatius",
+    "County":"Lake",
+    "Pop_2010":842,
+    "Pop_2000":812,
+    "Pop_1990":792,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4229965,48.79180145 ]
+    },
+    "properties": {
+    "Name":"Scobey",
+    "County":"Daniels",
+    "Pop_2010":1017,
+    "Pop_2000":1079,
+    "Pop_1990":1150,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8570023,48.50450134 ]
+    },
+    "properties": {
+    "Name":"Shelby",
+    "County":"Toole",
+    "Pop_2010":3376,
+    "Pop_2000":3219,
+    "Pop_1990":2790,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1959991,45.45619965 ]
+    },
+    "properties": {
+    "Name":"Sheridan",
+    "County":"Madison",
+    "Pop_2010":642,
+    "Pop_2000":652,
+    "Pop_1990":603,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.1589966,47.71229935 ]
+    },
+    "properties": {
+    "Name":"Sidney",
+    "County":"Richland",
+    "Pop_2010":5191,
+    "Pop_2000":4946,
+    "Pop_1990":5401,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0920029,46.51029968 ]
+    },
+    "properties": {
+    "Name":"Stevensville",
+    "County":"Ravalli",
+    "Pop_2010":1809,
+    "Pop_2000":1610,
+    "Pop_1990":1281,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9110031,48.88199997 ]
+    },
+    "properties": {
+    "Name":"Sunburst",
+    "County":"Toole",
+    "Pop_2010":375,
+    "Pop_2000":415,
+    "Pop_1990":437,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8909988,47.19350052 ]
+    },
+    "properties": {
+    "Name":"Superior",
+    "County":"Mineral",
+    "Pop_2010":812,
+    "Pop_2000":896,
+    "Pop_1990":885,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3130035,46.79270172 ]
+    },
+    "properties": {
+    "Name":"Terry",
+    "County":"Prairie",
+    "Pop_2010":605,
+    "Pop_2000":608,
+    "Pop_1990":657,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3420029,47.59680176 ]
+    },
+    "properties": {
+    "Name":"Thompson Falls",
+    "County":"Sanders",
+    "Pop_2010":1313,
+    "Pop_2000":1262,
+    "Pop_1990":1328,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.552002,45.89310074 ]
+    },
+    "properties": {
+    "Name":"Three Forks",
+    "County":"Gallatin",
+    "Pop_2010":1869,
+    "Pop_2000":1725,
+    "Pop_1990":1208,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5210037,46.31949997 ]
+    },
+    "properties": {
+    "Name":"Townsend",
+    "County":"Broadwater",
+    "Pop_2010":1878,
+    "Pop_2000":1861,
+    "Pop_1990":1639,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8929977,48.46260071 ]
+    },
+    "properties": {
+    "Name":"Troy",
+    "County":"Lincoln",
+    "Pop_2010":938,
+    "Pop_2000":923,
+    "Pop_1990":994,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3310013,45.54510117 ]
+    },
+    "properties": {
+    "Name":"Twin Bridges",
+    "County":"Madison",
+    "Pop_2010":375,
+    "Pop_2000":400,
+    "Pop_1990":374,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2490005,48.30699921 ]
+    },
+    "properties": {
+    "Name":"Valier",
+    "County":"Pondera",
+    "Pop_2010":509,
+    "Pop_2000":494,
+    "Pop_1990":516,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9449997,45.29339981 ]
+    },
+    "properties": {
+    "Name":"Virginia City",
+    "County":"Madison",
+    "Pop_2010":190,
+    "Pop_2000":132,
+    "Pop_1990":143,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1039963,44.66260147 ]
+    },
+    "properties": {
+    "Name":"West Yellowstone",
+    "County":"Gallatin",
+    "Pop_2010":1271,
+    "Pop_2000":1166,
+    "Pop_1990":906,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0510025,48.87039948 ]
+    },
+    "properties": {
+    "Name":"Westby",
+    "County":"Sheridan",
+    "Pop_2010":168,
+    "Pop_2000":170,
+    "Pop_1990":252,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9020004,46.54859924 ]
+    },
+    "properties": {
+    "Name":"White Sulphur Springs",
+    "County":"Meagher",
+    "Pop_2010":939,
+    "Pop_2000":974,
+    "Pop_1990":953,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3359985,48.41030121 ]
+    },
+    "properties": {
+    "Name":"Whitefish",
+    "County":"Flathead",
+    "Pop_2010":6357,
+    "Pop_2000":5623,
+    "Pop_1990":5041,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0970001,45.87139893 ]
+    },
+    "properties": {
+    "Name":"Whitehall",
+    "County":"Jefferson",
+    "Pop_2010":1038,
+    "Pop_2000":1028,
+    "Pop_1990":1057,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.1880035,46.98960114 ]
+    },
+    "properties": {
+    "Name":"Wibaux",
+    "County":"Wibaux",
+    "Pop_2010":589,
+    "Pop_2000":567,
+    "Pop_1990":627,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3779984,47.55939865 ]
+    },
+    "properties": {
+    "Name":"Winifred",
+    "County":"Fergus",
+    "Pop_2010":208,
+    "Pop_2000":156,
+    "Pop_1990":150,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3529968,47.00279999 ]
+    },
+    "properties": {
+    "Name":"Winnett",
+    "County":"Petroleum",
+    "Pop_2010":182,
+    "Pop_2000":185,
+    "Pop_1990":188,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6429977,48.09000015 ]
+    },
+    "properties": {
+    "Name":"Wolf Point",
+    "County":"Roosevelt",
+    "Pop_2010":2621,
+    "Pop_2000":2636,
+    "Pop_1990":2839,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1829987,47.8125 ]
+    },
+    "properties": {
+    "Name":"Choteau",
+    "County":"Teton",
+    "Pop_2010":1684,
+    "Pop_2000":1768,
+    "Pop_1990":1741,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5879974,47.41719818 ]
+    },
+    "properties": {
+    "Name":"Circle",
+    "County":"Mccone",
+    "Pop_2010":615,
+    "Pop_2000":626,
+    "Pop_1990":794,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9520035,46.12799835 ]
+    },
+    "properties": {
+    "Name":"Anaconda",
+    "County":"Deer Lodge",
+    "Pop_2010":5913,
+    "Pop_2000":5901,
+    "Pop_1990":6606,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9540024,45.83409882 ]
+    },
+    "properties": {
+    "Name":"Big Timber",
+    "County":"Sweet Grass",
+    "Pop_2010":1641,
+    "Pop_2000":1645,
+    "Pop_1990":1537,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4100037,45.44469833 ]
+    },
+    "properties": {
+    "Name":"Broadus",
+    "County":"Powder River",
+    "Pop_2010":468,
+    "Pop_2000":455,
+    "Pop_1990":573,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9560013,45.53699875 ]
+    },
+    "properties": {
+    "Name":"Busby",
+    "County":"Big Horn",
+    "Pop_2010":745,
+    "Pop_2000":695,
+    "Pop_1990":465,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.5339966,46.00439835 ]
+    },
+    "properties": {
+    "Name":"Butte",
+    "County":"Silver Bow",
+    "Pop_2010":29140,
+    "Pop_2000":29744,
+    "Pop_1990":29882,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.4589996,45.60210037 ]
+    },
+    "properties": {
+    "Name":"Crow Agency",
+    "County":"Big Horn",
+    "Pop_2010":1616,
+    "Pop_2000":1547,
+    "Pop_1990":1459,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9150009,46.58990097 ]
+    },
+    "properties": {
+    "Name":"East Helena",
+    "County":"Lewis and Clark",
+    "Pop_2010":1984,
+    "Pop_2000":1759,
+    "Pop_1990":1599,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6139984,45.73320007 ]
+    },
+    "properties": {
+    "Name":"Hardin",
+    "County":"Big Horn",
+    "Pop_2010":3505,
+    "Pop_2000":3396,
+    "Pop_1990":2978,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0360031,46.5929985 ]
+    },
+    "properties": {
+    "Name":"Helena",
+    "County":"Lewis and Clark",
+    "Pop_2010":28190,
+    "Pop_2000":26275,
+    "Pop_1990":25010,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.8730011,47.00040054 ]
+    },
+    "properties": {
+    "Name":"Hobson",
+    "County":"Judith Basin",
+    "Pop_2010":215,
+    "Pop_2000":219,
+    "Pop_1990":204,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9380035,46.29449844 ]
+    },
+    "properties": {
+    "Name":"Lavina",
+    "County":"Golden Valley",
+    "Pop_2010":187,
+    "Pop_2000":209,
+    "Pop_1990":151,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3649979,45.31520081 ]
+    },
+    "properties": {
+    "Name":"Lodge Grass",
+    "County":"Big Horn",
+    "Pop_2010":428,
+    "Pop_2000":522,
+    "Pop_1990":525,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5329971,45.42959976 ]
+    },
+    "properties": {
+    "Name":"Pryor",
+    "County":"Big Horn",
+    "Pop_2010":618,
+    "Pop_2000":628,
+    "Pop_1990":654,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2590027,46.29909897 ]
+    },
+    "properties": {
+    "Name":"Ryegate",
+    "County":"Golden Valley",
+    "Pop_2010":245,
+    "Pop_2000":268,
+    "Pop_1990":260,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2190018,47.15340042 ]
+    },
+    "properties": {
+    "Name":"Stanford",
+    "County":"Judith Basin",
+    "Pop_2010":401,
+    "Pop_2000":463,
+    "Pop_1990":533,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.5390015,46.02939987 ]
+    },
+    "properties": {
+    "Name":"Walkerville",
+    "County":"Silver Bow",
+    "Pop_2010":675,
+    "Pop_2000":759,
+    "Pop_1990":811,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0059967,45.14260101 ]
+    },
+    "properties": {
+    "Name":"Belfry",
+    "County":"Carbon",
+    "Pop_2010":218,
+    "Pop_2000":215,
+    "Pop_1990":194,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0800018,48.06430054 ]
+    },
+    "properties": {
+    "Name":"Bigfork",
+    "County":"Flathead",
+    "Pop_2010":3618,
+    "Pop_2000":3031,
+    "Pop_1990":2277,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.0139999,48.31639862 ]
+    },
+    "properties": {
+    "Name":"Box Elder",
+    "County":"Hill",
+    "Pop_2010":87,
+    "Pop_2000":78,
+    "Pop_1990":92,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8399963,48.03659821 ]
+    },
+    "properties": {
+    "Name":"Brady",
+    "County":"Pondera",
+    "Pop_2010":140,
+    "Pop_2000":158,
+    "Pop_1990":146,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.7129974,46.77009964 ]
+    },
+    "properties": {
+    "Name":"Clinton",
+    "County":"Missoula",
+    "Pop_2010":1052,
+    "Pop_2000":674,
+    "Pop_1990":403,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.7089996,47.52730179 ]
+    },
+    "properties": {
+    "Name":"Condon",
+    "County":"Missoula",
+    "Pop_2010":343,
+    "Pop_2000":268,
+    "Pop_1990":271,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1139984,46.31430054 ]
+    },
+    "properties": {
+    "Name":"Corvallis",
+    "County":"Ravalli",
+    "Pop_2010":976,
+    "Pop_2000":573,
+    "Pop_1990":331,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5540009,46.1291008 ]
+    },
+    "properties": {
+    "Name":"Custer",
+    "County":"Yellowstone",
+    "Pop_2010":159,
+    "Pop_2000":143,
+    "Pop_1990":100,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3150024,47.31620026 ]
+    },
+    "properties": {
+    "Name":"Dixon",
+    "County":"Sanders",
+    "Pop_2010":203,
+    "Pop_2000":216,
+    "Pop_1990":167,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0800018,46.63040161 ]
+    },
+    "properties": {
+    "Name":"Florence",
+    "County":"Ravalli",
+    "Pop_2010":765,
+    "Pop_2000":510,
+    "Pop_1990":448,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2310028,47.0141983 ]
+    },
+    "properties": {
+    "Name":"Frenchtown",
+    "County":"Missoula",
+    "Pop_2010":1825,
+    "Pop_2000":1039,
+    "Pop_1990":480,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3519974,48.47470093 ]
+    },
+    "properties": {
+    "Name":"Galata",
+    "County":"Toole",
+    "Pop_2010":12,
+    "Pop_2000":14,
+    "Pop_1990":22,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2009964,45.59220123 ]
+    },
+    "properties": {
+    "Name":"Gallatin Gateway",
+    "County":"Gallatin",
+    "Pop_2010":856,
+    "Pop_2000":867,
+    "Pop_1990":617,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7060013,45.03250122 ]
+    },
+    "properties": {
+    "Name":"Gardiner",
+    "County":"Park",
+    "Pop_2010":875,
+    "Pop_2000":873,
+    "Pop_1990":927,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.3000031,48.5685997 ]
+    },
+    "properties": {
+    "Name":"Gildford",
+    "County":"Hill",
+    "Pop_2010":179,
+    "Pop_2000":184,
+    "Pop_1990":186,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7860031,45.70149994 ]
+    },
+    "properties": {
+    "Name":"Harrison",
+    "County":"Madison",
+    "Pop_2010":137,
+    "Pop_2000":158,
+    "Pop_1990":37,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9570007,48.05799866 ]
+    },
+    "properties": {
+    "Name":"Heron",
+    "County":"Sanders",
+    "Pop_2010":282,
+    "Pop_2000":192,
+    "Pop_1990":180,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.086998,48.39339828 ]
+    },
+    "properties": {
+    "Name":"Hinsdale",
+    "County":"Valley",
+    "Pop_2010":217,
+    "Pop_2000":211,
+    "Pop_1990":246,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7730026,48.56000137 ]
+    },
+    "properties": {
+    "Name":"Joplin",
+    "County":"Liberty",
+    "Pop_2010":157,
+    "Pop_2000":210,
+    "Pop_1990":248,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.6240005,47.68320084 ]
+    },
+    "properties": {
+    "Name":"Lambert",
+    "County":"Richland",
+    "Pop_2010":158,
+    "Pop_2000":157,
+    "Pop_1990":148,
+    "Type":"Census Designated Place with Alternate Name"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.663002,48.10580063 ]
+    },
+    "properties": {
+    "Name":"Marion",
+    "County":"Flathead",
+    "Pop_2010":886,
+    "Pop_2000":443,
+    "Pop_1990":232,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.947998,46.53839874 ]
+    },
+    "properties": {
+    "Name":"Montana City",
+    "County":"Jefferson",
+    "Pop_2010":2715,
+    "Pop_2000":2140,
+    "Pop_1990":1270,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.7779999,47.99459839 ]
+    },
+    "properties": {
+    "Name":"Noxon",
+    "County":"Sanders",
+    "Pop_2010":218,
+    "Pop_2000":222,
+    "Pop_1990":221,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9169998,45.6310997 ]
+    },
+    "properties": {
+    "Name":"Park City",
+    "County":"Stillwater",
+    "Pop_2010":983,
+    "Pop_2000":851,
+    "Pop_1990":675,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8310013,48.78319931 ]
+    },
+    "properties": {
+    "Name":"Peerless",
+    "County":"Daniels",
+    "Pop_2010":21,
+    "Pop_2000":46,
+    "Pop_1990":60,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6869965,47.71530151 ]
+    },
+    "properties": {
+    "Name":"Power",
+    "County":"Teton",
+    "Pop_2010":179,
+    "Pop_2000":167,
+    "Pop_1990":121,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6819992,45.38019943 ]
+    },
+    "properties": {
+    "Name":"Pray",
+    "County":"Park",
+    "Pop_2010":681,
+    "Pop_2000":421,
+    "Pop_1990":247,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2559967,45.97249985 ]
+    },
+    "properties": {
+    "Name":"Rapelje",
+    "County":"Stillwater",
+    "Pop_2010":80,
+    "Pop_2000":101,
+    "Pop_1990":69,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1669998,45.35910034 ]
+    },
+    "properties": {
+    "Name":"Roberts",
+    "County":"Carbon",
+    "Pop_2010":361,
+    "Pop_2000":275,
+    "Pop_1990":217,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4469986,46.27500153 ]
+    },
+    "properties": {
+    "Name":"Rosebud",
+    "County":"Rosebud",
+    "Pop_2010":111,
+    "Pop_2000":89,
+    "Pop_1990":44,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9589996,47.33319855 ]
+    },
+    "properties": {
+    "Name":"Roy",
+    "County":"Fergus",
+    "Pop_2010":108,
+    "Pop_2000":165,
+    "Pop_1990":101,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5540009,48.55920029 ]
+    },
+    "properties": {
+    "Name":"Rudyard",
+    "County":"Hill",
+    "Pop_2010":258,
+    "Pop_2000":274,
+    "Pop_1990":308,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1009979,47.29919815 ]
+    },
+    "properties": {
+    "Name":"Saint Regis",
+    "County":"Mineral",
+    "Pop_2010":319,
+    "Pop_2000":309,
+    "Pop_1990":327,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1679993,47.39910126 ]
+    },
+    "properties": {
+    "Name":"Sand Coulee",
+    "County":"Cascade",
+    "Pop_2010":191,
+    "Pop_2000":135,
+    "Pop_1990":112,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3460007,47.45339966 ]
+    },
+    "properties": {
+    "Name":"Savage",
+    "County":"Richland",
+    "Pop_2010":320,
+    "Pop_2000":295,
+    "Pop_1990":267,
+    "Type":"Census Designated Place with Alternate Name"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4789963,47.1739006 ]
+    },
+    "properties": {
+    "Name":"Seeley Lake",
+    "County":"Missoula",
+    "Pop_2010":1659,
+    "Pop_2000":1439,
+    "Pop_1990":933,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3460007,45.94369888 ]
+    },
+    "properties": {
+    "Name":"Shepherd",
+    "County":"Yellowstone",
+    "Pop_2010":516,
+    "Pop_2000":471,
+    "Pop_1990":319,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9280014,47.49119949 ]
+    },
+    "properties": {
+    "Name":"Simms",
+    "County":"Cascade",
+    "Pop_2010":354,
+    "Pop_2000":371,
+    "Pop_1990":292,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2249985,48.08050156 ]
+    },
+    "properties": {
+    "Name":"Somers",
+    "County":"Flathead",
+    "Pop_2010":1109,
+    "Pop_2000":872,
+    "Pop_1990":734,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7210007,47.53290176 ]
+    },
+    "properties": {
+    "Name":"Sun River",
+    "County":"Cascade",
+    "Pop_2010":124,
+    "Pop_2000":134,
+    "Pop_1990":115,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8460007,47.92959976 ]
+    },
+    "properties": {
+    "Name":"Swan Lake",
+    "County":"Lake",
+    "Pop_2010":113,
+    "Pop_2000":117,
+    "Pop_1990":57,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4059982,48.84600067 ]
+    },
+    "properties": {
+    "Name":"Turner",
+    "County":"Blaine",
+    "Pop_2010":61,
+    "Pop_2000":60,
+    "Pop_1990":68,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5070038,47.43190002 ]
+    },
+    "properties": {
+    "Name":"Ulm",
+    "County":"Cascade",
+    "Pop_2010":738,
+    "Pop_2000":749,
+    "Pop_1990":448,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5459976,47.56010056 ]
+    },
+    "properties": {
+    "Name":"Vaughn",
+    "County":"Cascade",
+    "Pop_2010":658,
+    "Pop_2000":697,
+    "Pop_1990":643,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1490021,46.41699982 ]
+    },
+    "properties": {
+    "Name":"Victor",
+    "County":"Ravalli",
+    "Pop_2010":745,
+    "Pop_2000":526,
+    "Pop_1990":358,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9830017,48.49629974 ]
+    },
+    "properties": {
+    "Name":"West Glacier",
+    "County":"Flathead",
+    "Pop_2010":227,
+    "Pop_2000":168,
+    "Pop_1990":172,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6279984,48.7602005 ]
+    },
+    "properties": {
+    "Name":"Whitewater",
+    "County":"Phillips",
+    "Pop_2010":64,
+    "Pop_2000":91,
+    "Pop_1990":42,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6449966,45.82590103 ]
+    },
+    "properties": {
+    "Name":"Willow Creek",
+    "County":"Gallatin",
+    "Pop_2010":210,
+    "Pop_2000":255,
+    "Pop_1990":109,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6600037,45.99440002 ]
+    },
+    "properties": {
+    "Name":"Wilsall",
+    "County":"Park",
+    "Pop_2010":178,
+    "Pop_2000":231,
+    "Pop_1990":156,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.1620026,45.96060181 ]
+    },
+    "properties": {
+    "Name":"Worden",
+    "County":"Yellowstone",
+    "Pop_2010":577,
+    "Pop_2000":505,
+    "Pop_1990":459,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9860001,46.46549988 ]
+    },
+    "properties": {
+    "Name":"Clancy",
+    "County":"Jefferson",
+    "Pop_2010":1029,
+    "Pop_2000":1048,
+    "Pop_1990":840,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3939972,47.49140167 ]
+    },
+    "properties": {
+    "Name":"Augusta",
+    "County":"Lewis and Clark",
+    "Pop_2010":309,
+    "Pop_2000":294,
+    "Pop_1990":305,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4940033,47.25889969 ]
+    },
+    "properties": {
+    "Name":"Geyser",
+    "County":"Judith Basin",
+    "Pop_2010":87,
+    "Pop_2000":67,
+    "Pop_1990":46,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6809998,46.95489883 ]
+    },
+    "properties": {
+    "Name":"Lincoln",
+    "County":"Lewis and Clark",
+    "Pop_2010":1013,
+    "Pop_2000":1095,
+    "Pop_1990":817,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7910004,46.18000031 ]
+    },
+    "properties": {
+    "Name":"Warm Springs",
+    "County":"Deer Lodge",
+    "Pop_2010":465,
+    "Pop_2000":239,
+    "Pop_1990":395,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3949966,45.13010025 ]
+    },
+    "properties": {
+    "Name":"Wyola",
+    "County":"Big Horn",
+    "Pop_2010":215,
+    "Pop_2000":184,
+    "Pop_1990":162,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6809998,45.93050003 ]
+    },
+    "properties": {
+    "Name":"Acton",
+    "County":"Yellowstone",
+    "Pop_2010":67,
+    "Pop_2000":12,
+    "Pop_1990":39,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2949982,47.32939911 ]
+    },
+    "properties": {
+    "Name":"Agency",
+    "County":"Sanders",
+    "Pop_2010":107,
+    "Pop_2000":95,
+    "Pop_1990":124,
+    "Type":"Census Designated Place with Alternate Name"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1070023,45.32379913 ]
+    },
+    "properties": {
+    "Name":"Alder",
+    "County":"Madison",
+    "Pop_2010":103,
+    "Pop_2000":116,
+    "Pop_1990":52,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.987999,46.45130157 ]
+    },
+    "properties": {
+    "Name":"Alhambra",
+    "County":"Jefferson",
+    "Pop_2010":74,
+    "Pop_2000":73,
+    "Pop_1990":58,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6409988,45.20130157 ]
+    },
+    "properties": {
+    "Name":"Alpine",
+    "County":"Carbon",
+    "Pop_2010":1,
+    "Pop_2000":3,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3000031,45.61880112 ]
+    },
+    "properties": {
+    "Name":"Alta",
+    "County":"Ravalli",
+    "Pop_2010":12,
+    "Pop_2000":12,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4150009,45.02339935 ]
+    },
+    "properties": {
+    "Name":"Alzada",
+    "County":"Carter",
+    "Pop_2010":29,
+    "Pop_2000":14,
+    "Pop_1990":26,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3199997,45.75799942 ]
+    },
+    "properties": {
+    "Name":"Amsterdam",
+    "County":"Gallatin",
+    "Pop_2010":180,
+    "Pop_2000":201,
+    "Pop_1990":192,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3550034,45.64849854 ]
+    },
+    "properties": {
+    "Name":"Anceney",
+    "County":"Gallatin",
+    "Pop_2010":43,
+    "Pop_2000":24,
+    "Pop_1990":9,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5469971,47.95439911 ]
+    },
+    "properties": {
+    "Name":"Andes",
+    "County":"Richland",
+    "Pop_2010":3,
+    "Pop_2000":4,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2009964,46.72999954 ]
+    },
+    "properties": {
+    "Name":"Angela",
+    "County":"Rosebud",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4570007,48.6896019 ]
+    },
+    "properties": {
+    "Name":"Antelope",
+    "County":"Sheridan",
+    "Pop_2010":51,
+    "Pop_2000":49,
+    "Pop_1990":53,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7070007,45.38190079 ]
+    },
+    "properties": {
+    "Name":"Apex",
+    "County":"Beaverhead",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9929962,48.52769852 ]
+    },
+    "properties": {
+    "Name":"Apgar",
+    "County":"Flathead",
+    "Pop_2010":0,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9039993,47.36640167 ]
+    },
+    "properties": {
+    "Name":"Armington",
+    "County":"Cascade",
+    "Pop_2010":145,
+    "Pop_2000":125,
+    "Pop_1990":161,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2450027,46.63909912 ]
+    },
+    "properties": {
+    "Name":"Austin",
+    "County":"Lewis And Clark",
+    "Pop_2010":20,
+    "Pop_2000":12,
+    "Pop_1990":17,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.5970001,46.59840012 ]
+    },
+    "properties": {
+    "Name":"Avon",
+    "County":"Powell",
+    "Pop_2010":111,
+    "Pop_2000":123,
+    "Pop_1990":100,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4369965,48.86029816 ]
+    },
+    "properties": {
+    "Name":"Babb",
+    "County":"Glacier",
+    "Pop_2010":174,
+    "Pop_2000":146,
+    "Pop_1990":55,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.1449966,45.94889832 ]
+    },
+    "properties": {
+    "Name":"Ballantine",
+    "County":"Yellowstone",
+    "Pop_2010":320,
+    "Pop_2000":342,
+    "Pop_1990":307,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9960022,45.1609993 ]
+    },
+    "properties": {
+    "Name":"Bannack",
+    "County":"Beaverhead",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2639999,46.27130127 ]
+    },
+    "properties": {
+    "Name":"Basin",
+    "County":"Jefferson",
+    "Pop_2010":212,
+    "Pop_2000":253,
+    "Pop_1990":53,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4789963,48.66339874 ]
+    },
+    "properties": {
+    "Name":"Baylor",
+    "County":"Valley",
+    "Pop_2010":1,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5690002,46.05530167 ]
+    },
+    "properties": {
+    "Name":"Beebe",
+    "County":"Custer",
+    "Pop_2010":0,
+    "Pop_2000":2,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.4089966,47.66220093 ]
+    },
+    "properties": {
+    "Name":"Belknap",
+    "County":"Sanders",
+    "Pop_2010":158,
+    "Pop_2000":111,
+    "Pop_1990":62,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1110001,45.1391983 ]
+    },
+    "properties": {
+    "Name":"Belle Creek",
+    "County":"Powder River",
+    "Pop_2010":5,
+    "Pop_2000":23,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3769989,45.63830185 ]
+    },
+    "properties": {
+    "Name":"Belltower",
+    "County":"Carter",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.0179977,47.07939911 ]
+    },
+    "properties": {
+    "Name":"Benchland",
+    "County":"Judith Basin",
+    "Pop_2010":7,
+    "Pop_2000":7,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3960037,45.45640182 ]
+    },
+    "properties": {
+    "Name":"Benteen",
+    "County":"Big Horn",
+    "Pop_2010":41,
+    "Pop_2000":49,
+    "Pop_1990":32,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3379974,45.09939957 ]
+    },
+    "properties": {
+    "Name":"Biddle",
+    "County":"Powder River",
+    "Pop_2010":41,
+    "Pop_2000":48,
+    "Pop_1990":14,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2949982,47.79800034 ]
+    },
+    "properties": {
+    "Name":"Big Arm",
+    "County":"Lake",
+    "Pop_2010":177,
+    "Pop_2000":127,
+    "Pop_1990":126,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3119965,45.26089859 ]
+    },
+    "properties": {
+    "Name":"Big Sky Meadow Village",
+    "County":"Gallatin",
+    "Pop_2010":1922,
+    "Pop_2000":915,
+    "Pop_1990":426,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3990021,45.28960037 ]
+    },
+    "properties": {
+    "Name":"Big Sky Mountain Village",
+    "County":"Madison",
+    "Pop_2010":386,
+    "Pop_2000":187,
+    "Pop_1990":142,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.4489975,46.1617012 ]
+    },
+    "properties": {
+    "Name":"Bighorn",
+    "County":"Treasure",
+    "Pop_2010":8,
+    "Pop_2000":3,
+    "Pop_1990":23,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4649963,45.41609955 ]
+    },
+    "properties": {
+    "Name":"Birney Day School",
+    "County":"Rosebud",
+    "Pop_2010":127,
+    "Pop_2000":70,
+    "Pop_1990":84,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2779999,47.52470016 ]
+    },
+    "properties": {
+    "Name":"Black Eagle",
+    "County":"Cascade",
+    "Pop_2010":904,
+    "Pop_2000":908,
+    "Pop_1990":919,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8769989,48.57529831 ]
+    },
+    "properties": {
+    "Name":"Blackfoot",
+    "County":"Glacier",
+    "Pop_2010":65,
+    "Pop_2000":48,
+    "Pop_1990":29,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6060028,48.01250076 ]
+    },
+    "properties": {
+    "Name":"Blackleaf",
+    "County":"Teton",
+    "Pop_2010":0,
+    "Pop_2000":3,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9169998,47.41279984 ]
+    },
+    "properties": {
+    "Name":"Bloomfield",
+    "County":"Dawson",
+    "Pop_2010":3,
+    "Pop_2000":3,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0670013,45.45769882 ]
+    },
+    "properties": {
+    "Name":"Boyd",
+    "County":"Carbon",
+    "Pop_2010":35,
+    "Pop_2000":32,
+    "Pop_1990":3,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0309982,45.26919937 ]
+    },
+    "properties": {
+    "Name":"Boyes",
+    "County":"Carter",
+    "Pop_2010":3,
+    "Pop_2000":10,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2330017,45.81610107 ]
+    },
+    "properties": {
+    "Name":"Brandenberg",
+    "County":"Rosebud",
+    "Pop_2010":12,
+    "Pop_2000":13,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7630005,47.29899979 ]
+    },
+    "properties": {
+    "Name":"Brockway",
+    "County":"McCone",
+    "Pop_2010":22,
+    "Pop_2000":35,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2669983,47.4253006 ]
+    },
+    "properties": {
+    "Name":"Brusett",
+    "County":"Garfield",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.8290024,46.82109833 ]
+    },
+    "properties": {
+    "Name":"Buffalo",
+    "County":"Fergus",
+    "Pop_2010":9,
+    "Pop_2000":18,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3119965,47.9776001 ]
+    },
+    "properties": {
+    "Name":"Bynum",
+    "County":"Teton",
+    "Pop_2010":31,
+    "Pop_2000":31,
+    "Pop_1990":20,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1380005,47.16439819 ]
+    },
+    "properties": {
+    "Name":"Calvert",
+    "County":"Cascade",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6579971,47.61800003 ]
+    },
+    "properties": {
+    "Name":"Camas",
+    "County":"Sanders",
+    "Pop_2010":58,
+    "Pop_2000":27,
+    "Pop_1990":17,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6060028,47.46260071 ]
+    },
+    "properties": {
+    "Name":"Camas Prairie",
+    "County":"Sanders",
+    "Pop_2010":6,
+    "Pop_2000":4,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6790009,45.20330048 ]
+    },
+    "properties": {
+    "Name":"Cameron",
+    "County":"Madison",
+    "Pop_2010":6,
+    "Pop_2000":5,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2639999,46.80550003 ]
+    },
+    "properties": {
+    "Name":"Canyon Creek",
+    "County":"Lewis And Clark",
+    "Pop_2010":32,
+    "Pop_2000":30,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7180023,46.6554985 ]
+    },
+    "properties": {
+    "Name":"Canyon Ferry",
+    "County":"Lewis And Clark",
+    "Pop_2010":35,
+    "Pop_2000":47,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0650024,45.43610001 ]
+    },
+    "properties": {
+    "Name":"Capitol",
+    "County":"Carter",
+    "Pop_2010":6,
+    "Pop_2000":3,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.810997,48.97589874 ]
+    },
+    "properties": {
+    "Name":"Carbert",
+    "County":"Daniels",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9530029,45.85990143 ]
+    },
+    "properties": {
+    "Name":"Cardwell",
+    "County":"Jefferson",
+    "Pop_2010":50,
+    "Pop_2000":40,
+    "Pop_1990":21,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.072998,46.6570015 ]
+    },
+    "properties": {
+    "Name":"Carlyle",
+    "County":"Wibaux",
+    "Pop_2010":0,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9560013,47.78110123 ]
+    },
+    "properties": {
+    "Name":"Carter",
+    "County":"Chouteau",
+    "Pop_2010":58,
+    "Pop_2000":60,
+    "Pop_1990":67,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4670029,46.29940033 ]
+    },
+    "properties": {
+    "Name":"Cartersville",
+    "County":"Rosebud",
+    "Pop_2010":5,
+    "Pop_2000":6,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1429977,47.38970184 ]
+    },
+    "properties": {
+    "Name":"Centerville",
+    "County":"Cascade",
+    "Pop_2010":39,
+    "Pop_2000":30,
+    "Pop_1990":43,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0630035,45.01190186 ]
+    },
+    "properties": {
+    "Name":"Chance",
+    "County":"Carbon",
+    "Pop_2010":33,
+    "Pop_2000":25,
+    "Pop_1990":29,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5469971,46.57239914 ]
+    },
+    "properties": {
+    "Name":"Checkerboard",
+    "County":"Meagher",
+    "Pop_2010":6,
+    "Pop_2000":18,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7050018,45.32099915 ]
+    },
+    "properties": {
+    "Name":"Chico",
+    "County":"Park",
+    "Pop_2010":19,
+    "Pop_2000":4,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.4869995,47.7784996 ]
+    },
+    "properties": {
+    "Name":"Childs",
+    "County":"Sanders",
+    "Pop_2010":76,
+    "Pop_2000":69,
+    "Pop_1990":45,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3249969,47.38399887 ]
+    },
+    "properties": {
+    "Name":"Christina",
+    "County":"Fergus",
+    "Pop_2010":11,
+    "Pop_2000":5,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3040009,45.75080109 ]
+    },
+    "properties": {
+    "Name":"Churchill",
+    "County":"Gallatin",
+    "Pop_2010":902,
+    "Pop_2000":573,
+    "Pop_1990":322,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4140015,46.0298996 ]
+    },
+    "properties": {
+    "Name":"Clarkston",
+    "County":"Gallatin",
+    "Pop_2010":52,
+    "Pop_2000":21,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.3779984,47.00019836 ]
+    },
+    "properties": {
+    "Name":"Clearwater",
+    "County":"Missoula",
+    "Pop_2010":12,
+    "Pop_2000":8,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1529999,48.26940155 ]
+    },
+    "properties": {
+    "Name":"Cleveland",
+    "County":"Blaine",
+    "Pop_2010":4,
+    "Pop_2000":3,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4089966,45.88219833 ]
+    },
+    "properties": {
+    "Name":"Cline",
+    "County":"Yellowstone",
+    "Pop_2010":258,
+    "Pop_2000":243,
+    "Pop_1990":226,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.1880035,48.69760132 ]
+    },
+    "properties": {
+    "Name":"Coalridge",
+    "County":"Sheridan",
+    "Pop_2010":6,
+    "Pop_2000":10,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5910034,45.72809982 ]
+    },
+    "properties": {
+    "Name":"Coalwood",
+    "County":"Powder River",
+    "Pop_2010":2,
+    "Pop_2000":4,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.0820007,47.34780121 ]
+    },
+    "properties": {
+    "Name":"Coffee Creek",
+    "County":"Fergus",
+    "Pop_2010":22,
+    "Pop_2000":16,
+    "Pop_1990":24,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6179962,47.0544014 ]
+    },
+    "properties": {
+    "Name":"Cohagen",
+    "County":"Garfield",
+    "Pop_2010":4,
+    "Pop_2000":2,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8099976,47.92829895 ]
+    },
+    "properties": {
+    "Name":"Collins",
+    "County":"Teton",
+    "Pop_2010":6,
+    "Pop_2000":7,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.125,45.93069839 ]
+    },
+    "properties": {
+    "Name":"Conner",
+    "County":"Ravalli",
+    "Pop_2010":216,
+    "Pop_2000":92,
+    "Pop_1990":42,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2259979,45.50830078 ]
+    },
+    "properties": {
+    "Name":"Contact",
+    "County":"Park",
+    "Pop_2010":11,
+    "Pop_2000":12,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5599976,48.02059937 ]
+    },
+    "properties": {
+    "Name":"Content",
+    "County":"Phillips",
+    "Pop_2010":1,
+    "Pop_2000":5,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9339981,45.01959991 ]
+    },
+    "properties": {
+    "Name":"Cooke City",
+    "County":"Park",
+    "Pop_2010":75,
+    "Pop_2000":114,
+    "Pop_1990":58,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0459976,48.41799927 ]
+    },
+    "properties": {
+    "Name":"Coram",
+    "County":"Flathead",
+    "Pop_2010":539,
+    "Pop_2000":498,
+    "Pop_1990":339,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0619965,46.38050079 ]
+    },
+    "properties": {
+    "Name":"Corbin",
+    "County":"Jefferson",
+    "Pop_2010":40,
+    "Pop_2000":27,
+    "Pop_1990":40,
+    "Type":"2-kilometer diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7890015,45.11190033 ]
+    },
+    "properties": {
+    "Name":"Corwin Springs",
+    "County":"Park",
+    "Pop_2010":109,
+    "Pop_2000":126,
+    "Pop_1990":57,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8050003,46.0646019 ]
+    },
+    "properties": {
+    "Name":"Crackerville",
+    "County":"Deer Lodge",
+    "Pop_2010":33,
+    "Pop_2000":35,
+    "Pop_1990":24,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9629974,47.07440186 ]
+    },
+    "properties": {
+    "Name":"Craig",
+    "County":"Lewis And Clark",
+    "Pop_2010":43,
+    "Pop_2000":53,
+    "Pop_1990":45,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2570038,47.57730103 ]
+    },
+    "properties": {
+    "Name":"Crane",
+    "County":"Richland",
+    "Pop_2010":102,
+    "Pop_2000":83,
+    "Pop_1990":102,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.137001,48.18939972 ]
+    },
+    "properties": {
+    "Name":"Creston",
+    "County":"Flathead",
+    "Pop_2010":208,
+    "Pop_2000":129,
+    "Pop_1990":98,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0429993,46.28829956 ]
+    },
+    "properties": {
+    "Name":"Cushman",
+    "County":"Golden Valley",
+    "Pop_2010":8,
+    "Pop_2000":13,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5800018,47.00889969 ]
+    },
+    "properties": {
+    "Name":"Cyr",
+    "County":"Mineral",
+    "Pop_2010":26,
+    "Pop_2000":21,
+    "Pop_1990":12,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.197998,48.58340073 ]
+    },
+    "properties": {
+    "Name":"Dagmar",
+    "County":"Sheridan",
+    "Pop_2010":16,
+    "Pop_2000":11,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7170029,47.22529984 ]
+    },
+    "properties": {
+    "Name":"Danvers",
+    "County":"Fergus",
+    "Pop_2010":9,
+    "Pop_2000":15,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2789993,47.86579895 ]
+    },
+    "properties": {
+    "Name":"Dayton",
+    "County":"Lake",
+    "Pop_2010":84,
+    "Pop_2000":86,
+    "Pop_1990":60,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3460007,47.37580109 ]
+    },
+    "properties": {
+    "Name":"De Borgia",
+    "County":"Mineral",
+    "Pop_2010":78,
+    "Pop_2000":69,
+    "Pop_1990":28,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6900024,45.40470123 ]
+    },
+    "properties": {
+    "Name":"Dean",
+    "County":"Stillwater",
+    "Pop_2010":18,
+    "Pop_2000":29,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.862999,45.01190186 ]
+    },
+    "properties": {
+    "Name":"Decker",
+    "County":"Big Horn",
+    "Pop_2010":1,
+    "Pop_2000":3,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.677002,47.25970078 ]
+    },
+    "properties": {
+    "Name":"Deerfield Colony",
+    "County":"Fergus",
+    "Pop_2010":23,
+    "Pop_2000":25,
+    "Pop_1990":30,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.697998,44.72330093 ]
+    },
+    "properties": {
+    "Name":"Dell",
+    "County":"Beaverhead",
+    "Pop_2010":27,
+    "Pop_2000":37,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.2190018,46.50469971 ]
+    },
+    "properties": {
+    "Name":"Delphia",
+    "County":"Musselshell",
+    "Pop_2010":4,
+    "Pop_2000":6,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4789963,48.46670151 ]
+    },
+    "properties": {
+    "Name":"Devon",
+    "County":"Toole",
+    "Pop_2010":2,
+    "Pop_2000":3,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8550034,45.77709961 ]
+    },
+    "properties": {
+    "Name":"Dewey",
+    "County":"Beaverhead",
+    "Pop_2010":18,
+    "Pop_2000":19,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7470016,45.75099945 ]
+    },
+    "properties": {
+    "Name":"Divide",
+    "County":"Silver Bow",
+    "Pop_2010":36,
+    "Pop_2000":46,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6640015,48.47800064 ]
+    },
+    "properties": {
+    "Name":"Dunkirk",
+    "County":"Toole",
+    "Pop_2010":13,
+    "Pop_2000":11,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5049973,45.67860031 ]
+    },
+    "properties": {
+    "Name":"Dunmore",
+    "County":"Big Horn",
+    "Pop_2010":107,
+    "Pop_2000":104,
+    "Pop_1990":79,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.4990005,48.19250107 ]
+    },
+    "properties": {
+    "Name":"Dupuyer",
+    "County":"Pondera",
+    "Pop_2010":86,
+    "Pop_2000":63,
+    "Pop_1990":53,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6340027,47.79560089 ]
+    },
+    "properties": {
+    "Name":"DY Junction",
+    "County":"Phillips",
+    "Pop_2010":1,
+    "Pop_2000":0,
+    "Pop_1990":9,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7819977,47.94499969 ]
+    },
+    "properties": {
+    "Name":"Eagleton",
+    "County":"Chouteau",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9449997,46.87080002 ]
+    },
+    "properties": {
+    "Name":"East Missoula",
+    "County":"Missoula",
+    "Pop_2010":2157,
+    "Pop_2000":2043,
+    "Pop_1990":1688,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1330032,47.55830002 ]
+    },
+    "properties": {
+    "Name":"Eddy",
+    "County":"Sanders",
+    "Pop_2010":38,
+    "Pop_2000":24,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2720032,47.27000046 ]
+    },
+    "properties": {
+    "Name":"Eden",
+    "County":"Cascade",
+    "Pop_2010":4,
+    "Pop_2000":5,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8519974,45.46469879 ]
+    },
+    "properties": {
+    "Name":"Edgar",
+    "County":"Carbon",
+    "Pop_2010":114,
+    "Pop_2000":100,
+    "Pop_1990":76,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9459991,46.27460098 ]
+    },
+    "properties": {
+    "Name":"Elkhorn",
+    "County":"Jefferson",
+    "Pop_2010":10,
+    "Pop_2000":7,
+    "Pop_1990":4,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.4309998,46.56219864 ]
+    },
+    "properties": {
+    "Name":"Elliston",
+    "County":"Powell",
+    "Pop_2010":219,
+    "Pop_2000":214,
+    "Pop_1990":83,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3499985,47.83050156 ]
+    },
+    "properties": {
+    "Name":"Elmo",
+    "County":"Lake",
+    "Pop_2010":180,
+    "Pop_2000":140,
+    "Pop_1990":99,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.677002,46.34859848 ]
+    },
+    "properties": {
+    "Name":"Elso",
+    "County":"Musselshell",
+    "Pop_2010":7,
+    "Pop_2000":5,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.3079987,45.69580078 ]
+    },
+    "properties": {
+    "Name":"Elton",
+    "County":"Park",
+    "Pop_2010":5,
+    "Pop_2000":2,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7350006,45.36899948 ]
+    },
+    "properties": {
+    "Name":"Emigrant",
+    "County":"Park",
+    "Pop_2010":488,
+    "Pop_2000":282,
+    "Pop_1990":221,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7799988,47.6955986 ]
+    },
+    "properties": {
+    "Name":"Enid",
+    "County":"Richland",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.651001,45.49169922 ]
+    },
+    "properties": {
+    "Name":"Epsie",
+    "County":"Powder River",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.612999,48.27799988 ]
+    },
+    "properties": {
+    "Name":"Essex",
+    "County":"Flathead",
+    "Pop_2010":33,
+    "Pop_2000":34,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1210022,48.55780029 ]
+    },
+    "properties": {
+    "Name":"Ethridge",
+    "County":"Toole",
+    "Pop_2010":17,
+    "Pop_2000":17,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0889969,47.03509903 ]
+    },
+    "properties": {
+    "Name":"Evaro",
+    "County":"Missoula",
+    "Pop_2010":731,
+    "Pop_2000":708,
+    "Pop_1990":486,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.276001,48.22579956 ]
+    },
+    "properties": {
+    "Name":"Evergreen",
+    "County":"Flathead",
+    "Pop_2010":7616,
+    "Pop_2000":6881,
+    "Pop_1990":6306,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1190033,46.83560181 ]
+    },
+    "properties": {
+    "Name":"Fallon",
+    "County":"Prairie",
+    "Pop_2010":164,
+    "Pop_2000":138,
+    "Pop_1990":151,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7750015,48.75419998 ]
+    },
+    "properties": {
+    "Name":"Ferdig",
+    "County":"Toole",
+    "Pop_2010":2,
+    "Pop_2000":3,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0670013,47.33380127 ]
+    },
+    "properties": {
+    "Name":"Fergus",
+    "County":"Fergus",
+    "Pop_2010":3,
+    "Pop_2000":3,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0070038,48.05160141 ]
+    },
+    "properties": {
+    "Name":"Ferndale",
+    "County":"Lake",
+    "Pop_2010":421,
+    "Pop_2000":475,
+    "Pop_1990":351,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9759979,46.28359985 ]
+    },
+    "properties": {
+    "Name":"Finch",
+    "County":"Rosebud",
+    "Pop_2010":8,
+    "Pop_2000":9,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.5039978,45.45360184 ]
+    },
+    "properties": {
+    "Name":"Fishtail",
+    "County":"Stillwater",
+    "Pop_2010":75,
+    "Pop_2000":75,
+    "Pop_1990":44,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2289963,45.87210083 ]
+    },
+    "properties": {
+    "Name":"Fishtrap",
+    "County":"Deer Lodge",
+    "Pop_2010":6,
+    "Pop_2000":1,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.401001,46.83470154 ]
+    },
+    "properties": {
+    "Name":"Flatwillow",
+    "County":"Petroleum",
+    "Pop_2010":7,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0270004,47.72969818 ]
+    },
+    "properties": {
+    "Name":"Floweree",
+    "County":"Chouteau",
+    "Pop_2010":15,
+    "Pop_2000":12,
+    "Pop_1990":11,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7580032,47.10469818 ]
+    },
+    "properties": {
+    "Name":"Forest Park",
+    "County":"Dawson",
+    "Pop_2010":1948,
+    "Pop_2000":1973,
+    "Pop_1990":2262,
+    "Type":"Census Designated Place with Alternate Name"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0800018,46.99140167 ]
+    },
+    "properties": {
+    "Name":"Forestgrove",
+    "County":"Fergus",
+    "Pop_2010":5,
+    "Pop_2000":4,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7160034,48.14670181 ]
+    },
+    "properties": {
+    "Name":"Fort Kipp",
+    "County":"Roosevelt",
+    "Pop_2010":180,
+    "Pop_2000":178,
+    "Pop_1990":51,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8099976,47.50550079 ]
+    },
+    "properties": {
+    "Name":"Fort Shaw",
+    "County":"Cascade",
+    "Pop_2010":280,
+    "Pop_2000":271,
+    "Pop_1990":233,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9319992,45.31110001 ]
+    },
+    "properties": {
+    "Name":"Fort Smith",
+    "County":"Big Horn",
+    "Pop_2010":161,
+    "Pop_2000":158,
+    "Pop_1990":95,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.9029999,48.76440048 ]
+    },
+    "properties": {
+    "Name":"Fortine",
+    "County":"Lincoln",
+    "Pop_2010":325,
+    "Pop_2000":227,
+    "Pop_1990":193,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6060028,48.80970001 ]
+    },
+    "properties": {
+    "Name":"Four Buttes",
+    "County":"Daniels",
+    "Pop_2010":9,
+    "Pop_2000":11,
+    "Pop_1990":14,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.776001,46.23550034 ]
+    },
+    "properties": {
+    "Name":"Galen",
+    "County":"Deer Lodge",
+    "Pop_2010":48,
+    "Pop_2000":39,
+    "Pop_1990":210,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9309998,46.0483017 ]
+    },
+    "properties": {
+    "Name":"Garland",
+    "County":"Custer",
+    "Pop_2010":4,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7509995,46.75149918 ]
+    },
+    "properties": {
+    "Name":"Garneill",
+    "County":"Fergus",
+    "Pop_2010":12,
+    "Pop_2000":11,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8059998,46.5245018 ]
+    },
+    "properties": {
+    "Name":"Garrison",
+    "County":"Powell",
+    "Pop_2010":96,
+    "Pop_2000":112,
+    "Pop_1990":46,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.4199982,45.52659988 ]
+    },
+    "properties": {
+    "Name":"Garryowen",
+    "County":"Big Horn",
+    "Pop_2010":15,
+    "Pop_2000":43,
+    "Pop_1990":15,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2460022,46.19940186 ]
+    },
+    "properties": {
+    "Name":"Georgetown",
+    "County":"Deer Lodge",
+    "Pop_2010":35,
+    "Pop_2000":19,
+    "Pop_1990":12,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1869965,47.31380081 ]
+    },
+    "properties": {
+    "Name":"Giffen",
+    "County":"Cascade",
+    "Pop_2010":12,
+    "Pop_2000":39,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4219971,47.86780167 ]
+    },
+    "properties": {
+    "Name":"Girard",
+    "County":"Richland",
+    "Pop_2010":4,
+    "Pop_2000":5,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6910019,45.47660065 ]
+    },
+    "properties": {
+    "Name":"Glen",
+    "County":"Beaverhead",
+    "Pop_2010":30,
+    "Pop_2000":41,
+    "Pop_1990":20,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2490005,48.84809875 ]
+    },
+    "properties": {
+    "Name":"Glentana",
+    "County":"Valley",
+    "Pop_2010":7,
+    "Pop_2000":7,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5319977,48.89970016 ]
+    },
+    "properties": {
+    "Name":"Goldstone",
+    "County":"Hill",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4960022,45.75659943 ]
+    },
+    "properties": {
+    "Name":"Grannis",
+    "County":"Park",
+    "Pop_2010":99,
+    "Pop_2000":90,
+    "Pop_1990":55,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.0670013,45.00849915 ]
+    },
+    "properties": {
+    "Name":"Grant",
+    "County":"Beaverhead",
+    "Pop_2010":9,
+    "Pop_2000":14,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1419983,46.20349884 ]
+    },
+    "properties": {
+    "Name":"Grantsdale",
+    "County":"Ravalli",
+    "Pop_2010":1053,
+    "Pop_2000":996,
+    "Pop_1990":772,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8590012,47.63999939 ]
+    },
+    "properties": {
+    "Name":"Greenfield",
+    "County":"Teton",
+    "Pop_2010":46,
+    "Pop_2000":41,
+    "Pop_1990":47,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4369965,46.91659927 ]
+    },
+    "properties": {
+    "Name":"Greenough",
+    "County":"Missoula",
+    "Pop_2010":0,
+    "Pop_2000":5,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8099976,46.04299927 ]
+    },
+    "properties": {
+    "Name":"Gregson Hot Springs",
+    "County":"Silver Bow",
+    "Pop_2010":36,
+    "Pop_2000":34,
+    "Pop_1990":6,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7850037,45.76330185 ]
+    },
+    "properties": {
+    "Name":"Greycliff",
+    "County":"Sweet Grass",
+    "Pop_2010":112,
+    "Pop_2000":85,
+    "Pop_1990":8,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2399979,48.38769913 ]
+    },
+    "properties": {
+    "Name":"Halfmoon",
+    "County":"Flathead",
+    "Pop_2010":693,
+    "Pop_2000":562,
+    "Pop_1990":459,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1969986,46.58520126 ]
+    },
+    "properties": {
+    "Name":"Hall",
+    "County":"Granite",
+    "Pop_2010":59,
+    "Pop_2000":41,
+    "Pop_1990":31,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9160004,45.22520065 ]
+    },
+    "properties": {
+    "Name":"Hammond",
+    "County":"Carter",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1399994,48.08330154 ]
+    },
+    "properties": {
+    "Name":"Happys Inn",
+    "County":"Lincoln",
+    "Pop_2010":164,
+    "Pop_2000":103,
+    "Pop_1990":14,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8190002,47.18320084 ]
+    },
+    "properties": {
+    "Name":"Hardy",
+    "County":"Cascade",
+    "Pop_2010":52,
+    "Pop_2000":42,
+    "Pop_1990":41,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.1930008,46.27769852 ]
+    },
+    "properties": {
+    "Name":"Hathaway",
+    "County":"Rosebud",
+    "Pop_2010":7,
+    "Pop_2000":10,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3960037,47.38579941 ]
+    },
+    "properties": {
+    "Name":"Haugan",
+    "County":"Mineral",
+    "Pop_2010":19,
+    "Pop_2000":16,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.427002,47.77000046 ]
+    },
+    "properties": {
+    "Name":"Haxby",
+    "County":"Garfield",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2669983,46.99580002 ]
+    },
+    "properties": {
+    "Name":"Heath",
+    "County":"Fergus",
+    "Pop_2010":23,
+    "Pop_2000":15,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9609985,46.86660004 ]
+    },
+    "properties": {
+    "Name":"Helmville",
+    "County":"Powell",
+    "Pop_2010":26,
+    "Pop_2000":19,
+    "Pop_1990":26,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3600006,47.25389862 ]
+    },
+    "properties": {
+    "Name":"Hilger",
+    "County":"Fergus",
+    "Pop_2010":26,
+    "Pop_2000":37,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1490021,48.78279877 ]
+    },
+    "properties": {
+    "Name":"Hill",
+    "County":"Liberty",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0680008,48.97919846 ]
+    },
+    "properties": {
+    "Name":"Hillside Colony",
+    "County":"Toole",
+    "Pop_2010":148,
+    "Pop_2000":13,
+    "Pop_1990":16,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3909988,46.98400116 ]
+    },
+    "properties": {
+    "Name":"Hodges",
+    "County":"Dawson",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6579971,48.85490036 ]
+    },
+    "properties": {
+    "Name":"Hogeland",
+    "County":"Blaine",
+    "Pop_2010":16,
+    "Pop_2000":18,
+    "Pop_1990":19,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5390015,48.42110062 ]
+    },
+    "properties": {
+    "Name":"Homestead",
+    "County":"Sheridan",
+    "Pop_2010":19,
+    "Pop_2000":24,
+    "Pop_1990":31,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0619965,46.34140015 ]
+    },
+    "properties": {
+    "Name":"Horton",
+    "County":"Custer",
+    "Pop_2010":3,
+    "Pop_2000":2,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.060997,48.38579941 ]
+    },
+    "properties": {
+    "Name":"Hungry Horse",
+    "County":"Flathead",
+    "Pop_2010":826,
+    "Pop_2000":909,
+    "Pop_1990":640,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3099976,45.89649963 ]
+    },
+    "properties": {
+    "Name":"Huntley",
+    "County":"Yellowstone",
+    "Pop_2010":446,
+    "Pop_2000":424,
+    "Pop_1990":308,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3270035,47.03129959 ]
+    },
+    "properties": {
+    "Name":"Huson",
+    "County":"Missoula",
+    "Pop_2010":210,
+    "Pop_2000":147,
+    "Pop_1990":60,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7860031,47.79859924 ]
+    },
+    "properties": {
+    "Name":"Iliad",
+    "County":"Chouteau",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.375,46.57720184 ]
+    },
+    "properties": {
+    "Name":"Ingomar",
+    "County":"Rosebud",
+    "Pop_2010":6,
+    "Pop_2000":9,
+    "Pop_1990":18,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5220032,47.29389954 ]
+    },
+    "properties": {
+    "Name":"Intake",
+    "County":"Dawson",
+    "Pop_2010":10,
+    "Pop_2000":10,
+    "Pop_1990":9,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6900024,48.5564003 ]
+    },
+    "properties": {
+    "Name":"Inverness",
+    "County":"Hill",
+    "Pop_2010":55,
+    "Pop_2000":101,
+    "Pop_1990":96,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4089966,45.36800003 ]
+    },
+    "properties": {
+    "Name":"Jackson",
+    "County":"Beaverhead",
+    "Pop_2010":19,
+    "Pop_2000":34,
+    "Pop_1990":16,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6340027,45.06990051 ]
+    },
+    "properties": {
+    "Name":"Jardine",
+    "County":"Park",
+    "Pop_2010":57,
+    "Pop_2000":36,
+    "Pop_1990":34,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7060013,45.34880066 ]
+    },
+    "properties": {
+    "Name":"Jeffers",
+    "County":"Madison",
+    "Pop_2010":30,
+    "Pop_2000":39,
+    "Pop_1990":47,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0279999,46.38830185 ]
+    },
+    "properties": {
+    "Name":"Jefferson City",
+    "County":"Jefferson",
+    "Pop_2010":128,
+    "Pop_2000":125,
+    "Pop_1990":56,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9410019,45.85079956 ]
+    },
+    "properties": {
+    "Name":"Jefferson Island",
+    "County":"Madison",
+    "Pop_2010":24,
+    "Pop_2000":22,
+    "Pop_1990":1,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3450012,48.3655014 ]
+    },
+    "properties": {
+    "Name":"Jennings",
+    "County":"Lincoln",
+    "Pop_2010":24,
+    "Pop_2000":39,
+    "Pop_1990":60,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4400024,48.17549896 ]
+    },
+    "properties": {
+    "Name":"Kenilworth",
+    "County":"Chouteau",
+    "Pop_2010":1,
+    "Pop_2000":4,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4570007,48.12020111 ]
+    },
+    "properties": {
+    "Name":"Kila",
+    "County":"Flathead",
+    "Pop_2010":392,
+    "Pop_2000":307,
+    "Pop_1990":237,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6019974,45.89860153 ]
+    },
+    "properties": {
+    "Name":"Kingley",
+    "County":"Big Horn",
+    "Pop_2010":34,
+    "Pop_2000":36,
+    "Pop_1990":25,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6569977,46.57080078 ]
+    },
+    "properties": {
+    "Name":"Kinsey",
+    "County":"Custer",
+    "Pop_2010":23,
+    "Pop_2000":20,
+    "Pop_1990":34,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2710037,48.54769897 ]
+    },
+    "properties": {
+    "Name":"Kiowa",
+    "County":"Glacier",
+    "Pop_2010":9,
+    "Pop_2000":19,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9820023,45.33250046 ]
+    },
+    "properties": {
+    "Name":"Kirby",
+    "County":"Big Horn",
+    "Pop_2010":3,
+    "Pop_2000":5,
+    "Pop_1990":17,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5490036,46.40409851 ]
+    },
+    "properties": {
+    "Name":"Klein",
+    "County":"Musselshell",
+    "Pop_2010":168,
+    "Pop_2000":188,
+    "Pop_1990":136,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0879974,46.34360123 ]
+    },
+    "properties": {
+    "Name":"Knowlton",
+    "County":"Custer",
+    "Pop_2010":1,
+    "Pop_2000":3,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7730026,47.10660172 ]
+    },
+    "properties": {
+    "Name":"Kolin",
+    "County":"Judith Basin",
+    "Pop_2010":5,
+    "Pop_2000":10,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.086998,48.56969833 ]
+    },
+    "properties": {
+    "Name":"Kremlin",
+    "County":"Hill",
+    "Pop_2010":98,
+    "Pop_2000":125,
+    "Pop_1990":110,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8720016,48.62080002 ]
+    },
+    "properties": {
+    "Name":"Lake McDonald",
+    "County":"Flathead",
+    "Pop_2010":2,
+    "Pop_2000":1,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2249985,48.01940155 ]
+    },
+    "properties": {
+    "Name":"Lakeside",
+    "County":"Flathead",
+    "Pop_2010":2669,
+    "Pop_2000":1983,
+    "Pop_1990":1128,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8349991,46.6780014 ]
+    },
+    "properties": {
+    "Name":"Lakeside",
+    "County":"Lewis And Clark",
+    "Pop_2010":164,
+    "Pop_2000":171,
+    "Pop_1990":56,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.810997,44.59939957 ]
+    },
+    "properties": {
+    "Name":"Lakeview",
+    "County":"Beaverhead",
+    "Pop_2010":4,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6220016,47.89780045 ]
+    },
+    "properties": {
+    "Name":"Landusky",
+    "County":"Phillips",
+    "Pop_2010":4,
+    "Pop_2000":2,
+    "Pop_1990":12,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2170029,48.57789993 ]
+    },
+    "properties": {
+    "Name":"Larslan",
+    "County":"Valley",
+    "Pop_2010":3,
+    "Pop_2000":4,
+    "Pop_1990":9,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1179962,45.35269928 ]
+    },
+    "properties": {
+    "Name":"Laurin",
+    "County":"Madison",
+    "Pop_2010":29,
+    "Pop_2000":36,
+    "Pop_1990":23,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.822998,48.26029968 ]
+    },
+    "properties": {
+    "Name":"Ledger",
+    "County":"Pondera",
+    "Pop_2010":4,
+    "Pop_2000":4,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3190002,47.87419891 ]
+    },
+    "properties": {
+    "Name":"Leroy",
+    "County":"Blaine",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9020004,45.47769928 ]
+    },
+    "properties": {
+    "Name":"Limestone",
+    "County":"Stillwater",
+    "Pop_2010":6,
+    "Pop_2000":3,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1529999,47.22190094 ]
+    },
+    "properties": {
+    "Name":"Lindsay",
+    "County":"Dawson",
+    "Pop_2010":18,
+    "Pop_2000":11,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3619995,48.29029846 ]
+    },
+    "properties": {
+    "Name":"Lloyd",
+    "County":"Blaine",
+    "Pop_2010":4,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3079987,46.43030167 ]
+    },
+    "properties": {
+    "Name":"Locate",
+    "County":"Custer",
+    "Pop_2010":2,
+    "Pop_2000":3,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5329971,48.03469849 ]
+    },
+    "properties": {
+    "Name":"Lodge Pole",
+    "County":"Blaine",
+    "Pop_2010":265,
+    "Pop_2000":214,
+    "Pop_1990":146,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.427002,45.88439941 ]
+    },
+    "properties": {
+    "Name":"Logan",
+    "County":"Gallatin",
+    "Pop_2010":99,
+    "Pop_2000":100,
+    "Pop_1990":73,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4049988,48.58969879 ]
+    },
+    "properties": {
+    "Name":"Lohman",
+    "County":"Blaine",
+    "Pop_2010":13,
+    "Pop_2000":28,
+    "Pop_1990":23,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5309982,46.72769928 ]
+    },
+    "properties": {
+    "Name":"Lolo Hot Springs",
+    "County":"Missoula",
+    "Pop_2010":4,
+    "Pop_2000":10,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5039978,47.93690109 ]
+    },
+    "properties": {
+    "Name":"Loma",
+    "County":"Chouteau",
+    "Pop_2010":85,
+    "Pop_2000":91,
+    "Pop_1990":50,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3990021,46.10739899 ]
+    },
+    "properties": {
+    "Name":"Lombard",
+    "County":"Broadwater",
+    "Pop_2010":0,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.637001,47.70299911 ]
+    },
+    "properties": {
+    "Name":"Lonepine",
+    "County":"Sanders",
+    "Pop_2010":162,
+    "Pop_2000":137,
+    "Pop_1990":86,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8619995,48.78990173 ]
+    },
+    "properties": {
+    "Name":"Loring",
+    "County":"Phillips",
+    "Pop_2010":2,
+    "Pop_2000":7,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9430008,45.75189972 ]
+    },
+    "properties": {
+    "Name":"Lost Trail Camp",
+    "County":"Ravalli",
+    "Pop_2010":7,
+    "Pop_2000":4,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2320023,48.47169876 ]
+    },
+    "properties": {
+    "Name":"Lothair",
+    "County":"Liberty",
+    "Pop_2010":8,
+    "Pop_2000":13,
+    "Pop_1990":15,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.7799988,47.11740112 ]
+    },
+    "properties": {
+    "Name":"Lozeau",
+    "County":"Mineral",
+    "Pop_2010":80,
+    "Pop_2000":36,
+    "Pop_1990":18,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9349976,48.40719986 ]
+    },
+    "properties": {
+    "Name":"Lustre",
+    "County":"Valley",
+    "Pop_2010":19,
+    "Pop_2000":11,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4290009,45.28440094 ]
+    },
+    "properties": {
+    "Name":"Luther",
+    "County":"Carbon",
+    "Pop_2010":55,
+    "Pop_2000":41,
+    "Pop_1990":33,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4179993,48.14049911 ]
+    },
+    "properties": {
+    "Name":"Maddux",
+    "County":"Blaine",
+    "Pop_2010":1,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2860031,48.81090164 ]
+    },
+    "properties": {
+    "Name":"Madoc",
+    "County":"Daniels",
+    "Pop_2010":15,
+    "Pop_2000":19,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2300034,47.17779922 ]
+    },
+    "properties": {
+    "Name":"Maiden",
+    "County":"Fergus",
+    "Pop_2010":9,
+    "Pop_2000":7,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.461998,47.54079819 ]
+    },
+    "properties": {
+    "Name":"Manchester",
+    "County":"Cascade",
+    "Pop_2010":155,
+    "Pop_2000":171,
+    "Pop_1990":269,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0370026,48.39099884 ]
+    },
+    "properties": {
+    "Name":"Martin City",
+    "County":"Flathead",
+    "Pop_2010":500,
+    "Pop_2000":379,
+    "Pop_1990":364,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.3130035,46.45830154 ]
+    },
+    "properties": {
+    "Name":"Martinsdale",
+    "County":"Meagher",
+    "Pop_2010":64,
+    "Pop_2000":55,
+    "Pop_1990":18,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3000031,46.75049973 ]
+    },
+    "properties": {
+    "Name":"Marysville",
+    "County":"Lewis And Clark",
+    "Pop_2010":80,
+    "Pop_2000":75,
+    "Pop_1990":10,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1729965,46.10770035 ]
+    },
+    "properties": {
+    "Name":"Maudlow",
+    "County":"Gallatin",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.2340012,46.46459961 ]
+    },
+    "properties": {
+    "Name":"Maxville",
+    "County":"Granite",
+    "Pop_2010":130,
+    "Pop_2000":51,
+    "Pop_1990":23,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7320023,45.44440079 ]
+    },
+    "properties": {
+    "Name":"McAllister",
+    "County":"Madison",
+    "Pop_2010":112,
+    "Pop_2000":85,
+    "Pop_1990":23,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.1159973,45.66270065 ]
+    },
+    "properties": {
+    "Name":"McLeod",
+    "County":"Sweet Grass",
+    "Pop_2010":15,
+    "Pop_2000":20,
+    "Pop_1990":14,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.375,48.24560165 ]
+    },
+    "properties": {
+    "Name":"McCabe",
+    "County":"Roosevelt",
+    "Pop_2010":8,
+    "Pop_2000":19,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5999985,46.9007988 ]
+    },
+    "properties": {
+    "Name":"McCloud",
+    "County":"Prairie",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6839981,45.63190079 ]
+    },
+    "properties": {
+    "Name":"Melrose",
+    "County":"Silver Bow",
+    "Pop_2010":91,
+    "Pop_2000":108,
+    "Pop_1990":83,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9509964,46.10329819 ]
+    },
+    "properties": {
+    "Name":"Melville",
+    "County":"Sweet Grass",
+    "Pop_2010":6,
+    "Pop_2000":21,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1780014,45.97480011 ]
+    },
+    "properties": {
+    "Name":"Menard",
+    "County":"Gallatin",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3199997,47.51499939 ]
+    },
+    "properties": {
+    "Name":"Midway",
+    "County":"Richland",
+    "Pop_2010":37,
+    "Pop_2000":38,
+    "Pop_1990":33,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9599991,46.67580032 ]
+    },
+    "properties": {
+    "Name":"Mildred",
+    "County":"Prairie",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2099991,47.32970047 ]
+    },
+    "properties": {
+    "Name":"Milford Colony",
+    "County":"Lewis And Clark",
+    "Pop_2010":13,
+    "Pop_2000":125,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2170029,45.85329819 ]
+    },
+    "properties": {
+    "Name":"Mill Iron",
+    "County":"Carter",
+    "Pop_2010":1,
+    "Pop_2000":4,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8820038,46.87129974 ]
+    },
+    "properties": {
+    "Name":"Milltown",
+    "County":"Missoula",
+    "Pop_2010":150,
+    "Pop_2000":170,
+    "Pop_1990":149,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9089966,45.19910049 ]
+    },
+    "properties": {
+    "Name":"Miner",
+    "County":"Park",
+    "Pop_2010":24,
+    "Pop_2000":26,
+    "Pop_1990":32,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2669983,46.24470139 ]
+    },
+    "properties": {
+    "Name":"Mizpah",
+    "County":"Custer",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9100037,47.05329895 ]
+    },
+    "properties": {
+    "Name":"Moccasin",
+    "County":"Judith Basin",
+    "Pop_2010":39,
+    "Pop_2000":36,
+    "Pop_1990":41,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2639999,47.37229919 ]
+    },
+    "properties": {
+    "Name":"Moiese",
+    "County":"Lake",
+    "Pop_2010":25,
+    "Pop_2000":33,
+    "Pop_1990":18,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9280014,45.86130142 ]
+    },
+    "properties": {
+    "Name":"Molt",
+    "County":"Stillwater",
+    "Pop_2010":8,
+    "Pop_2000":11,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.836998,47.09820175 ]
+    },
+    "properties": {
+    "Name":"Monarch",
+    "County":"Cascade",
+    "Pop_2010":22,
+    "Pop_2000":25,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.314003,44.56190109 ]
+    },
+    "properties": {
+    "Name":"Monida",
+    "County":"Beaverhead",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.4540024,47.67910004 ]
+    },
+    "properties": {
+    "Name":"Montague",
+    "County":"Chouteau",
+    "Pop_2010":3,
+    "Pop_2000":2,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.901001,45.50910187 ]
+    },
+    "properties": {
+    "Name":"Montaqua",
+    "County":"Carbon",
+    "Pop_2010":74,
+    "Pop_2000":71,
+    "Pop_1990":72,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8710022,45.06620026 ]
+    },
+    "properties": {
+    "Name":"Moorhead",
+    "County":"Powder River",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8320007,48.99919891 ]
+    },
+    "properties": {
+    "Name":"Morgan",
+    "County":"Phillips",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8840027,46.99219894 ]
+    },
+    "properties": {
+    "Name":"Mosby",
+    "County":"Garfield",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.0910034,46.51860046 ]
+    },
+    "properties": {
+    "Name":"Musselshell",
+    "County":"Musselshell",
+    "Pop_2010":60,
+    "Pop_2000":60,
+    "Pop_1990":128,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3420029,46.25099945 ]
+    },
+    "properties": {
+    "Name":"Myers",
+    "County":"Treasure",
+    "Pop_2010":5,
+    "Pop_2000":12,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8089981,46.81689835 ]
+    },
+    "properties": {
+    "Name":"Nelson",
+    "County":"Lewis And Clark",
+    "Pop_2010":2,
+    "Pop_2000":0,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9680023,45.30690002 ]
+    },
+    "properties": {
+    "Name":"Nevada City",
+    "County":"Madison",
+    "Pop_2010":9,
+    "Pop_2000":6,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0240021,47.86360168 ]
+    },
+    "properties": {
+    "Name":"New Rockport Colony",
+    "County":"Teton",
+    "Pop_2010":62,
+    "Pop_2000":46,
+    "Pop_1990":12,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6050034,47.81409836 ]
+    },
+    "properties": {
+    "Name":"Niarada",
+    "County":"Flathead",
+    "Pop_2010":27,
+    "Pop_2000":36,
+    "Pop_1990":48,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.637001,46.00699997 ]
+    },
+    "properties": {
+    "Name":"Nissler",
+    "County":"Silver Bow",
+    "Pop_2010":45,
+    "Pop_2000":47,
+    "Pop_1990":49,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0920029,47.99560165 ]
+    },
+    "properties": {
+    "Name":"Nohly",
+    "County":"Richland",
+    "Pop_2010":3,
+    "Pop_2000":7,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6910019,45.57049942 ]
+    },
+    "properties": {
+    "Name":"Norris",
+    "County":"Madison",
+    "Pop_2010":27,
+    "Pop_2000":13,
+    "Pop_1990":22,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8099976,48.4396019 ]
+    },
+    "properties": {
+    "Name":"Nyack",
+    "County":"Flathead",
+    "Pop_2010":8,
+    "Pop_2000":7,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.8089981,45.4355011 ]
+    },
+    "properties": {
+    "Name":"Nye",
+    "County":"Stillwater",
+    "Pop_2010":54,
+    "Pop_2000":86,
+    "Pop_1990":41,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8410034,48.74000168 ]
+    },
+    "properties": {
+    "Name":"Oilmont",
+    "County":"Toole",
+    "Pop_2010":16,
+    "Pop_2000":15,
+    "Pop_1990":24,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5279999,45.55059814 ]
+    },
+    "properties": {
+    "Name":"Olive",
+    "County":"Powder River",
+    "Pop_2010":2,
+    "Pop_2000":4,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0810013,46.58359909 ]
+    },
+    "properties": {
+    "Name":"Ollie",
+    "County":"Fallon",
+    "Pop_2010":1,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5780029,48.54859924 ]
+    },
+    "properties": {
+    "Name":"Olney",
+    "County":"Flathead",
+    "Pop_2010":191,
+    "Pop_2000":137,
+    "Pop_1990":59,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8280029,46.10710144 ]
+    },
+    "properties": {
+    "Name":"Opportunity",
+    "County":"Deer Lodge",
+    "Pop_2010":541,
+    "Pop_2000":577,
+    "Pop_1990":682,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0479965,46.86330032 ]
+    },
+    "properties": {
+    "Name":"Orchard Homes",
+    "County":"Missoula",
+    "Pop_2010":5197,
+    "Pop_2000":4935,
+    "Pop_1990":4679,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8809967,48.05860138 ]
+    },
+    "properties": {
+    "Name":"Oswego",
+    "County":"Valley",
+    "Pop_2010":59,
+    "Pop_2000":38,
+    "Pop_1990":59,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2020035,45.20780182 ]
+    },
+    "properties": {
+    "Name":"Otter",
+    "County":"Powder River",
+    "Pop_2010":1,
+    "Pop_2000":6,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1309967,47.01940155 ]
+    },
+    "properties": {
+    "Name":"Ovando",
+    "County":"Powell",
+    "Pop_2010":81,
+    "Pop_2000":70,
+    "Pop_1990":76,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.802002,47.38940048 ]
+    },
+    "properties": {
+    "Name":"Paradise",
+    "County":"Sanders",
+    "Pop_2010":163,
+    "Pop_2000":171,
+    "Pop_1990":154,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2990036,48.07360077 ]
+    },
+    "properties": {
+    "Name":"Pendroy",
+    "County":"Teton",
+    "Pop_2010":22,
+    "Pop_2000":25,
+    "Pop_1990":27,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5849991,47.36380005 ]
+    },
+    "properties": {
+    "Name":"Perma",
+    "County":"Sanders",
+    "Pop_2010":7,
+    "Pop_2000":4,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.564003,45.50740051 ]
+    },
+    "properties": {
+    "Name":"Pine Creek",
+    "County":"Park",
+    "Pop_2010":94,
+    "Pop_2000":90,
+    "Pop_1990":54,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2200012,45.90520096 ]
+    },
+    "properties": {
+    "Name":"Pipestone",
+    "County":"Jefferson",
+    "Pop_2010":18,
+    "Pop_2000":13,
+    "Pop_1990":19,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0820007,48.59220123 ]
+    },
+    "properties": {
+    "Name":"Pleasant Prairie",
+    "County":"Daniels",
+    "Pop_2010":2,
+    "Pop_2000":5,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1190033,45.36959839 ]
+    },
+    "properties": {
+    "Name":"Polaris",
+    "County":"Beaverhead",
+    "Pop_2010":3,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2850037,48.76530075 ]
+    },
+    "properties": {
+    "Name":"Polebridge",
+    "County":"Flathead",
+    "Pop_2010":13,
+    "Pop_2000":8,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9520035,45.99140167 ]
+    },
+    "properties": {
+    "Name":"Pompeys Pillar",
+    "County":"Yellowstone",
+    "Pop_2010":70,
+    "Pop_2000":71,
+    "Pop_1990":38,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8939972,45.65850067 ]
+    },
+    "properties": {
+    "Name":"Pony",
+    "County":"Madison",
+    "Pop_2010":118,
+    "Pop_2000":142,
+    "Pop_1990":2,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.125,47.65269852 ]
+    },
+    "properties": {
+    "Name":"Portage",
+    "County":"Cascade",
+    "Pop_2010":6,
+    "Pop_2000":18,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.3320007,46.25189972 ]
+    },
+    "properties": {
+    "Name":"Porters Corner",
+    "County":"Granite",
+    "Pop_2010":23,
+    "Pop_2000":25,
+    "Pop_1990":14,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.5800018,46.88159943 ]
+    },
+    "properties": {
+    "Name":"Potomac",
+    "County":"Missoula",
+    "Pop_2010":53,
+    "Pop_2000":44,
+    "Pop_1990":28,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1149979,45.75889969 ]
+    },
+    "properties": {
+    "Name":"Powderville",
+    "County":"Powder River",
+    "Pop_2010":1,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1669998,46.92710114 ]
+    },
+    "properties": {
+    "Name":"Primrose",
+    "County":"Missoula",
+    "Pop_2010":276,
+    "Pop_2000":293,
+    "Pop_1990":211,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3050003,47.89239883 ]
+    },
+    "properties": {
+    "Name":"Proctor",
+    "County":"Lake",
+    "Pop_2010":50,
+    "Pop_2000":50,
+    "Pop_1990":30,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2829971,45.09640121 ]
+    },
+    "properties": {
+    "Name":"Quietus",
+    "County":"Big Horn",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.6480026,46.61209869 ]
+    },
+    "properties": {
+    "Name":"Quigley",
+    "County":"Granite",
+    "Pop_2010":39,
+    "Pop_2000":43,
+    "Pop_1990":34,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.802002,47.32460022 ]
+    },
+    "properties": {
+    "Name":"Quinns",
+    "County":"Sanders",
+    "Pop_2010":6,
+    "Pop_2000":12,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7490005,46.27880096 ]
+    },
+    "properties": {
+    "Name":"Racetrack",
+    "County":"Powell",
+    "Pop_2010":70,
+    "Pop_2000":80,
+    "Pop_1990":61,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6320038,46.19580078 ]
+    },
+    "properties": {
+    "Name":"Radersburg",
+    "County":"Broadwater",
+    "Pop_2010":66,
+    "Pop_2000":66,
+    "Pop_1990":22,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.685997,46.00579834 ]
+    },
+    "properties": {
+    "Name":"Ramsay",
+    "County":"Silver Bow",
+    "Pop_2010":151,
+    "Pop_2000":151,
+    "Pop_1990":97,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1790009,47.27500153 ]
+    },
+    "properties": {
+    "Name":"Ravalli",
+    "County":"Lake",
+    "Pop_2010":76,
+    "Pop_2000":118,
+    "Pop_1990":79,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5800018,48.87639999 ]
+    },
+    "properties": {
+    "Name":"Raymond",
+    "County":"Sheridan",
+    "Pop_2010":14,
+    "Pop_2000":15,
+    "Pop_1990":11,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7300034,47.27000046 ]
+    },
+    "properties": {
+    "Name":"Raynesford",
+    "County":"Judith Basin",
+    "Pop_2010":43,
+    "Pop_2000":60,
+    "Pop_1990":41,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9440002,48.82170105 ]
+    },
+    "properties": {
+    "Name":"Redstone",
+    "County":"Sheridan",
+    "Pop_2010":12,
+    "Pop_2000":21,
+    "Pop_1990":41,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1279984,45.81549835 ]
+    },
+    "properties": {
+    "Name":"Renova",
+    "County":"Jefferson",
+    "Pop_2010":85,
+    "Pop_2000":62,
+    "Pop_1990":70,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4599991,48.60559845 ]
+    },
+    "properties": {
+    "Name":"Reserve",
+    "County":"Sheridan",
+    "Pop_2010":23,
+    "Pop_2000":37,
+    "Pop_1990":26,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.473999,48.27909851 ]
+    },
+    "properties": {
+    "Name":"Rhodes",
+    "County":"Flathead",
+    "Pop_2010":164,
+    "Pop_2000":140,
+    "Pop_1990":87,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0510025,48.82089996 ]
+    },
+    "properties": {
+    "Name":"Richland",
+    "County":"Valley",
+    "Pop_2010":11,
+    "Pop_2000":10,
+    "Pop_1990":16,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0199966,45.0469017 ]
+    },
+    "properties": {
+    "Name":"Ridge",
+    "County":"Carter",
+    "Pop_2010":4,
+    "Pop_2000":3,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5100021,45.47520065 ]
+    },
+    "properties": {
+    "Name":"Ridgeway",
+    "County":"Carter",
+    "Pop_2010":5,
+    "Pop_2000":4,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2470016,46.48799896 ]
+    },
+    "properties": {
+    "Name":"Rimini",
+    "County":"Lewis And Clark",
+    "Pop_2010":45,
+    "Pop_2000":46,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.8069992,46.27159882 ]
+    },
+    "properties": {
+    "Name":"Ringling",
+    "County":"Meagher",
+    "Pop_2010":16,
+    "Pop_2000":15,
+    "Pop_1990":19,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.552002,48.32550049 ]
+    },
+    "properties": {
+    "Name":"Robere",
+    "County":"Pondera",
+    "Pop_2010":24,
+    "Pop_2000":28,
+    "Pop_1990":17,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2470016,46.81689835 ]
+    },
+    "properties": {
+    "Name":"Rock Springs",
+    "County":"Rosebud",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6060028,46.00329971 ]
+    },
+    "properties": {
+    "Name":"Rocker",
+    "County":"Silver Bow",
+    "Pop_2010":98,
+    "Pop_2000":118,
+    "Pop_1990":84,
+    "Type":"2-kilometer diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8619995,45.5223999 ]
+    },
+    "properties": {
+    "Name":"Rockvale",
+    "County":"Carbon",
+    "Pop_2010":85,
+    "Pop_2000":93,
+    "Pop_1990":102,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.788002,48.2560997 ]
+    },
+    "properties": {
+    "Name":"Rocky Boy's Agency",
+    "County":"Hill",
+    "Pop_2010":228,
+    "Pop_2000":227,
+    "Pop_1990":193,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.197998,47.90610123 ]
+    },
+    "properties": {
+    "Name":"Rollins",
+    "County":"Lake",
+    "Pop_2010":209,
+    "Pop_2000":178,
+    "Pop_1990":110,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0569992,48.99909973 ]
+    },
+    "properties": {
+    "Name":"Roosville",
+    "County":"Lincoln",
+    "Pop_2010":55,
+    "Pop_2000":18,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4970016,45.34970093 ]
+    },
+    "properties": {
+    "Name":"Roscoe",
+    "County":"Carbon",
+    "Pop_2010":15,
+    "Pop_2000":10,
+    "Pop_1990":3,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6930008,47.07720184 ]
+    },
+    "properties": {
+    "Name":"Ross Fork",
+    "County":"Fergus",
+    "Pop_2010":5,
+    "Pop_2000":3,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.262001,46.54660034 ]
+    },
+    "properties": {
+    "Name":"Rothiemay",
+    "County":"Golden Valley",
+    "Pop_2010":2,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.0070038,48.79919815 ]
+    },
+    "properties": {
+    "Name":"Saint Johns",
+    "County":"Hill",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4300003,48.7439003 ]
+    },
+    "properties": {
+    "Name":"Saint Mary",
+    "County":"Glacier",
+    "Pop_2010":36,
+    "Pop_2000":27,
+    "Pop_1990":39,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.1439972,46.83089828 ]
+    },
+    "properties": {
+    "Name":"Saint Phillip",
+    "County":"Wibaux",
+    "Pop_2010":7,
+    "Pop_2000":6,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7220001,45.46110153 ]
+    },
+    "properties": {
+    "Name":"Saint Xavier",
+    "County":"Big Horn",
+    "Pop_2010":83,
+    "Pop_2000":66,
+    "Pop_1990":64,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.7850037,47.62990189 ]
+    },
+    "properties": {
+    "Name":"Salmon Prairie",
+    "County":"Lake",
+    "Pop_2010":45,
+    "Pop_2000":41,
+    "Pop_1990":31,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5100021,47.41019821 ]
+    },
+    "properties": {
+    "Name":"Saltese",
+    "County":"Mineral",
+    "Pop_2010":15,
+    "Pop_2000":23,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.4860001,47.10079956 ]
+    },
+    "properties": {
+    "Name":"Sand Springs",
+    "County":"Garfield",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.0970001,46.29140091 ]
+    },
+    "properties": {
+    "Name":"Sanders",
+    "County":"Treasure",
+    "Pop_2010":12,
+    "Pop_2000":16,
+    "Pop_1990":11,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3199997,48.70050049 ]
+    },
+    "properties": {
+    "Name":"Santa Rita",
+    "County":"Glacier",
+    "Pop_2010":113,
+    "Pop_2000":86,
+    "Pop_1990":107,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2509995,46.88909912 ]
+    },
+    "properties": {
+    "Name":"Sapphire Village",
+    "County":"Judith Basin",
+    "Pop_2010":25,
+    "Pop_2000":29,
+    "Pop_1990":12,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7679977,45.79489899 ]
+    },
+    "properties": {
+    "Name":"Sappington",
+    "County":"Gallatin",
+    "Pop_2010":1,
+    "Pop_2000":7,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5439987,48.4742012 ]
+    },
+    "properties": {
+    "Name":"Savoy",
+    "County":"Blaine",
+    "Pop_2010":5,
+    "Pop_2000":2,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2020035,46.96409988 ]
+    },
+    "properties": {
+    "Name":"Schilling",
+    "County":"Missoula",
+    "Pop_2010":111,
+    "Pop_2000":113,
+    "Pop_1990":37,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.848999,45.95970154 ]
+    },
+    "properties": {
+    "Name":"Sedan",
+    "County":"Gallatin",
+    "Pop_2010":99,
+    "Pop_2000":67,
+    "Pop_1990":61,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.5250015,46.34489822 ]
+    },
+    "properties": {
+    "Name":"Shawmut",
+    "County":"Wheatland",
+    "Pop_2010":42,
+    "Pop_2000":63,
+    "Pop_1990":10,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.1389999,46.33280182 ]
+    },
+    "properties": {
+    "Name":"Sheffield",
+    "County":"Custer",
+    "Pop_2010":3,
+    "Pop_2000":1,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6409988,45.95690155 ]
+    },
+    "properties": {
+    "Name":"Shields",
+    "County":"Park",
+    "Pop_2010":16,
+    "Pop_2000":22,
+    "Pop_1990":24,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.572998,47.62889862 ]
+    },
+    "properties": {
+    "Name":"Shonkin",
+    "County":"Chouteau",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1269989,46.89849854 ]
+    },
+    "properties": {
+    "Name":"Sieben",
+    "County":"Lewis And Clark",
+    "Pop_2010":10,
+    "Pop_2000":10,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8410034,45.55659866 ]
+    },
+    "properties": {
+    "Name":"Silesia",
+    "County":"Carbon",
+    "Pop_2010":96,
+    "Pop_2000":56,
+    "Pop_1990":51,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1699982,46.75550079 ]
+    },
+    "properties": {
+    "Name":"Silver City",
+    "County":"Lewis And Clark",
+    "Pop_2010":37,
+    "Pop_2000":39,
+    "Pop_1990":21,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9899979,45.00690079 ]
+    },
+    "properties": {
+    "Name":"Silver Gate",
+    "County":"Park",
+    "Pop_2010":20,
+    "Pop_2000":26,
+    "Pop_1990":15,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2829971,45.69020081 ]
+    },
+    "properties": {
+    "Name":"Silver Star",
+    "County":"Madison",
+    "Pop_2010":35,
+    "Pop_2000":40,
+    "Pop_1990":15,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2060013,48.92860031 ]
+    },
+    "properties": {
+    "Name":"Simpson",
+    "County":"Hill",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9980011,46.21519852 ]
+    },
+    "properties": {
+    "Name":"Sixteen",
+    "County":"Meagher",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.697998,48.28779984 ]
+    },
+    "properties": {
+    "Name":"Slab Crossing",
+    "County":"Roosevelt",
+    "Pop_2010":2,
+    "Pop_2000":3,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8310013,45.4131012 ]
+    },
+    "properties": {
+    "Name":"Sonnette",
+    "County":"Powder River",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2249985,45.73740005 ]
+    },
+    "properties": {
+    "Name":"Springdale",
+    "County":"Park",
+    "Pop_2010":42,
+    "Pop_2000":27,
+    "Pop_1990":13,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0159988,46.4618988 ]
+    },
+    "properties": {
+    "Name":"Springdale Colony",
+    "County":"Meagher",
+    "Pop_2010":21,
+    "Pop_2000":26,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.1999969,47.51599884 ]
+    },
+    "properties": {
+    "Name":"Square Butte",
+    "County":"Chouteau",
+    "Pop_2010":10,
+    "Pop_2000":12,
+    "Pop_1990":17,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8909988,45.72000122 ]
+    },
+    "properties": {
+    "Name":"Stacey",
+    "County":"Powder River",
+    "Pop_2010":1,
+    "Pop_2000":5,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5049973,47.12549973 ]
+    },
+    "properties": {
+    "Name":"Stark",
+    "County":"Missoula",
+    "Pop_2010":4,
+    "Pop_2000":10,
+    "Pop_1990":17,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.6650009,47.21220016 ]
+    },
+    "properties": {
+    "Name":"Stipek",
+    "County":"Dawson",
+    "Pop_2010":23,
+    "Pop_2000":9,
+    "Pop_1990":15,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1650009,47.35660172 ]
+    },
+    "properties": {
+    "Name":"Stockett",
+    "County":"Cascade",
+    "Pop_2010":169,
+    "Pop_2000":119,
+    "Pop_1990":134,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.7699966,48.67409897 ]
+    },
+    "properties": {
+    "Name":"Stryker",
+    "County":"Lincoln",
+    "Pop_2010":26,
+    "Pop_2000":25,
+    "Pop_1990":23,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3570023,47.46910095 ]
+    },
+    "properties": {
+    "Name":"Suffolk",
+    "County":"Fergus",
+    "Pop_2010":6,
+    "Pop_2000":8,
+    "Pop_1990":16,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9820023,45.83660126 ]
+    },
+    "properties": {
+    "Name":"Sula",
+    "County":"Ravalli",
+    "Pop_2010":37,
+    "Pop_2000":30,
+    "Pop_1990":15,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5510025,46.61729813 ]
+    },
+    "properties": {
+    "Name":"Sumatra",
+    "County":"Rosebud",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":3,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.3529968,48.31940079 ]
+    },
+    "properties": {
+    "Name":"Summit",
+    "County":"Glacier",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7460022,47.84550095 ]
+    },
+    "properties": {
+    "Name":"Sun Prairie",
+    "County":"Phillips",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9629974,48.99649811 ]
+    },
+    "properties": {
+    "Name":"Sweet Grass",
+    "County":"Toole",
+    "Pop_2010":58,
+    "Pop_2000":80,
+    "Pop_1990":112,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8740005,48.71630096 ]
+    },
+    "properties": {
+    "Name":"Sylvanite",
+    "County":"Lincoln",
+    "Pop_2010":103,
+    "Pop_2000":71,
+    "Pop_1990":18,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.4319992,47.71369934 ]
+    },
+    "properties": {
+    "Name":"Talc",
+    "County":"Sanders",
+    "Pop_2010":67,
+    "Pop_2000":53,
+    "Pop_1990":31,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8270035,48.30469894 ]
+    },
+    "properties": {
+    "Name":"Tampico",
+    "County":"Valley",
+    "Pop_2010":5,
+    "Pop_2000":8,
+    "Pop_1990":6,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.7389984,47.02130127 ]
+    },
+    "properties": {
+    "Name":"Tarkio",
+    "County":"Mineral",
+    "Pop_2010":11,
+    "Pop_2000":14,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5950012,47.03910065 ]
+    },
+    "properties": {
+    "Name":"Teigen",
+    "County":"Petroleum",
+    "Pop_2010":7,
+    "Pop_2000":3,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9179993,48.8769989 ]
+    },
+    "properties": {
+    "Name":"Thoeny",
+    "County":"Valley",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3059998,46.28779984 ]
+    },
+    "properties": {
+    "Name":"Thurlow",
+    "County":"Rosebud",
+    "Pop_2010":9,
+    "Pop_2000":14,
+    "Pop_1990":5,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4410019,46.17269897 ]
+    },
+    "properties": {
+    "Name":"Toston",
+    "County":"Broadwater",
+    "Pop_2010":108,
+    "Pop_2000":108,
+    "Pop_1990":32,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1539993,47.4129982 ]
+    },
+    "properties": {
+    "Name":"Tracy",
+    "County":"Cascade",
+    "Pop_2010":171,
+    "Pop_2000":202,
+    "Pop_1990":190,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4069977,48.91910172 ]
+    },
+    "properties": {
+    "Name":"Trailcreek",
+    "County":"Flathead",
+    "Pop_2010":5,
+    "Pop_2000":6,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8690033,48.7052002 ]
+    },
+    "properties": {
+    "Name":"Trego",
+    "County":"Lincoln",
+    "Pop_2010":541,
+    "Pop_2000":393,
+    "Pop_1990":231,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4769974,45.94739914 ]
+    },
+    "properties": {
+    "Name":"Trident",
+    "County":"Gallatin",
+    "Pop_2010":11,
+    "Pop_2000":5,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5979996,47.8368988 ]
+    },
+    "properties": {
+    "Name":"Trout Creek",
+    "County":"Sanders",
+    "Pop_2010":242,
+    "Pop_2000":261,
+    "Pop_1990":216,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8239975,46.83589935 ]
+    },
+    "properties": {
+    "Name":"Turah",
+    "County":"Missoula",
+    "Pop_2010":306,
+    "Pop_2000":166,
+    "Pop_1990":29,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.072998,46.42440033 ]
+    },
+    "properties": {
+    "Name":"Twodot",
+    "County":"Wheatland",
+    "Pop_2010":28,
+    "Pop_2000":42,
+    "Pop_1990":26,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0849991,46.54130173 ]
+    },
+    "properties": {
+    "Name":"Unionville",
+    "County":"Lewis And Clark",
+    "Pop_2010":139,
+    "Pop_2000":184,
+    "Pop_1990":156,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.0920029,46.96829987 ]
+    },
+    "properties": {
+    "Name":"Utica",
+    "County":"Judith Basin",
+    "Pop_2010":27,
+    "Pop_2000":24,
+    "Pop_1990":18,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4219971,47.31420135 ]
+    },
+    "properties": {
+    "Name":"Valentine",
+    "County":"Fergus",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2460022,48.68450165 ]
+    },
+    "properties": {
+    "Name":"Valleytown",
+    "County":"Phillips",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.0019989,46.39189911 ]
+    },
+    "properties": {
+    "Name":"Vananda",
+    "County":"Rosebud",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9100037,48.35469818 ]
+    },
+    "properties": {
+    "Name":"Vandalia",
+    "County":"Valley",
+    "Pop_2010":6,
+    "Pop_2000":6,
+    "Pop_1990":4,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2429962,45.81769943 ]
+    },
+    "properties": {
+    "Name":"Vendome",
+    "County":"Jefferson",
+    "Pop_2010":14,
+    "Pop_2000":12,
+    "Pop_1990":8,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4929962,47.83369827 ]
+    },
+    "properties": {
+    "Name":"Vida",
+    "County":"McCone",
+    "Pop_2010":18,
+    "Pop_2000":20,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.25,48.01530075 ]
+    },
+    "properties": {
+    "Name":"Virgelle",
+    "County":"Chouteau",
+    "Pop_2010":11,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6809998,45.84280014 ]
+    },
+    "properties": {
+    "Name":"Volborg",
+    "County":"Custer",
+    "Pop_2010":1,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7180023,48.38909912 ]
+    },
+    "properties": {
+    "Name":"Volt",
+    "County":"Roosevelt",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.0780029,48.37060165 ]
+    },
+    "properties": {
+    "Name":"Wagner",
+    "County":"Phillips",
+    "Pop_2010":18,
+    "Pop_2000":15,
+    "Pop_1990":19,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6579971,45.06000137 ]
+    },
+    "properties": {
+    "Name":"Warren",
+    "County":"Carbon",
+    "Pop_2010":0,
+    "Pop_2000":0,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6060028,48.07170105 ]
+    },
+    "properties": {
+    "Name":"Warrick",
+    "County":"Chouteau",
+    "Pop_2010":0,
+    "Pop_2000":2,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.2129974,45.16379929 ]
+    },
+    "properties": {
+    "Name":"Washoe",
+    "County":"Carbon",
+    "Pop_2010":3,
+    "Pop_2000":3,
+    "Pop_1990":9,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1920013,45.72190094 ]
+    },
+    "properties": {
+    "Name":"Waterloo",
+    "County":"Madison",
+    "Pop_2010":76,
+    "Pop_2000":48,
+    "Pop_1990":29,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2470016,46.05500031 ]
+    },
+    "properties": {
+    "Name":"Webster",
+    "County":"Fallon",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.9940033,47.52299881 ]
+    },
+    "properties": {
+    "Name":"Weeksville",
+    "County":"Sanders",
+    "Pop_2010":83,
+    "Pop_2000":58,
+    "Pop_1990":19,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8980026,47.61560059 ]
+    },
+    "properties": {
+    "Name":"Weldon",
+    "County":"McCone",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9120026,48.68700027 ]
+    },
+    "properties": {
+    "Name":"West Fork",
+    "County":"Daniels",
+    "Pop_2010":0,
+    "Pop_2000":1,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8850021,46.87850189 ]
+    },
+    "properties": {
+    "Name":"West Riverside",
+    "County":"Missoula",
+    "Pop_2010":1375,
+    "Pop_2000":1253,
+    "Pop_1990":1258,
+    "Type":"Manually defined region"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.0230026,46.15190125 ]
+    },
+    "properties": {
+    "Name":"West Valley",
+    "County":"Deer Lodge",
+    "Pop_2010":621,
+    "Pop_2000":685,
+    "Pop_1990":753,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1650009,48.75329971 ]
+    },
+    "properties": {
+    "Name":"Wetzel",
+    "County":"Glacier",
+    "Pop_2010":12,
+    "Pop_2000":10,
+    "Pop_1990":0,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5169983,48.34500122 ]
+    },
+    "properties": {
+    "Name":"White Haven",
+    "County":"Lincoln",
+    "Pop_2010":577,
+    "Pop_2000":576,
+    "Pop_1990":582,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1620026,48.89640045 ]
+    },
+    "properties": {
+    "Name":"Whitetail",
+    "County":"Daniels",
+    "Pop_2010":14,
+    "Pop_2000":14,
+    "Pop_1990":38,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2529984,48.90829849 ]
+    },
+    "properties": {
+    "Name":"Whitlash",
+    "County":"Liberty",
+    "Pop_2010":8,
+    "Pop_2000":9,
+    "Pop_1990":13,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1029968,46.34970093 ]
+    },
+    "properties": {
+    "Name":"Wickes",
+    "County":"Jefferson",
+    "Pop_2010":32,
+    "Pop_2000":22,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3649979,46.19409943 ]
+    },
+    "properties": {
+    "Name":"Willard",
+    "County":"Fallon",
+    "Pop_2010":9,
+    "Pop_2000":3,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.1399994,47.07860184 ]
+    },
+    "properties": {
+    "Name":"Windham",
+    "County":"Judith Basin",
+    "Pop_2010":23,
+    "Pop_2000":30,
+    "Pop_1990":45,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6589966,46.47660065 ]
+    },
+    "properties": {
+    "Name":"Winston",
+    "County":"Broadwater",
+    "Pop_2010":147,
+    "Pop_2000":76,
+    "Pop_1990":50,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4499969,45.61660004 ]
+    },
+    "properties": {
+    "Name":"Wisdom",
+    "County":"Beaverhead",
+    "Pop_2010":98,
+    "Pop_2000":112,
+    "Pop_1990":134,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9489975,45.79130173 ]
+    },
+    "properties": {
+    "Name":"Wise River",
+    "County":"Beaverhead",
+    "Pop_2010":46,
+    "Pop_2000":49,
+    "Pop_1990":24,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0690002,47.0060997 ]
+    },
+    "properties": {
+    "Name":"Wolf Creek",
+    "County":"Lewis And Clark",
+    "Pop_2010":32,
+    "Pop_2000":38,
+    "Pop_1990":18,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0500031,48.00159836 ]
+    },
+    "properties": {
+    "Name":"Woods Bay",
+    "County":"Lake",
+    "Pop_2010":661,
+    "Pop_2000":731,
+    "Pop_1990":536,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2679977,47.87919998 ]
+    },
+    "properties": {
+    "Name":"Woods Crossing",
+    "County":"Chouteau",
+    "Pop_2010":2,
+    "Pop_2000":2,
+    "Pop_1990":2,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1549988,46.31330109 ]
+    },
+    "properties": {
+    "Name":"Woodside",
+    "County":"Ravalli",
+    "Pop_2010":270,
+    "Pop_2000":304,
+    "Pop_1990":175,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.3030014,47.10630035 ]
+    },
+    "properties": {
+    "Name":"Woodworth",
+    "County":"Powell",
+    "Pop_2010":15,
+    "Pop_2000":22,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.7089996,48.83300018 ]
+    },
+    "properties": {
+    "Name":"Yaak",
+    "County":"Lincoln",
+    "Pop_2010":248,
+    "Pop_2000":168,
+    "Pop_1990":109,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7519989,46.72159958 ]
+    },
+    "properties": {
+    "Name":"York",
+    "County":"Lewis And Clark",
+    "Pop_2010":83,
+    "Pop_2000":79,
+    "Pop_1990":40,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.526001,47.9178009 ]
+    },
+    "properties": {
+    "Name":"Zortman",
+    "County":"Phillips",
+    "Pop_2010":69,
+    "Pop_2000":38,
+    "Pop_1990":15,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0299988,48.58440018 ]
+    },
+    "properties": {
+    "Name":"Zurich",
+    "County":"Blaine",
+    "Pop_2010":39,
+    "Pop_2000":23,
+    "Pop_1990":11,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5500031,48.40480042 ]
+    },
+    "properties": {
+    "Name":"Saint Marie",
+    "County":"Valley",
+    "Pop_2010":264,
+    "Pop_2000":183,
+    "Pop_1990":65,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2009964,47.50899887 ]
+    },
+    "properties": {
+    "Name":"Malmstrom AFB",
+    "County":"Cascade",
+    "Pop_2010":3472,
+    "Pop_2000":4499,
+    "Pop_1990":5915,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1849976,45.67110062 ]
+    },
+    "properties": {
+    "Name":"Four Corners",
+    "County":"Gallatin",
+    "Pop_2010":3146,
+    "Pop_2000":1827,
+    "Pop_1990":1497,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8730011,46.8302002 ]
+    },
+    "properties": {
+    "Name":"Tyler",
+    "County":"Fergus",
+    "Pop_2010":1,
+    "Pop_2000":1,
+    "Pop_1990":1,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1460037,48.3655014 ]
+    },
+    "properties": {
+    "Name":"Columbia Heights",
+    "County":"Flathead",
+    "Pop_2010":453,
+    "Pop_2000":504,
+    "Pop_1990":324,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5149994,45.32170105 ]
+    },
+    "properties": {
+    "Name":"Birney",
+    "County":"Rosebud",
+    "Pop_2010":14,
+    "Pop_2000":20,
+    "Pop_1990":10,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9280014,46.58430099 ]
+    },
+    "properties": {
+    "Name":"Goldcreek",
+    "County":"Powell",
+    "Pop_2010":21,
+    "Pop_2000":12,
+    "Pop_1990":7,
+    "Type":"2-mile diameter circle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2710037,45.5943985 ]
+    },
+    "properties": {
+    "Name":"Ashland",
+    "County":"Rosebud",
+    "Pop_2010":824,
+    "Pop_2000":865,
+    "Pop_1990":858,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2750015,46.36790085 ]
+    },
+    "properties": {
+    "Name":"Baker",
+    "County":"Fallon",
+    "Pop_2010":1741,
+    "Pop_2000":1693,
+    "Pop_1990":1815,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9179993,48.14979935 ]
+    },
+    "properties": {
+    "Name":"Brockton",
+    "County":"Roosevelt",
+    "Pop_2010":255,
+    "Pop_2000":245,
+    "Pop_1990":365,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7170029,47.84820175 ]
+    },
+    "properties": {
+    "Name":"Dutton",
+    "County":"Teton",
+    "Pop_2010":316,
+    "Pop_2000":386,
+    "Pop_1990":390,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4929962,48.33560181 ]
+    },
+    "properties": {
+    "Name":"Froid",
+    "County":"Roosevelt",
+    "Pop_2010":185,
+    "Pop_2000":194,
+    "Pop_1990":194,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8040009,47.02550125 ]
+    },
+    "properties": {
+    "Name":"Grass Range",
+    "County":"Fergus",
+    "Pop_2010":110,
+    "Pop_2000":141,
+    "Pop_1990":155,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6790009,48.54919815 ]
+    },
+    "properties": {
+    "Name":"Havre",
+    "County":"Hill",
+    "Pop_2010":9310,
+    "Pop_2000":9515,
+    "Pop_1990":10191,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0709991,47.64379883 ]
+    },
+    "properties": {
+    "Name":"Richey",
+    "County":"Dawson",
+    "Pop_2010":177,
+    "Pop_2000":185,
+    "Pop_1990":256,
+    "Type":"Incorporated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.5419998,45.70849991 ]
+    },
+    "properties": {
+    "Name":"Reed Point",
+    "County":"Stillwater",
+    "Pop_2010":193,
+    "Pop_2000":183,
+    "Pop_1990":114,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7959976,47.5848999 ]
+    },
+    "properties": {
+    "Name":"Highwood",
+    "County":"Chouteau",
+    "Pop_2010":176,
+    "Pop_2000":186,
+    "Pop_1990":80,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1060028,46.6216011 ]
+    },
+    "properties": {
+    "Name":"Fort Harrison",
+    "County":"Lewis and Clark",
+    "Pop_2010":96,
+    "Pop_2000":124,
+    "Pop_1990":190,
+    "Type":"2-mile diameter circle, Part of a CDP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1399994,48.58950043 ]
+    },
+    "properties": {
+    "Name":"Starr School",
+    "County":"Glacier",
+    "Pop_2010":252,
+    "Pop_2000":242,
+    "Pop_1990":249,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4140015,45.81259918 ]
+    },
+    "properties": {
+    "Name":"Lockwood",
+    "County":"Yellowstone",
+    "Pop_2010":6797,
+    "Pop_2000":5698,
+    "Pop_1990":4937,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5189972,48.33610153 ]
+    },
+    "properties": {
+    "Name":"Pioneer Junction",
+    "County":"Lincoln",
+    "Pop_2010":959,
+    "Pop_2000":917,
+    "Pop_1990":937,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.862999,46.86130142 ]
+    },
+    "properties": {
+    "Name":"Piltzville",
+    "County":"Missoula",
+    "Pop_2010":395,
+    "Pop_2000":65,
+    "Pop_1990":22,
+    "Type":"Census Designated Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0790024,46.67580032 ]
+    },
+    "properties": {
+    "Name":"Carlton",
+    "County":"Missoula",
+    "Pop_2010":694,
+    "Pop_2000":444,
+    "Pop_1990":458,
+    "Type":"Census Designated Place"
+    }
+  }
+]
+}

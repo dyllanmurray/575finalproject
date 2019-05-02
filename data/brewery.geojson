@@ -1,0 +1,1620 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.95229,46.13005 ]
+    },
+    "properties": {
+    "OBJECTID":1,
+    "Name":"Smelter City Brewing",
+    "Notes":"101 Main St, Anaconda MT, (406)563-0344, www.facebook.com/SmelterCityBrewing/, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{AA775761-3639-4D58-8D3A-E849C75374F1}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.17081,45.77303 ]
+    },
+    "properties": {
+    "OBJECTID":2,
+    "Name":"Big Hole Brewing",
+    "Notes":"401 East Main St, Belgrade MT, (406)388-7953, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{47F8DAED-745E-4866-833E-9F0FDE125183}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.24869,45.8128 ]
+    },
+    "properties": {
+    "OBJECTID":3,
+    "Name":"Madison River Brewing",
+    "Notes":"20900-B Frontage Road, Belgrade MT, (406)388-0322, Mon-Fri 2:00pm-8:00pm, Sat 4:00pm-8:00pm. Tours by appointment only",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{EEFC63E6-0DD0-4FAB-8735-1F19F40D97CE}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.17899,45.77389 ]
+    },
+    "properties": {
+    "OBJECTID":4,
+    "Name":"Outlaw Brewing",
+    "Notes":"108 South Broadway, Belgrade MT, (406)388-9182, www.outlaw-brewing.com/, Open Daily 11:00am-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{5B8492C7-D11A-470F-BE86-76A7EC630F3B}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92908,47.38122 ]
+    },
+    "properties": {
+    "OBJECTID":5,
+    "Name":"Harvest Moon Brewery",
+    "Notes":"7 Fifth St South, Belt MT, (406)277-3188, www.harvestmoonbrew.com/, Mon-Wed 11:30am-11:00pm, Thu-Fri 11:30am-Midnight, Sun 11:30am-10:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{C9E0311E-5AE0-42C5-BC5F-EA0F015CD67B}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.25314,45.266 ]
+    },
+    "properties": {
+    "OBJECTID":6,
+    "Name":"Lone Peak Brewery",
+    "Notes":"48 Market Place, Big Sky MT, (406)995-3939, Open daily 11:00am-8:30pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{0305BF6C-680E-4EA2-AFA3-C69FFF972583}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.08325,48.06429 ]
+    },
+    "properties": {
+    "OBJECTID":7,
+    "Name":"Flathead Lake Brewing - Bigfork Pubhouse",
+    "Notes":"116 Holt Dr, Bigfork MT, (406)837-2004, flatheadlakebrewing.com/, Mon-Fri 4:00pm-10:00pm, Sat-Sun 11:00am-10:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4486081D-CB37-4383-8533-17B036AE2DEF}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.04536,47.99779 ]
+    },
+    "properties": {
+    "OBJECTID":8,
+    "Name":"Flathead Lake Brewing",
+    "Notes":"26008 East Lake Shore Dr, Bigfork MT, (406)837-0353, (Closed?) Spring/Summer(Mar�Aug) Noon-8pm daily; Fall/Winter(Sept�Feb) 3pm�8pm Mon-Fri, Noon�8pm Sat & Sun",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{03FDC4B2-2E72-4E95-9AE6-A9621DDBF13B}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.07865,48.07594 ]
+    },
+    "properties": {
+    "OBJECTID":9,
+    "Name":"Raven Pub and Grill",
+    "Notes":"25999 Highway 35 South, Bigfork MT, (406)837-6096, (No Longer Brewing?) Open daily at 11:00am in the summer, 4:00pm in the winter",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{7F921EC2-144A-4CA0-9C31-1FCD9CCA9C77}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.30497,45.25984 ]
+    },
+    "properties": {
+    "OBJECTID":10,
+    "Name":"Beehive Basin Brewery",
+    "Notes":"245 Town Center Ave #1C-D, Big Sky MT, (406)995-7444, www.beehivebasinbrewery.com, Open Daily noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{EBC77CE4-3540-4AA4-89EC-216880ED56B2}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.50085,45.78444 ]
+    },
+    "properties": {
+    "OBJECTID":11,
+    "Name":"Angry Hank's Brewing",
+    "Notes":"2405 First Ave North, Billings MT, (406)252-3370, Closed? Mon-Sat 4:00-8:00",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{29EB3895-B9CA-43E3-B04E-8EBA5EBE4AEF}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.50832,45.7805 ]
+    },
+    "properties": {
+    "OBJECTID":12,
+    "Name":"Angry Hank's #2",
+    "Notes":"20 North 30th St, Billings MT, (406)252-3370, angryhanks.com/, Mon-Fri 4-8pm, Sat 3-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{75AFDD96-DC34-4381-8C30-4DD7B20A32A9}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.5519,45.77735 ]
+    },
+    "properties": {
+    "OBJECTID":13,
+    "Name":"Bones Brewing Pub & Eatery",
+    "Notes":"1425 Broadwater Ave, Billings MT, (406)839-9231, www.bonesbrewing.com/, Mon-Tue 11am-Midnight, Wed-Sat 11am-2am, Sun 10:30am-Midnight, Happy Hour Mon-Fri 4-7pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{2A9470AB-4B61-4F1E-8DB6-F8E4E381CE3B}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.59252,45.74429 ]
+    },
+    "properties": {
+    "OBJECTID":14,
+    "Name":"Canyon Creek Brewing",
+    "Notes":"3060 Gabel Road, Billings MT, (406)656-2528, www.canyoncreekbrewing.com, Open daily 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{06B4C029-2680-4765-8907-C521ED3B2A47}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.50151,45.78287 ]
+    },
+    "properties": {
+    "OBJECTID":15,
+    "Name":"Carter's Brewing",
+    "Notes":"2526 Montana Ave, Billings MT, (406)252-0663, Mon-Sat 4:00-8:00",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{C80086A4-9673-4F1F-AAB7-FA73D673E2C8}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.50821,45.7804 ]
+    },
+    "properties": {
+    "OBJECTID":16,
+    "Name":"Thirsty Street Brewing Co",
+    "Notes":"3008 First Ave N, Billings MT, www.thirstystreet.com/, Mon-Thu 3:00pm-8:00pm, Fri-Sat noon-8:00pm, Sun noon-5:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E1E15C32-B663-43BB-881B-7F1D52BC8BCA}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.50584,45.78217 ]
+    },
+    "properties": {
+    "OBJECTID":17,
+    "Name":"Montana Brewing",
+    "Notes":"113 North Broadway, Billings MT, (406)252-9200, www.montanabrewingcompany.com/, Opens: Mon-Sat 11:00, Sun 12:00",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E57FACA1-6A6E-45B5-93D4-99E521D638FB}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.49926,45.78415 ]
+    },
+    "properties": {
+    "OBJECTID":18,
+    "Name":"�berbrew",
+    "Notes":"2305 Montana Ave, Billings MT, (406)534-6960, www.uberbrewmt.com/, Open daily 11:00am-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{19A5DEF8-BAB2-4946-8036-DF64BC54C2DA}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.49725,45.7862 ]
+    },
+    "properties": {
+    "OBJECTID":19,
+    "Name":"Yellowstone Valley Brewing",
+    "Notes":"2123-B First Avenue North, Billings MT, (406)245-0918, Mon-Sat 4:00-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{0A184D93-5946-4951-8A8A-174DA1427505}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.03558,45.69295 ]
+    },
+    "properties": {
+    "OBJECTID":20,
+    "Name":"406 Brewing Company",
+    "Notes":"101 East Oak St - Suite D, Bozeman MT, Open Daily Noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{3683C152-886C-4290-8EDA-68A3107EF998}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.02421,45.68428 ]
+    },
+    "properties": {
+    "OBJECTID":21,
+    "Name":"Bozeman Brewing",
+    "Notes":"504 North Broadway, Bozeman MT, (406)585-9142, www.bozemanbrewing.com/, Sat-Thu 2-8pm, Fri Noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E2C568D1-0F67-462A-AD56-C76FB33490E5}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.05211,45.66298 ]
+    },
+    "properties": {
+    "OBJECTID":22,
+    "Name":"Bridger Brewing",
+    "Notes":"1609 South 11th Ave, Bozeman MT, (406)587-2124, www.bridgerbrewing.com/, Open Daily 11am-9pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{0877C74C-EDDD-4DA8-B8BE-7749C238A4AE}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.05314,45.66362 ]
+    },
+    "properties": {
+    "OBJECTID":23,
+    "Name":"Bunkhouse Brewery",
+    "Notes":"1216-A West Lincoln St, Bozeman MT, (406)577-2074, bunkhousebrewery.com/, Mon-Sat noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{A985C8B4-AAB5-42C4-8EB1-57B05D4F75C1}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.03838,45.70248 ]
+    },
+    "properties": {
+    "OBJECTID":24,
+    "Name":"MAP Brewing",
+    "Notes":"510 Manley Road, Bozeman MT, (406)587-4070, mapbrewing.com/, Open Daily noon-9pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{837ECCF6-BAAA-4F42-B095-0FB3419A10AE}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.07397,45.71501 ]
+    },
+    "properties": {
+    "OBJECTID":25,
+    "Name":"Outlaw Brewing",
+    "Notes":"2876 North 27th St, Bozeman MT, (406)577-2403, outlaw-brewing.com/, Sun-Thu 2:00pm-8:00pm, Fri-Sat noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{8B51CFB7-1590-4706-A16C-C091B813C280}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.03028,45.67949 ]
+    },
+    "properties": {
+    "OBJECTID":26,
+    "Name":"Spanish Peaks Brewing",
+    "Notes":"14 North Church St, Bozeman MT, (406)585-2296, www.blackdogales.com/, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{014B1E1D-D830-4C11-9700-8DC0D6FDB641}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0251,45.6849 ]
+    },
+    "properties": {
+    "OBJECTID":27,
+    "Name":"True Dragon",
+    "Notes":"422 Plum Ave, Bozeman MT, (360)220-0563, www.truedragon.com, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{39FA6C5C-387C-439B-B9C3-C13F9491B36D}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.03938,45.67952 ]
+    },
+    "properties": {
+    "OBJECTID":28,
+    "Name":"White Dog Brewing Co",
+    "Notes":"121-B West Main St, Bozeman MT, www.whitedogbrewing.com/, Open daily noon-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E3910110-04FC-4273-89D2-3CBDE675C6C1}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.5266,46.01237 ]
+    },
+    "properties": {
+    "OBJECTID":29,
+    "Name":"Butte Brewing",
+    "Notes":"465 East Galena St, Butte MT, (406)494-7710, www.buttebrewing.com, Open daily noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{6E74CC77-F8D6-4302-A2E8-CDC6FDDC0448}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.53458,46.01306 ]
+    },
+    "properties": {
+    "OBJECTID":30,
+    "Name":"CopperWild Brewing",
+    "Notes":"43 East Park S, Butte MT, (406)782-1700, www.trimbospizza.net/, Tue-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun Noon-9pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{8A4AAE0F-9B11-46A1-839E-C4F78B2AA627}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.53547,46.01206 ]
+    },
+    "properties": {
+    "OBJECTID":31,
+    "Name":"Muddy Creek Brewery",
+    "Notes":"2 East Galena St, Butte MT, www.muddycreekbrewery.com, Open daily 3:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{ED7045E3-B732-4401-8E2B-30EF735C1410}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.53874,46.01323 ]
+    },
+    "properties": {
+    "OBJECTID":32,
+    "Name":"Quarry Brewing",
+    "Notes":"124 West Broadway St, Butte MT, (406)723-0245, Mon-Fri 3:00-8:00, Sat 1:00pm-8:00pm, Sun 1:00pm-6:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{64A3D4F8-80FD-4064-889A-C3049D897529}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.18106,48.37221 ]
+    },
+    "properties": {
+    "OBJECTID":33,
+    "Name":"Backslope Brewing",
+    "Notes":"729 Nucleus Ave, Suite E, Columbia Falls MT, (406)250-6454, www.desertmountainbrewing.com, Mon-Sat Noon-8pm, Sun Noon-6pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{7F36E8BE-D028-4CF2-8476-F14D4F41F372}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.32674,48.63455 ]
+    },
+    "properties": {
+    "OBJECTID":34,
+    "Name":"Cut Bank Creek Brewery",
+    "Notes":"315 East Railroad, Cut Bank MT, (406)229-0298, www.cutbankcreekbrewery.com/, Wed-Sat 10:00am-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{A0C061BF-0A16-4724-BD4C-E5F4A3E74270}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.17527,46.02079 ]
+    },
+    "properties": {
+    "OBJECTID":35,
+    "Name":"Bandit Brewing",
+    "Notes":"308 East Tanner Ave, Darby MT, (406)646-6003, www.facebook.com/banditbrewing, Tue-Sun noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{3D0B62FD-787F-4273-A519-A9949351EB1C}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.73546,46.39933 ]
+    },
+    "properties": {
+    "OBJECTID":36,
+    "Name":"Elk Ridge Brewing Co",
+    "Notes":"320 Main St, Deer Lodge MT, (406)846-4650, www.elkridgebrewingcompany.com/, Mon-Sat noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{F666BFDA-70DE-4478-9B23-F63CC36217F9}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.63935,45.21609 ]
+    },
+    "properties": {
+    "OBJECTID":37,
+    "Name":"Beaverhead Brewing Co",
+    "Notes":"218 S Montana St, Dillon MT, (406)988-0011, beaverheadbeer.com/, Sun-Thu 3-8pm, Fri-Sat Noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{F4FD04FA-09CD-4C4D-9A08-62AC8978063C}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.90253,48.81737 ]
+    },
+    "properties": {
+    "OBJECTID":38,
+    "Name":"Homestead Ales",
+    "Notes":"2525 Grave Creek Rd, Eureka MT, (406)889-3950, www.homesteadales.com/, Wednesday-Sunday 3:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B9C183AE-70A0-4FAA-A968-463BAC7223C8}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.63374,48.19376 ]
+    },
+    "properties": {
+    "OBJECTID":39,
+    "Name":"Busted Knuckle Brewery",
+    "Notes":"303 First Ave S, Glasgow MT, (406)228-2277, www.bustedknucklebrew.com/, Wed-Sat 4-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4A6698B6-40BF-4A69-B242-E178F7EAFF38}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.70293,47.11087 ]
+    },
+    "properties": {
+    "OBJECTID":40,
+    "Name":"Cross Country Brewing",
+    "Notes":"320 East Allard St, Glendive MT, (406)377-6912, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{9595282A-B3BD-43A8-A665-7D9EF326D488}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.28206,47.52831 ]
+    },
+    "properties": {
+    "OBJECTID":41,
+    "Name":"Black Eagle Brewery",
+    "Notes":"1602 25th Avenue NE, Great Falls MT, (406)315-3082, Open daily noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B6312EFF-CF2F-43DE-885D-61DB024BF5E0}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.27521,47.49409 ]
+    },
+    "properties": {
+    "OBJECTID":42,
+    "Name":"Bowser Brewing",
+    "Notes":"1826 Tenth Ave S, Great Falls MT, (406)315-1340, www.bowserbrew.com/, Open daily Noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{8D24FFF7-6014-4B94-BE62-B32714EF488E}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.31595,47.51015 ]
+    },
+    "properties": {
+    "OBJECTID":43,
+    "Name":"Jeremiah Johnson Brewing",
+    "Notes":"215 Third St NW, Great Falls MT, (406)757-3947, www.thefrontbrewing.com/, Open daily 8:00am-10:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{964A9269-9AA9-4630-8B90-486E1846DE93}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.29991,47.50502 ]
+    },
+    "properties": {
+    "OBJECTID":44,
+    "Name":"Mighty Mo Brewing Co",
+    "Notes":"412 Central Ave, Great Falls MT, (406)952-0342, mightymobrewing.com/, Open 11am-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{71D8FDF7-861A-47AA-84DD-908169B209F5}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.31611,47.51037 ]
+    },
+    "properties": {
+    "OBJECTID":45,
+    "Name":"The Front Brewing Co",
+    "Notes":"215 Third St West, Great Falls MT, (406)727-3947, www.thefrontbrewing.com/, Open daily 8:00am-10:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4AAA5E1F-27A0-4F64-B1C5-AA7601EF69C6}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.15323,46.24774 ]
+    },
+    "properties": {
+    "OBJECTID":46,
+    "Name":"Bitterroot Brewing",
+    "Notes":"101 Marcus St, Hamilton MT, (406)363-7468, www.bitterrootbrewing.com/, Mon-Sat 11:30am-8:00pm, Sun 11:30am-6:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{5429C00C-2A92-46AB-BAF7-C3D6B6417BC5}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.15619,46.25271 ]
+    },
+    "properties": {
+    "OBJECTID":47,
+    "Name":"Higherground Brewing",
+    "Notes":"518 North 1st St, Hamilton MT, (406)375-5204, highergroundbrewing.com/, Tues-Sat 11AM-8PM; Sun 1PM-8PM",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{A648054E-0253-40F8-98EA-6737461D9D96}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.83176,46.43493 ]
+    },
+    "properties": {
+    "OBJECTID":48,
+    "Name":"Gally's Brewing",
+    "Notes":"30 Central Ave S, Harlowton MT, (406)632-5838, www.gallysbrewing.com, Wed-Sun 2-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{08CBF689-6CF1-456A-847D-158EC5A2EDFB}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.69614,48.55576 ]
+    },
+    "properties": {
+    "OBJECTID":49,
+    "Name":"Triple Dog Brewing Co",
+    "Notes":"675 1st St W, Havre MT, (406)879-8103, www.facebook.com/brewon2, Wed-Fri 4-8pm, Sat-Sun Noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B32AAC5B-0DBD-4AC8-AF3F-300E1D1BC111}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.04153,46.58618 ]
+    },
+    "properties": {
+    "OBJECTID":50,
+    "Name":"Blackfoot River Brewing",
+    "Notes":"54 South Park Ave, Helena MT, (406)449-3005, www.blackfootriverbrewing.com/, Open Daily 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4587481B-951C-4669-9FD5-FCACB10EF752}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.02171,46.60038 ]
+    },
+    "properties": {
+    "OBJECTID":51,
+    "Name":"Lewis & Clark Brewing",
+    "Notes":"1517 Dodge Ave, Helena MT, (406)442-5960, www.lewisandclarkbrewing.com/, Open Daily 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{78690E2D-9932-4B85-8865-BD7616B3B733}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.03876,46.58846 ]
+    },
+    "properties": {
+    "OBJECTID":52,
+    "Name":"Ten Mile Creek Brewery",
+    "Notes":"48 North Last Chance Gulch, Helena MT, (406)502-1382, Open daily noon-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{F96DBDB0-7B46-47EA-9329-897F0585C886}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3149,48.20161 ]
+    },
+    "properties": {
+    "OBJECTID":53,
+    "Name":"DG Barleys",
+    "Notes":"Kalispell MT, (406)755-7090, Closed?, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{72E4C351-2796-47CF-B416-FEAC004DF593}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.31262,48.1945 ]
+    },
+    "properties": {
+    "OBJECTID":54,
+    "Name":"Kalispell Brewing",
+    "Notes":"412 Main St, Kalispell MT, (406)756-2739, www.kalispellbrewing.com, Tue-Sun Noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B39FD92D-D3DC-4D17-8D77-587FCB4223DA}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.22495,48.01288 ]
+    },
+    "properties": {
+    "OBJECTID":55,
+    "Name":"Tamarack Brewing Co",
+    "Notes":"105 Blacktail Road Suite #1, Lakeside MT, (406)844-0244, Open 11:00am Daily, for Lunch & Dinner",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4B39B095-B32C-4B25-B366-587560EFD984}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.76759,45.67047 ]
+    },
+    "properties": {
+    "OBJECTID":56,
+    "Name":"Fat Jack's Tap Room",
+    "Notes":"317 East Main St, Laurel MT,(406)530-1762, (Closed?) Mon-Sat 4-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{BBF994E3-1A76-4A3C-A71B-07B1F83D8E36}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.41258,47.05174 ]
+    },
+    "properties": {
+    "OBJECTID":57,
+    "Name":"Lewistown Brewing",
+    "Notes":"211 Skyview Dr, Lewistown MT, (406)350-0170, www.lewistownbrewingcompany.com/, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{6DF41248-2742-4D66-987B-C1FFAC280F6A}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.56165,45.66189 ]
+    },
+    "properties": {
+    "OBJECTID":58,
+    "Name":"Katabatic Brewing",
+    "Notes":"117 West Park St, Livingston MT, (406)370-5923, www.katabaticbrewing.com, Open daily 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{972E4399-942F-40AE-AB57-4AA7B3C02B0F}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.54888,45.66776 ]
+    },
+    "properties": {
+    "OBJECTID":59,
+    "Name":"Neptune's Brewery",
+    "Notes":"119 North L St, Livingston MT, (406)222-7837, www.neptunesbrewery.com/, Mon-Sat 4:00pm-Close",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E06F6A4F-B935-4938-972B-28E63FFF3E97}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.08419,46.76595 ]
+    },
+    "properties": {
+    "OBJECTID":60,
+    "Name":"Lolo Peak Brewing Co",
+    "Notes":"6201 Brewery Way, Lolo MT, (406)493-6231, www.lolopeakbrewing.com, Open Daily 11am-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{1B1CB108-F70E-435E-AE57-828B5EFCF1A3}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.01867,46.87284 ]
+    },
+    "properties": {
+    "OBJECTID":61,
+    "Name":"Bayern Brewing",
+    "Notes":"1507 Montana St, Missoula MT, (406)721-1482, www.bayernbrewery.com/, Mon-Fri 10:00am-8:00pm, Sat & Sun Noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{206BEAB8-B2F2-4D37-B240-76EE35892DAE}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.07283,46.92233 ]
+    },
+    "properties": {
+    "OBJECTID":62,
+    "Name":"Big Sky Brewing",
+    "Notes":"5417 Trumpeter Way, Missoula MT, (406)549-2777, www.bigskybrew.com/, Mon-Fri 11:00am-6:30pm, Sat 11:00am-6:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{12DD30F9-0D26-4922-9552-7A3677A0796A}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.00346,46.87803 ]
+    },
+    "properties": {
+    "OBJECTID":63,
+    "Name":"Draught Works Brewery",
+    "Notes":"915 Toole Ave, Missoula MT, (406)241-2423, www.draughtworksbrewery.com/, Open daily Noon-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{FB95F9AF-3941-414D-A730-60A9240F78A8}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.99305,46.87367 ]
+    },
+    "properties": {
+    "OBJECTID":64,
+    "Name":"Flathead Brewing - Pub",
+    "Notes":"424 N. Higgins Rd, Missoula MT, (406)542-3847, Sun-Thu 11:30am-11:30pm, Fri-Sat 11:30am-2:00am",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{E852BA4C-9CB8-47A2-9C32-7B661C5C7A7C}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.03307,46.8398 ]
+    },
+    "properties": {
+    "OBJECTID":65,
+    "Name":"Great Burn Brewing",
+    "Notes":"2250 McDonald Ave, Missoula MT, (406)317-1557, Tue-Thu 3-9pm, Fri-Sun Noon-9pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{D459DBB1-A918-426E-B81C-E5600857A673}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9937,46.87061 ]
+    },
+    "properties": {
+    "OBJECTID":66,
+    "Name":"Ice Bridge Brewing",
+    "Notes":"139 East Main St, Missoula MT, (586-2761, www.icebridgebrewing.com, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{F411E8D0-D4F3-42FE-BA01-52C6401B33B8}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.00965,46.87647 ]
+    },
+    "properties": {
+    "OBJECTID":67,
+    "Name":"Imagine Nation Brewing",
+    "Notes":"1151 West Broadway St, Missoula MT, (406)926-1251, imaginenationbrewing.com/, Tue-Sun 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{757B429C-C5B1-4E2D-8DB8-18BB5EA91BC0}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.99432,46.87746 ]
+    },
+    "properties": {
+    "OBJECTID":68,
+    "Name":"Kettlehouse Brewing",
+    "Notes":"313 N 1st St W, Missoula MT, (406)728-1660, Mon-Thur 3pm-9pm Fri-Sat 12pm-9pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B07D56A7-D946-45A1-BB90-8AE4C1AFC45D}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.99894,46.86596 ]
+    },
+    "properties": {
+    "OBJECTID":69,
+    "Name":"Kettlehouse Brewing",
+    "Notes":"602 Myrtle St, Missoula MT, (406)728-1660, Mon-Sat Noon-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{4ED434CA-FD92-48C3-94EB-328ABB5F9A6E}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.04511,46.90482 ]
+    },
+    "properties": {
+    "OBJECTID":70,
+    "Name":"Missoula Brewing Co",
+    "Notes":"200 International Dr, Missoula MT, (406)549-8193, www.missoulabrewingcompany.com/, Mon-Thu 3:00pm-8:00pm, Fri-Sun noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{9B5C3559-A7A3-4A0B-BE89-9D9722773F80}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.99743,46.87092 ]
+    },
+    "properties": {
+    "OBJECTID":71,
+    "Name":"Tamarack Brewing - Pub",
+    "Notes":"231 W. Front St, Missoula MT, (406)830-3113, Call",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{D701D84F-5F5D-4A40-9CC3-487FBE483D37}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.28731,46.32988 ]
+    },
+    "properties": {
+    "OBJECTID":72,
+    "Name":"Philipsburg Brewing",
+    "Notes":"106 Brewery Road, Phillipsburg MT, (406)859-3226, www.philipsburgbrewingcompany.com/, Fri-Sun noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{800DFEBE-BABB-4133-AA04-1EB8D01EBB3E}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.29445,46.33238 ]
+    },
+    "properties": {
+    "OBJECTID":73,
+    "Name":"Philipsburg Brewing",
+    "Notes":"101 West Broadway, Phillipsburg MT, (406)859-2739, www.philipsburgbrewingcompany.com/, Open Daily 10:00am-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{96A16CC6-5070-4A2E-84A7-57D844E34D9C}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.16331,47.6863 ]
+    },
+    "properties": {
+    "OBJECTID":74,
+    "Name":"Glacier Brewing",
+    "Notes":"6 Tenth Ave East, Polson MT, (406)883-2595, www.glacierbrewing.com/, Mon-Fri Noon-6:00pm, Sat 10:00am-6:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{33FEFFF3-A114-4F3D-996D-E96603370A11}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.24583,45.20025 ]
+    },
+    "properties": {
+    "OBJECTID":75,
+    "Name":"Red Lodge Ales",
+    "Notes":"1445 North Broadway, Red Lodge MT, (406)446-4607, Winter: 4:00pm-8:00pm; Summer Thu-Mon 11:00am-9:00pm, Tue-Wed 4:00pm-9:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{47FC3954-92FF-4957-82D3-A1333F59F641}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.19694,45.45593 ]
+    },
+    "properties": {
+    "OBJECTID":76,
+    "Name":"Ruby Valley Brew",
+    "Notes":"111 South Main St, Sheridan MT, (406)842-5977, www.rubyvalleybrew.com, Open Daily noon-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{01D4022D-5313-411E-89C2-E008A5422A15}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.15752,47.71474 ]
+    },
+    "properties": {
+    "OBJECTID":77,
+    "Name":"Meadowlark Brewing",
+    "Notes":"117 South Central Ave, Sidney MT, (406)433-2337, www.meadowlarkbrewing.com, Tue-Sat 4-10pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{A9866734-E2CD-4191-B5D2-01F28F2C06FF}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.09319,46.51104 ]
+    },
+    "properties": {
+    "OBJECTID":78,
+    "Name":"Blacksmith Brewing Co",
+    "Notes":"114 West Main St, Stevensville MT, (406)777-0680, Mon-Thu 2:00pm-8:00pm, Fri-Sun Noon-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{1997F592-2793-49E2-8882-BEB9F27D88CB}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.11084,46.53121 ]
+    },
+    "properties": {
+    "OBJECTID":79,
+    "Name":"Wildwood Brewing, Inc.",
+    "Notes":"4018 Highway 93 N, Stevensville MT, (406)777-2855, www.wildwoodbrewing.com/, Open daily 4:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{B391FE53-2F3E-4C4B-B186-80F086D288AD}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.33679,48.41347 ]
+    },
+    "properties": {
+    "OBJECTID":80,
+    "Name":"Great Northern Brewing",
+    "Notes":"2 Central Ave, Whitefish MT, (406)863-1000, Open Noon-10:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{53FF12B2-0726-4CF8-992C-97AD2540EE84}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.34068,48.42147 ]
+    },
+    "properties": {
+    "OBJECTID":81,
+    "Name":"Bonsai Brewing Co",
+    "Notes":"549 Wisconsin Ave, Whitefish MT, (406)730-1717, www.facebook.com/bonsaibrew, Wed-Fri 3:00pm-8:00pm, Sat-Sun 1:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{161C2482-0C4A-4808-BAC7-E8501C216478}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.90107,46.54816 ]
+    },
+    "properties": {
+    "OBJECTID":82,
+    "Name":"2 Bassett Brewery",
+    "Notes":"202 East Main St, White Sulphur Springs MT, (406)547-2337, 2bassetbrewery.com/, Wed-Sun 2:00pm-8:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{3085989E-B0D3-459E-BC84-30347587C6A2}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.18834,46.98713 ]
+    },
+    "properties": {
+    "OBJECTID":83,
+    "Name":"Beaver Creek Brewery",
+    "Notes":"104 Orgain Ave West, Wibaux MT, (406)795-2337, www.beavercreekbrewery.com/, Thurs-Fri 4:00pm-8:00pm, Sat-Sun 2-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{09895C1C-80E1-48DE-B8A6-07FD8FF7016B}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.64136,48.09019 ]
+    },
+    "properties": {
+    "OBJECTID":84,
+    "Name":"Missouri Breaks Brewing",
+    "Notes":"326 Main St, Wolf Point MT, (406)653-1467, Tue-Fri 4pm-8pm, Sat 2pm-8pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{5D4DDF7C-6BD5-490A-89CB-09D1AFC6D86F}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.14477,47.68587 ]
+    },
+    "properties": {
+    "OBJECTID":85,
+    "Name":"Black Raven Brewing",
+    "Notes":"14687 NE 95th St, Redmond WA, (425)881-3020, Mon-Thu 3:00pm-10:00pm, Fri-Sat Noon-10:00pm, Sun Noon-7:00pm",
+    "CreationDa":"2018-04-28 0:00:00",
+    "Creator":"pjdohertygis",
+    "EditDate":"2018-04-28 0:00:00",
+    "Editor":"pjdohertygis",
+    "GlobalID":"{1E1D9AE9-8429-4B27-AA69-B0AA972F8A9C}",
+    "State":"Montana",
+    "Field":"0"
+    }
+  }
+]
+}
