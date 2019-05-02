@@ -8,13 +8,12 @@
        "coordinates":  [ -112.21200000100,44.78969000020 ]
     },
     "properties": {
+    "FID":0,
     "OBJECTID":1,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"ANTONE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -24,13 +23,12 @@
        "coordinates":  [ -113.43524000000,46.03684999970 ]
     },
     "properties": {
+    "FID":1,
     "OBJECTID":2,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"CARP CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -40,13 +38,12 @@
        "coordinates":  [ -113.33194450000,46.16194444040 ]
     },
     "properties": {
+    "FID":2,
     "OBJECTID":3,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"EAST FORK SNOWMOBILE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -56,13 +53,12 @@
        "coordinates":  [ -113.36718889900,46.09105555030 ]
     },
     "properties": {
+    "FID":3,
     "OBJECTID":4,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"EAST FORK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -72,13 +68,12 @@
        "coordinates":  [ -111.63240000000,44.79991100030 ]
     },
     "properties": {
+    "FID":4,
     "OBJECTID":5,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"ELK RIVER TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -88,13 +83,12 @@
        "coordinates":  [ -113.13970000100,45.79340000030 ]
     },
     "properties": {
+    "FID":5,
     "OBJECTID":6,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"FOOLHEN RIDGE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -104,13 +98,12 @@
        "coordinates":  [ -113.91298700000,45.74961300040 ]
     },
     "properties": {
+    "FID":6,
     "OBJECTID":7,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"GIBBONS PASS TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -120,13 +113,12 @@
        "coordinates":  [ -113.12320560000,45.44736389010 ]
     },
     "properties": {
+    "FID":7,
     "OBJECTID":8,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"GRASSHOPPER CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -136,13 +128,12 @@
        "coordinates":  [ -112.51900000000,45.79359999990 ]
     },
     "properties": {
+    "FID":8,
     "OBJECTID":9,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"HIGHLAND TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -152,13 +143,12 @@
        "coordinates":  [ -112.41646000000,45.91755000030 ]
     },
     "properties": {
+    "FID":9,
     "OBJECTID":10,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"HOMESTAKE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -168,13 +158,12 @@
        "coordinates":  [ -111.55423000000,45.10219000000 ]
     },
     "properties": {
+    "FID":10,
     "OBJECTID":11,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"INDIAN CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -184,13 +173,12 @@
        "coordinates":  [ -113.17430000100,45.69270000020 ]
     },
     "properties": {
+    "FID":11,
     "OBJECTID":12,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"LACY CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -200,13 +188,12 @@
        "coordinates":  [ -113.09260000000,45.69280000030 ]
     },
     "properties": {
+    "FID":12,
     "OBJECTID":13,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"LOST MEADOWS TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -216,13 +203,12 @@
        "coordinates":  [ -113.31470000000,45.90220000040 ]
     },
     "properties": {
+    "FID":13,
     "OBJECTID":14,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"MIDDLE FORK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -232,13 +218,12 @@
        "coordinates":  [ -113.50842200100,45.29909499960 ]
     },
     "properties": {
+    "FID":14,
     "OBJECTID":15,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"MINER LAKE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -248,13 +233,12 @@
        "coordinates":  [ -113.07000000000,45.52930000020 ]
     },
     "properties": {
+    "FID":15,
     "OBJECTID":16,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"MONO CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -264,13 +248,12 @@
        "coordinates":  [ -113.61122000000,45.79621000000 ]
     },
     "properties": {
+    "FID":16,
     "OBJECTID":17,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"MUSSIGBROD TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -280,13 +263,12 @@
        "coordinates":  [ -111.92289999900,45.63940000000 ]
     },
     "properties": {
+    "FID":17,
     "OBJECTID":18,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"NORTH WILLOW CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -296,13 +278,12 @@
        "coordinates":  [ -113.17240000000,45.54389999960 ]
     },
     "properties": {
+    "FID":18,
     "OBJECTID":19,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"ODELL CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -312,13 +293,12 @@
        "coordinates":  [ -111.55704000000,44.89905999990 ]
     },
     "properties": {
+    "FID":19,
     "OBJECTID":20,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"PAPOOSE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -328,13 +308,12 @@
        "coordinates":  [ -113.44070000100,45.85919999990 ]
     },
     "properties": {
+    "FID":20,
     "OBJECTID":21,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"PINTLER E-O-R TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -344,13 +323,12 @@
        "coordinates":  [ -112.42880560000,46.29933333020 ]
     },
     "properties": {
+    "FID":21,
     "OBJECTID":22,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"SARATOGA MINE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -360,13 +338,12 @@
        "coordinates":  [ -113.06930000000,45.42809999990 ]
     },
     "properties": {
+    "FID":22,
     "OBJECTID":23,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"SAWTOOTH TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -376,13 +353,12 @@
        "coordinates":  [ -113.18740000000,45.99279999960 ]
     },
     "properties": {
+    "FID":23,
     "OBJECTID":24,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"SEYMOUR E-O-R TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -392,13 +368,12 @@
        "coordinates":  [ -113.04194440000,45.69833332970 ]
     },
     "properties": {
+    "FID":24,
     "OBJECTID":25,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"SHEEP CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -408,13 +383,12 @@
        "coordinates":  [ -113.33657200000,45.60341500040 ]
     },
     "properties": {
+    "FID":25,
     "OBJECTID":26,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"STEEL CREEK TAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -424,13 +398,12 @@
        "coordinates":  [ -111.76166670100,44.88416665990 ]
     },
     "properties": {
+    "FID":26,
     "OBJECTID":27,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"WOLVERINE BASIN TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -440,13 +413,12 @@
        "coordinates":  [ -113.15170000000,45.54390000020 ]
     },
     "properties": {
+    "FID":27,
     "OBJECTID":28,
-    "National_Forest":"BEAVERHEAD-DEERLODGE",
+    "National_F":"BEAVERHEAD-DEERLODGE",
     "Name":"WYMAN CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -456,29 +428,12 @@
        "coordinates":  [ -114.15750000000,46.57388889010 ]
     },
     "properties": {
+    "FID":28,
     "OBJECTID":29,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"BASS CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.49305560000,46.11638888990 ]
-    },
-    "properties": {
-    "OBJECTID":30,
-    "National_Forest":"BITTERROOT",
-    "Name":"BEAR CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -488,13 +443,12 @@
        "coordinates":  [ -114.20333330100,46.46249999990 ]
     },
     "properties": {
+    "FID":29,
     "OBJECTID":31,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"BIG CREEK TRAILHEAD/PICNIC AREA",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -504,13 +458,12 @@
        "coordinates":  [ -114.24583330000,46.25250000000 ]
     },
     "properties": {
+    "FID":30,
     "OBJECTID":32,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"BLODGETT OVERLOOK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -520,13 +473,12 @@
        "coordinates":  [ -114.24277780000,46.26861110970 ]
     },
     "properties": {
+    "FID":31,
     "OBJECTID":33,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"BLODGETT TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -536,29 +488,12 @@
        "coordinates":  [ -113.81916670000,46.31944444010 ]
     },
     "properties": {
+    "FID":32,
     "OBJECTID":34,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"BURNT FORK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.61805560000,45.70527777980 ]
-    },
-    "properties": {
-    "OBJECTID":35,
-    "National_Forest":"BITTERROOT",
-    "Name":"CAYUSE CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -568,13 +503,12 @@
        "coordinates":  [ -114.22888890000,46.12194444030 ]
     },
     "properties": {
+    "FID":33,
     "OBJECTID":36,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"COYOTE COULEE",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -584,13 +518,12 @@
        "coordinates":  [ -114.06805560000,45.81194444000 ]
     },
     "properties": {
+    "FID":34,
     "OBJECTID":37,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"CRAZY CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -600,13 +533,12 @@
        "coordinates":  [ -113.70361110000,45.90833332960 ]
     },
     "properties": {
+    "FID":35,
     "OBJECTID":38,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"EAST FORK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -616,29 +548,12 @@
        "coordinates":  [ -114.31583330000,46.35777778010 ]
     },
     "properties": {
+    "FID":36,
     "OBJECTID":39,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"FRED BURR TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.77333330000,45.67277778040 ]
-    },
-    "properties": {
-    "OBJECTID":40,
-    "National_Forest":"BITTERROOT",
-    "Name":"KIM CREEK SADDLE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -648,13 +563,12 @@
        "coordinates":  [ -114.15027780000,46.53833332980 ]
     },
     "properties": {
+    "FID":37,
     "OBJECTID":41,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"KOOTENAI CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -664,13 +578,12 @@
        "coordinates":  [ -114.24722220000,46.06638888990 ]
     },
     "properties": {
+    "FID":38,
     "OBJECTID":42,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"LAKE COMO TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"Y",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"Y"
     }
   },
   {
@@ -680,13 +593,12 @@
        "coordinates":  [ -114.32861110000,45.78333333030 ]
     },
     "properties": {
+    "FID":39,
     "OBJECTID":43,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"LITTLE WEST FORK SNOWMOBILE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -696,13 +608,12 @@
        "coordinates":  [ -114.39722220000,45.69833333010 ]
     },
     "properties": {
+    "FID":40,
     "OBJECTID":44,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"MAIN BLUE JOINT TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -712,45 +623,12 @@
        "coordinates":  [ -114.22416670000,46.31083333040 ]
     },
     "properties": {
+    "FID":41,
     "OBJECTID":45,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"MILL CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.50111109900,45.71638889010 ]
-    },
-    "properties": {
-    "OBJECTID":46,
-    "National_Forest":"BITTERROOT",
-    "Name":"NEZ PERCE PASS TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.72861110000,45.86777778020 ]
-    },
-    "properties": {
-    "OBJECTID":47,
-    "National_Forest":"BITTERROOT",
-    "Name":"PARADISE FLAT/WHITE CAP CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -760,29 +638,12 @@
        "coordinates":  [ -114.23222220000,46.06222222010 ]
     },
     "properties": {
+    "FID":42,
     "OBJECTID":48,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"ROCK CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"Y",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.84500000000,45.62305556010 ]
-    },
-    "properties": {
-    "OBJECTID":49,
-    "National_Forest":"BITTERROOT",
-    "Name":"SALMON BASE CAMP TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"Y"
     }
   },
   {
@@ -792,13 +653,12 @@
        "coordinates":  [ -114.20305560000,46.50027778040 ]
     },
     "properties": {
+    "FID":43,
     "OBJECTID":50,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"ST. MARY'S TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -808,13 +668,12 @@
        "coordinates":  [ -114.49722220000,46.15944443960 ]
     },
     "properties": {
+    "FID":44,
     "OBJECTID":51,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"TWIN LAKES TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -824,701 +683,12 @@
        "coordinates":  [ -114.42277780000,45.75666666990 ]
     },
     "properties": {
+    "FID":45,
     "OBJECTID":52,
-    "National_Forest":"BITTERROOT",
+    "National_F":"BITTERROOT",
     "Name":"WATCHTOWER CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.96446000000,48.66810999960 ]
-    },
-    "properties": {
-    "OBJECTID":53,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"302 SNOWMOBILE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.53026600000,47.62229900010 ]
-    },
-    "properties": {
-    "OBJECTID":54,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"4TH JULY X-CNTRY SKI",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.12349999900,47.34811000040 ]
-    },
-    "properties": {
-    "OBJECTID":55,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"BIG CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.57561000000,47.90928000040 ]
-    },
-    "properties": {
-    "OBJECTID":56,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"BUNCO VISITOR ORIENTATION",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.12045000000,47.28579999980 ]
-    },
-    "properties": {
-    "OBJECTID":57,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"CCC CG",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.14765000000,48.97303000000 ]
-    },
-    "properties": {
-    "OBJECTID":58,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"COPPER CREEK FALLS",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.70399800000,47.78813499980 ]
-    },
-    "properties": {
-    "OBJECTID":59,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"ENGLISH POINT FACILITIES",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.46866900000,48.24963599990 ]
-    },
-    "properties": {
-    "OBJECTID":60,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"GOLD HILL",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.06152000100,48.76651999970 ]
-    },
-    "properties": {
-    "OBJECTID":61,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"GRANITE FALLS",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.33340000000,48.45972000010 ]
-    },
-    "properties": {
-    "OBJECTID":62,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"GROUSE FALLS",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.62197000000,48.66439000010 ]
-    },
-    "properties": {
-    "OBJECTID":63,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"HARRISON LAKE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.10716000000,47.08765999980 ]
-    },
-    "properties": {
-    "OBJECTID":64,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"HOBO HISTORIC",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.08423000000,48.83761999970 ]
-    },
-    "properties": {
-    "OBJECTID":65,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"KENO CREEK",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.19351000000,48.37477000030 ]
-    },
-    "properties": {
-    "OBJECTID":66,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"LUNCH PEAK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.38999000000,48.17767999970 ]
-    },
-    "properties": {
-    "OBJECTID":67,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"MINERAL POINT",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.13143000000,48.36504999960 ]
-    },
-    "properties": {
-    "OBJECTID":68,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"MOOSE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.51613000100,47.62094000010 ]
-    },
-    "properties": {
-    "OBJECTID":69,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"MULLAN ROAD-T",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.86606000100,48.73882000010 ]
-    },
-    "properties": {
-    "OBJECTID":70,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"NAVIGATION TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.72494000000,47.71687000010 ]
-    },
-    "properties": {
-    "OBJECTID":71,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"NETTLETON GULCH FACILITY",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.87713000000,48.29072000000 ]
-    },
-    "properties": {
-    "OBJECTID":72,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"PEE WEE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.56905000000,48.63467000040 ]
-    },
-    "properties": {
-    "OBJECTID":73,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"ROMAN NOSE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.54269000000,46.99700000040 ]
-    },
-    "properties": {
-    "OBJECTID":74,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"SAWTOOTH SADDLE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.88774000000,47.41360999980 ]
-    },
-    "properties": {
-    "OBJECTID":75,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"SLATE CREEK",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.63216670000,47.04550555020 ]
-    },
-    "properties": {
-    "OBJECTID":76,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"SNOW PEAK CAMP SITE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.75919000100,47.43543000030 ]
-    },
-    "properties": {
-    "OBJECTID":77,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"STEVENS LAKE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.45845000100,46.99307999990 ]
-    },
-    "properties": {
-    "OBJECTID":78,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"TABLE CAMP",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.79254000000,47.08064999960 ]
-    },
-    "properties": {
-    "OBJECTID":79,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"TRAIL 50 CAMPSITE",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.59634000000,48.80645999970 ]
-    },
-    "properties": {
-    "OBJECTID":80,
-    "National_Forest":"IDAHO PANHANDLE",
-    "Name":"UPPER TROUT CREEK",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.56054700000,46.42804999960 ]
-    },
-    "properties": {
-    "OBJECTID":81,
-    "National_Forest":"CLEARWATER",
-    "Name":"BEAVER DAM SADDLE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.54133350000,46.43298301030 ]
-    },
-    "properties": {
-    "OBJECTID":82,
-    "National_Forest":"CLEARWATER",
-    "Name":"COLT CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.12985700100,46.42868600000 ]
-    },
-    "properties": {
-    "OBJECTID":83,
-    "National_Forest":"CLEARWATER",
-    "Name":"EAGLE MOUNTAIN TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.35005500000,46.33181000020 ]
-    },
-    "properties": {
-    "OBJECTID":84,
-    "National_Forest":"CLEARWATER",
-    "Name":"FISH CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.98639490000,46.84636433970 ]
-    },
-    "properties": {
-    "OBJECTID":85,
-    "National_Forest":"CLEARWATER",
-    "Name":"FISH LAKE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.71362670000,46.29676844020 ]
-    },
-    "properties": {
-    "OBJECTID":86,
-    "National_Forest":"CLEARWATER",
-    "Name":"LEWIS AND CLARK GROVE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.74850800000,46.29601100000 ]
-    },
-    "properties": {
-    "OBJECTID":87,
-    "National_Forest":"CLEARWATER",
-    "Name":"LOLO CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.01832300100,46.45898900030 ]
-    },
-    "properties": {
-    "OBJECTID":88,
-    "National_Forest":"CLEARWATER",
-    "Name":"MOCUS POINT TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.74142500100,46.35844199980 ]
-    },
-    "properties": {
-    "OBJECTID":89,
-    "National_Forest":"CLEARWATER",
-    "Name":"NIIMIIPUU TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -116.67438800100,47.00904400020 ]
-    },
-    "properties": {
-    "OBJECTID":90,
-    "National_Forest":"CLEARWATER",
-    "Name":"POTLATCH CANYON TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.30901400000,46.34543299990 ]
-    },
-    "properties": {
-    "OBJECTID":91,
-    "National_Forest":"CLEARWATER",
-    "Name":"SHERMAN CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.67547430000,46.90658574980 ]
-    },
-    "properties": {
-    "OBJECTID":92,
-    "National_Forest":"CLEARWATER",
-    "Name":"SMITH RIDGE TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.40351000000,46.23259200020 ]
-    },
-    "properties": {
-    "OBJECTID":93,
-    "National_Forest":"CLEARWATER",
-    "Name":"SPLIT CREEK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.73117860000,46.44235738040 ]
-    },
-    "properties": {
-    "OBJECTID":94,
-    "National_Forest":"CLEARWATER",
-    "Name":"TOM BEALE PARK TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.88463300000,46.47269599960 ]
-    },
-    "properties": {
-    "OBJECTID":95,
-    "National_Forest":"CLEARWATER",
-    "Name":"WARM SPRINGS TRAILHEAD",
-    "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1528,13 +698,12 @@
        "coordinates":  [ -109.38944440000,45.15916667030 ]
     },
     "properties": {
+    "FID":46,
     "OBJECTID":96,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"BASIN-T",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1544,13 +713,12 @@
        "coordinates":  [ -109.36138889900,45.08775000020 ]
     },
     "properties": {
+    "FID":47,
     "OBJECTID":97,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"BEARTRACK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1560,13 +728,12 @@
        "coordinates":  [ -109.32722220000,45.08611110960 ]
     },
     "properties": {
+    "FID":48,
     "OBJECTID":98,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"CORRAL CREEK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1576,13 +743,12 @@
        "coordinates":  [ -109.63472220000,45.19666666990 ]
     },
     "properties": {
+    "FID":49,
     "OBJECTID":99,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"EAST ROSEBUD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1592,13 +758,12 @@
        "coordinates":  [ -109.51416670000,45.00388888960 ]
     },
     "properties": {
+    "FID":50,
     "OBJECTID":100,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"GLACIER LAKE",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1608,13 +773,12 @@
        "coordinates":  [ -109.45108330000,45.03833333000 ]
     },
     "properties": {
+    "FID":51,
     "OBJECTID":101,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"HELL ROARING",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1624,13 +788,12 @@
        "coordinates":  [ -109.41055560000,45.07916667010 ]
     },
     "properties": {
+    "FID":52,
     "OBJECTID":102,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"LAKE FORK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1640,13 +803,12 @@
        "coordinates":  [ -109.92388890000,45.49027778040 ]
     },
     "properties": {
+    "FID":53,
     "OBJECTID":103,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"MEYERS CREEK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1656,13 +818,12 @@
        "coordinates":  [ -109.64333330000,45.20861110990 ]
     },
     "properties": {
+    "FID":54,
     "OBJECTID":104,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"PHANTOM",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1672,13 +833,12 @@
        "coordinates":  [ -109.47333330000,45.24111110990 ]
     },
     "properties": {
+    "FID":55,
     "OBJECTID":105,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"RED LODGE CREEK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1688,13 +848,12 @@
        "coordinates":  [ -109.47750000100,45.17166666990 ]
     },
     "properties": {
+    "FID":56,
     "OBJECTID":106,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"SENIA",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1704,13 +863,12 @@
        "coordinates":  [ -109.35694440000,45.12999999960 ]
     },
     "properties": {
+    "FID":57,
     "OBJECTID":107,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"SILVER RUN PLATEAU",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1720,13 +878,12 @@
        "coordinates":  [ -109.34027780000,45.14972221960 ]
     },
     "properties": {
+    "FID":58,
     "OBJECTID":108,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"SILVER RUN TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1736,13 +893,12 @@
        "coordinates":  [ -109.46444440000,45.17111111010 ]
     },
     "properties": {
+    "FID":59,
     "OBJECTID":109,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"TIMBERLINE",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1752,13 +908,12 @@
        "coordinates":  [ -109.49416670000,45.16861111030 ]
     },
     "properties": {
+    "FID":60,
     "OBJECTID":110,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"WEST FORK",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1768,13 +923,12 @@
        "coordinates":  [ -109.96722220000,45.39833333020 ]
     },
     "properties": {
+    "FID":61,
     "OBJECTID":111,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"WEST FORK STILLWATER TRAIL",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1784,13 +938,12 @@
        "coordinates":  [ -109.73416670100,45.24444443980 ]
     },
     "properties": {
+    "FID":62,
     "OBJECTID":112,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"WEST ROSEBUD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1800,13 +953,12 @@
        "coordinates":  [ -109.90388890100,45.35138888970 ]
     },
     "properties": {
+    "FID":63,
     "OBJECTID":113,
-    "National_Forest":"CUSTER",
+    "National_F":"CUSTER",
     "Name":"WOODBINE-T",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1816,13 +968,12 @@
        "coordinates":  [ -113.56256470000,48.23361398030 ]
     },
     "properties": {
+    "FID":64,
     "OBJECTID":114,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"BEAR CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1832,13 +983,12 @@
        "coordinates":  [ -113.94704760000,48.16088073030 ]
     },
     "properties": {
+    "FID":65,
     "OBJECTID":115,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"CAMP MISERY TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1848,13 +998,12 @@
        "coordinates":  [ -113.85565000000,47.56019999980 ]
     },
     "properties": {
+    "FID":66,
     "OBJECTID":116,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"COLD LAKES TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1864,13 +1013,12 @@
        "coordinates":  [ -113.46339340100,48.25222626970 ]
     },
     "properties": {
+    "FID":67,
     "OBJECTID":117,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"DEVIL CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1880,13 +1028,12 @@
        "coordinates":  [ -113.60218400000,47.45314988980 ]
     },
     "properties": {
+    "FID":68,
     "OBJECTID":118,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"EAST HOLLAND CONNECTOR",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1896,13 +1043,12 @@
        "coordinates":  [ -113.41500000000,48.26410000010 ]
     },
     "properties": {
+    "FID":69,
     "OBJECTID":119,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"GEIFER CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1912,13 +1058,12 @@
        "coordinates":  [ -113.79285190000,47.38134791000 ]
     },
     "properties": {
+    "FID":70,
     "OBJECTID":120,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"GLACIER LAKE TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1928,13 +1073,12 @@
        "coordinates":  [ -113.48651380100,47.80228021970 ]
     },
     "properties": {
+    "FID":71,
     "OBJECTID":121,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"GORGE CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1944,13 +1088,12 @@
        "coordinates":  [ -113.32958190000,48.20708162960 ]
     },
     "properties": {
+    "FID":72,
     "OBJECTID":122,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"GRANITE CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1960,13 +1103,12 @@
        "coordinates":  [ -113.41898660100,47.83240148970 ]
     },
     "properties": {
+    "FID":73,
     "OBJECTID":123,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"MEADOW CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1976,13 +1118,12 @@
        "coordinates":  [ -113.40240000000,47.93089999980 ]
     },
     "properties": {
+    "FID":74,
     "OBJECTID":124,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"MIDDLE BIG BILL TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -1992,13 +1133,12 @@
        "coordinates":  [ -113.29885670100,48.20583794020 ]
     },
     "properties": {
+    "FID":75,
     "OBJECTID":125,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"MORRISON CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2008,13 +1148,12 @@
        "coordinates":  [ -113.60871390000,47.44017350000 ]
     },
     "properties": {
+    "FID":76,
     "OBJECTID":126,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"OWL CREEK PACKER CAMP",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2024,13 +1163,12 @@
        "coordinates":  [ -113.30544370000,47.93551352010 ]
     },
     "properties": {
+    "FID":77,
     "OBJECTID":127,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"SILVERTIP TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2040,13 +1178,12 @@
        "coordinates":  [ -113.46180410000,47.97397265040 ]
     },
     "properties": {
+    "FID":78,
     "OBJECTID":128,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"SOUTH CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2056,13 +1193,12 @@
        "coordinates":  [ -113.41820000000,47.93980000040 ]
     },
     "properties": {
+    "FID":79,
     "OBJECTID":129,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"TRAIL CREEK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2072,13 +1208,12 @@
        "coordinates":  [ -114.60030000100,48.92310000000 ]
     },
     "properties": {
+    "FID":80,
     "OBJECTID":130,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"TUCHUCK TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2088,13 +1223,12 @@
        "coordinates":  [ -113.39581069900,47.94554483960 ]
     },
     "properties": {
+    "FID":81,
     "OBJECTID":131,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"UPPER BIG BILL TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   },
   {
@@ -2104,13 +1238,12 @@
        "coordinates":  [ -113.56253709900,47.98596716040 ]
     },
     "properties": {
+    "FID":82,
     "OBJECTID":132,
-    "National_Forest":"FLATHEAD",
+    "National_F":"FLATHEAD",
     "Name":"UPPER TWIN TRAILHEAD",
     "Type":"TRAILHEAD",
-    "Fee_Y_N":"N",
-    "Transparency":"",
-    "SymbolID":""
+    "Fee_Y_N":"N"
     }
   }
 ]
