@@ -8,9 +8,9 @@
     //* Chart frame dimensions
     var chartWidth = window.innerWidth * .500;
         chartHeight = 500,
-        leftPadding = 70,	
-        rightPadding = 10,
-        topBottomPadding = 20,
+        leftPadding = 60,	
+        rightPadding = 5,
+        topBottomPadding = 10,
         chartInnerWidth = chartWidth - leftPadding - rightPadding,
         chartInnerHeight = chartHeight - topBottomPadding * 2,
         translate = "translate(" + leftPadding + "," + topBottomPadding + ")";
