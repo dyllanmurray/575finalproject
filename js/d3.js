@@ -6,11 +6,11 @@
     var expressed = attrArray[0];	// initial attribute
     
     //* Chart frame dimensions
-    var chartWidth = window.innerWidth * .425;
-        chartHeight = 463,
-        leftPadding = 30,	
-        rightPadding = 2,
-        topBottomPadding = 5,
+    var chartWidth = window.innerWidth * .500;
+        chartHeight = 500,
+        leftPadding = 70,	
+        rightPadding = 10,
+        topBottomPadding = 20,
         chartInnerWidth = chartWidth - leftPadding - rightPadding,
         chartInnerHeight = chartHeight - topBottomPadding * 2,
         translate = "translate(" + leftPadding + "," + topBottomPadding + ")";
@@ -21,7 +21,7 @@
             
     window.onload = setMap();
     function setMap(){
-        var width = window.innerWidth *.5,		
+        var width = window.innerWidth *.45,		
             height = 550;
         //* Create a new SVG container for the map
         var map = d3.select("body")
@@ -331,7 +331,7 @@
             
             })
             .attr("height", function(d,i){
-                return 463 - yScale(parseFloat(d[expressed]));
+                return 500 - yScale(parseFloat(d[expressed]));
                 
             })
             //* this then re-draws the bars from the bottom up (which is correct)

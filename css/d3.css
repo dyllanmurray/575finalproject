@@ -1,199 +1,164 @@
-
-
-
-
-html, #map {
-	color: black;
-	width: 100%;
-	border-top-width: 100;
-	margin: 100;
-	padding: 0;
- 	background-color: rgba(232, 241, 235, 0.2);
+html, body, #map {
+  height: 10000px;
 }
 
-.tick {
-	color: black;
-	font-size: 10px;
+.navbar-default {
+  background-color: #7bb7d1;
+  border-radius: 0;
+  background-image: none;
 }
 
-.title {
-	font-family: sans-serif;
-	font-size: 1.5em;
-	font-weight: bold;
+.navbar-default .navbar-brand {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
 }
 
-
-.state {
-	stroke: #000;
-	stroke-width: 0.5px;
-	stroke-linecap: round;
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ea998f;
 }
-/* 
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navbar-header .navbar-toggle {
+  color: black;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #ea998f;
+  color: #242424;
+}
+
+body {
+    /* background: linear-gradient(to right, #ffff66, #ffffcc); */
+    background-color: #e6f2ff;
+    border-radius: 6px;
+    height: 120px;
+  font-family: Tahoma;
+}
+
+#header {
+  color:#0080ff;
+  text-align: center;
+  font-size: 2em;
+  font-family: Tahoma, Roman, Verdana;
+  margin-top: 70px;
+  margin-bottom: 25px;
+  padding: 0;
+}
+
+.states {
+    stroke: #000;
+    stroke-width: 0.5px;
+    stroke-linecap: round;
+}
+
 .map {
-	border: medium solid #999;
-	margin: 10px 0 0 20px;
-} */
+    border: medium solid #000;
+    margin: 10px
+    background-color: #FFF;
+}
 
 .chart {
-	float: right;
-	margin: 7px 20px 0 0;
-	border: medium solid #999;
-	float: right;
-	margin: 10px 20px 0 0;
+    float: right;
+    margin: 11px 10px 0 0;
 }
-
-*.bar {
-	z-index: -1;
-}
-.bar WA {
-	z-index: -1;
-}
-
 .chartTitle {
-	font-family: sans-serif;
-	font-size: 1.0em;
-	font-weight: bold;
-	z-index: 100;
+  font-family: Tahoma, Roman, Verdana;
+    font-size: 1em;
+    font-weight: bold;
 }
 
 .chartBackground {
-	fill: rgba(247, 241, 241, 0.2);
+    border: medium solid #999;
+    fill: #FFF;
 }
 
 .chartFrame {
-	fill: none;
-	stroke: #999;
-	stroke-width: 3px;
-	shape-rendering: crispEdges;
+    fill: none;
+    stroke: #000;
+    stroke-width: 4px;
+    shape-rendering: crispEdges;
 }
 
 .axis path,
 .axis line {
-	fill: none;
-	stroke: #999;
-	stroke-width: 1px;
-	shape-rendering: crispEdges;
-	
+    fill: none;
+    stroke: #000;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
 }
 
 .axis text {
-	font-family: sans-serif;
-	color: black; 
-	font-size: 0.8em;
-	fill: #999;
+  font-family: Tahoma, Roman, Verdana;
+    font-size: 1em;
+    fill: black;
 }
 
 .numbers {
-	font-size: 9px;
-	color: darkgreen;
-	font-family: sans-serif;
+    fill: white;
+    font-family: Tahoma, Roman, Verdana;
 }
+
 .dropdown {
-	position: absolute;
-	flex-direction: row-reverse;
-	top: 200px;			
-	left: 40px;		
-	z-index: 10;
-	font-family: sans-serif;
-	font-size: .8em;
-	font-weight: bold;
-	padding: 2px;
-	border: 1px solid #999;
-	box-shadow: 2px 2px 4px #999;
-	
+    position: absolute;
+    top: 160px;
+    left: 50px;
+    z-index: 10;
+    font-family: Tahoma, Roman, Verdana;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #999;
+    box-shadow: 2px 2px 4px #999;
 }
+
 option {
-	font-weight: normal;
+    font-weight: normal;
 }
+
 .infolabel {
-	position: absolute;
-	height: 50px;
-	min-width: 90px;
-	color: #fff;
-	background-color: #8b8484;
-	border: solid thin #fff;
-	padding: 5px 10px;
-	font-family: roboto;
+    position: absolute;
+    height: 100px;
+    min-width: 50px;
+    color: #fff;
+    background-color: #999;
+    border: solid thin #fff;
+    padding: 5px 10px;
+    top: -75px;
 }
 
 .infolabel h1 {
-	margin: 0 20px 0 0;
-	font-size: 20px;
-	padding: 0;
-	display: inline-block;
-	line-height: 1em;
-	
-}
-.gratLines {
-    fill: none;
-    stroke: #999;
-    stroke-width: 1px;
+    margin: 0 20px 0 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 1em;
 }
 
-#sources {
-	position: fixed;
-	bottom: 1px;			
-	right: 3px;
-	
+.metadata {
+    padding-left: 30px;
+    padding-top: 15px;
+}
+    
+.legend {
+    font-family: Tahoma, Roman, Verdana;
+    font-size: 1.45em;
+    color: #000;
+    font-weight: bold;
 }
 
-#akTable{
-	position: absolute;
-	bottom:0px;
-	left: 0;
+#header6 {
+    font-size: .9em;
+    font-family: Tahoma, Roman, Verdana;
+    line-height: 10px;
+    opacity: .8;
+    text-align: center;
 }
-
-
-.popup {
-	/* position: relative; */
-	/* display: inline-block; */
-	cursor: pointer;
-	align-self: center
-  }
-  
-  /* The actual popup (appears on top) */
-  .popup .popuptext {
-	visibility: hidden;
-	width: 160px;
-	background-color: #555;
-	color: black;
-	text-align: center;
-	border-radius: 6px;
-	padding: 8px 0;
-	/* position: absolute; */
-	z-index: 1;
-	bottom: 125%;
-	left: 50%;
-	margin-left: -80px;
-  }
-  
-  /* Popup arrow */
-  .popup .popuptext::after {
-	content: "";
-	/* position: absolute; */
-	top: 100%;
-	left: 50%;
-	margin-left: -5px;
-	border-width: 5px;
-	border-style: solid;
-	border-color: #555 transparent transparent transparent;
-	background-color: #999
-  }
-  
-  /* Toggle this class when clicking on the popup container (hide and show the popup) */
-  .popup .show {
-	visibility: visible;
-	-webkit-animation: fadeIn 1s;
-	animation: fadeIn 1s
-  }
-  
-  /* Add animation (fade in the popup) */
-  @-webkit-keyframes fadeIn {
-	from {opacity: 0;} 
-	to {opacity: 1;}
-  }
-  
-  @keyframes fadeIn {
-	from {opacity: 0;}
-	to {opacity:1 ;}
-  }
