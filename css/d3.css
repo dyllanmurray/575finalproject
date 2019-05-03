@@ -1,40 +1,5 @@
 html, body, #map {
-  height: 10000px;
-}
-
-.navbar-default {
-  background-color: #7bb7d1;
-  border-radius: 0;
-  background-image: none;
-}
-
-.navbar-default .navbar-brand {
-  color: black;
-  font-size: 25px;
-  font-weight: bold;
-}
-
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-    color: #ea998f;
-}
-
-.navbar-default .navbar-nav > li > a {
-  color: black;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.navbar-header .navbar-toggle {
-  color: black;
-}
-
-.navbar-header .navbar-toggle:hover,
-.navbar-header .navbar-toggle:focus {
-  background-color: #ea998f;
-  color: #242424;
+  height: 1000px;
 }
 
 body {
@@ -49,7 +14,7 @@ body {
   color:#0080ff;
   text-align: center;
   font-size: 2em;
-  font-family: Tahoma, Roman, Verdana;
+  font-family: Helvetica,Arial,sans-serif;
   margin-top: 70px;
   margin-bottom: 25px;
   padding: 0;
@@ -72,7 +37,7 @@ body {
     margin: 11px 10px 0 0;
 }
 .chartTitle {
-  font-family: Tahoma, Roman, Verdana;
+  font-family: Helvetica,Arial,sans-serif;
     font-size: 1em;
     font-weight: bold;
 }
@@ -98,14 +63,14 @@ body {
 }
 
 .axis text {
-  font-family: Tahoma, Roman, Verdana;
+  font-family: Helvetica,Arial,sans-serif;
     font-size: 1em;
     fill: black;
 }
 
 .numbers {
     fill: white;
-    font-family: Tahoma, Roman, Verdana;
+    font-family: Helvetica,Arial,sans-serif;
 }
 
 .dropdown {
@@ -113,7 +78,7 @@ body {
     top: 160px;
     left: 50px;
     z-index: 10;
-    font-family: Tahoma, Roman, Verdana;
+    font-family: Helvetica,Arial,sans-serif;
     font-size: 1em;
     font-weight: bold;
     padding: 2px;
@@ -149,7 +114,7 @@ option {
 }
     
 .legend {
-    font-family: Tahoma, Roman, Verdana;
+    font-family: Helvetica,Arial,sans-serif;
     font-size: 1.45em;
     color: #000;
     font-weight: bold;
@@ -157,7 +122,7 @@ option {
 
 #header6 {
     font-size: .9em;
-    font-family: Tahoma, Roman, Verdana;
+    font-family: Helvetica,Arial,sans-serif;
     line-height: 10px;
     opacity: .8;
     text-align: center;
