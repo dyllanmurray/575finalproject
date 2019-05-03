@@ -12,15 +12,8 @@
         crossorigin=""/>
         <link rel="stylesheet" href="lib/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css"
         crossorigin=""/>
-<!-- 
-        <link rel="stylesheet" href="/node_modules/leaflet-panel-layers/dist/leaflet-panel-layers.src.css"
-        crossorigin=""/>
-        <link rel="stylesheet" href="/node_modules/leaflet-panel-layers/dist/leaflet-panel-layers.min.css"
-        crossorigin=""/> -->
         <link rel="stylesheet" href="css/style.css"
         crossorigin=""/>
-        <!-- <link rel="stylesheet" href="css/d3.css"
-        crossorigin=""/> -->
         <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css' rel='stylesheet' />
         <link href='lib/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css' rel='stylesheet' />
 	          
@@ -38,7 +31,8 @@
                    Use the map to explore what Montana has to offer!
                </p>
 
-                <div id = "sidebarwrapper"
+
+                <div id = "sidebarwrapper">
                         <p><b>POPULATION: </b>1,005,141</b></p>
                        <p><b>STATE NICKNAME: </b>TREASURE STATE</p>
                        <p> <b>STATE CAPITAL:</b> HELENA</p>
@@ -50,32 +44,44 @@
                        <p><b>STATE MOTTO:</b> ORO Y PLATA (GOLD AND SILVER)</p> 
         
                         <button class="button button1" onclick="window.open(link ='d3.html')">Montana Tourism Numbers by the numbers interactive map </button>
-                        <button class="button2 button3" onclick = "open(link ='visitmt.com')">Montana!
-                            </button>
+
+                        <button class="button2 button3" onclick="window.open(href = 'https://www.visitmt.com/')">Montana's Offical Tourism, Travel and Vacation Site </button>
                             </div>
+                            <div id="masterdiv">
+
+                                    <div class="menutitle" onclick="SwitchMenu('sub1')">Sources</div>
+                                    <span class="submenu" id="sub1">
+
+
+                                        - <a href="http://stateparks.mt.gov/about-us/parksData.html">State Parks</a>
+                                        - <a href="https://opendata.arcgis.com/datasets/b1598d3df2c047ef88251016af5b0f1e_0.geojson">National Parks</a><br>
+                                        
+                                        - <a href="http://hub.arcgis.com/app/mtfwp::fishing-access-sites-2">Fishing Access</a>
+                                        - <a href="https://www.arcgis.com/home/item.html?id=74ace62a6b4b498b9eb50809d1d70cc8">Campgrounds</a>
+                                        - <a href="https://www.arcgis.com/home/item.html?id=74ace62a6b4b498b9eb50809d1d70cc8">Trailheads</a><br>
+
+                                        - <a href="http://www.americanwineryguide.com/wineries/?state=4&sname=Montana">Wineries</a>
+                                        - <a href="https://www.arcgis.com/home/item.html?id=bf0eb3604f0a47e594b5416bb7d2b46a">Breweries</a><br>
+                                        
+                                        - <a href="https://opendata.arcgis.com/datasets/31c83276a1ea495c9e8a384d90b7ad39_0.geojson">Universities</a>
+                                        - <a href="https://www.mdt.mt.gov/aviation/studies-research.shtml">Airports</a>
+                                        - <a href="https://mslservices.mt.gov/Geographic_Information/Data/DataList/datalist_Details.aspx?did={530355CF-C819-4784-877F-C995C4815D41}">Cities and Towns</a><br>
+                                        - <a href="http://www.tourismresearchmt.org/index.php?option=com_traveltrends&view=traveltrends&Itemid=110">Tourism Numbers</a>
+                                        - <a href="https://thenounproject.com/term/hiking/385/">Icons</a><br>
+
+
+
+                                    </span>
+                                
+                                </div>
+
               </div>
+
+            </div>
         <div id="map"></div>     
-        <!-- <div id="d3map"></div> -->
+ <!-- Keep all menus within masterdiv-->
 
-        <!-- <div id="panel">
-            <h1>Background</h1>
-            Outside Magazine publishes a list of 25 cities and towns every year that the editors believe to be idealic for their subscribers. 
-            These cities and towns span all across the United States. These locations are great for people interested in craft beers, outside activities, and exceptional food!
-           
-           </p>
-            <p>Click the link to learn more!<br>
-            <a href = "https://www.visitmt.com/"> Montana's Offical Tourism Site  </a> 
-            </p>
-            <br>  
-        </br>
-         -->
     </body>
-    
-    
-    <!--you can also use this space for internal scripts or stylesheets;
-		place these within <script> or <style> tags-->
-
-    <!--put your external script links here-->
         
        <script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
        <!-- <script src="leaflet.markercluster.layersupport.js"></script> -->

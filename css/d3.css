@@ -6,12 +6,12 @@
 	shape-rendering: crispEdges;
 }
 
- .axis text {
+.axis text {
 	font-family: sans-serif;
 	font-size: 0.9em;
 }
 
- .mapTitle,#mapTitle {
+.mapTitle,#mapTitle {
 	top: 100;
 	color: green;
 	font-size: 35px; 
@@ -19,7 +19,7 @@
 
 
 
- html, body, #map {
+html, body, #map {
 	color: black;
 	width: 100%;
 	border-top-width: 100;
@@ -28,30 +28,30 @@
  	background-color: rgba(232, 241, 235, 0.2);
 }
 
- .tick {
+.tick {
 	color: black;
 	font-size: 10px;
 }
 
- .title {
+.title {
 	font-family: sans-serif;
 	font-size: 1.5em;
 	font-weight: bold;
 }
 
 
- .state {
+.state {
 	stroke: #000;
 	stroke-width: 0.5px;
 	stroke-linecap: round;
 }
 
- .map {
+.map {
 	border: medium solid #999;
 	margin: 10px 0 0 20px;
 }
 
- .chart {
+.chart {
 	float: right;
 	margin: 7px 20px 0 0;
 	border: medium solid #999;
@@ -59,48 +59,48 @@
 	margin: 10px 20px 0 0;
 }
 
- *.bar {
+*.bar {
 	z-index: -1;
 }
 .bar WA {
 	z-index: -1;
 }
 
- .chartTitle {
+.chartTitle {
 	font-family: sans-serif;
 	font-size: 1.0em;
 	font-weight: bold;
 	z-index: 100;
 }
 
- .chartBackground {
+.chartBackground {
 	fill: rgba(247, 241, 241, 0.2);
 }
 
- .chartFrame {
+.chartFrame {
 	fill: none;
 	stroke: #999;
 	stroke-width: 3px;
 	shape-rendering: crispEdges;
 }
 
- .axis path,
+.axis path,
 .axis line {
 	fill: none;
 	stroke: #999;
 	stroke-width: 1px;
 	shape-rendering: crispEdges;
+	
+}
 
- }
-
- .axis text {
+.axis text {
 	font-family: sans-serif;
 	color: black; 
 	font-size: 0.8em;
 	fill: #999;
 }
 
- .numbers {
+.numbers {
 	font-size: 9px;
 	color: darkgreen;
 	font-family: sans-serif;
@@ -116,8 +116,8 @@
 	padding: 2px;
 	border: 1px solid #999;
 	box-shadow: 2px 2px 4px #999;
-
- }
+	
+}
 option {
 	font-weight: normal;
 }
@@ -132,42 +132,42 @@ option {
 	font-family: roboto;
 }
 
- .infolabel h1 {
+.infolabel h1 {
 	margin: 0 20px 0 0;
 	font-size: 20px;
 	padding: 0;
 	display: inline-block;
 	line-height: 1em;
-
- }
+	
+}
 .gratLines {
     fill: none;
     stroke: #999;
     stroke-width: 1px;
 }
 
- #sources {
+#sources {
 	position: fixed;
 	bottom: 1px;			
 	right: 3px;
+	
+}
 
- }
-
- #akTable{
+#akTable{
 	position: absolute;
 	bottom:0px;
 	left: 0;
 }
 
 
- .popup {
+.popup {
 	/* position: relative; */
 	/* display: inline-block; */
 	cursor: pointer;
 	align-self: center
   }
-
-   /* The actual popup (appears on top) */
+  
+  /* The actual popup (appears on top) */
   .popup .popuptext {
 	visibility: hidden;
 	width: 160px;
@@ -182,8 +182,8 @@ option {
 	left: 50%;
 	margin-left: -80px;
   }
-
-   /* Popup arrow */
+  
+  /* Popup arrow */
   .popup .popuptext::after {
 	content: "";
 	/* position: absolute; */
@@ -195,21 +195,21 @@ option {
 	border-color: #555 transparent transparent transparent;
 	background-color: #999
   }
-
-   /* Toggle this class when clicking on the popup container (hide and show the popup) */
+  
+  /* Toggle this class when clicking on the popup container (hide and show the popup) */
   .popup .show {
 	visibility: visible;
 	-webkit-animation: fadeIn 1s;
 	animation: fadeIn 1s
   }
-
-   /* Add animation (fade in the popup) */
+  
+  /* Add animation (fade in the popup) */
   @-webkit-keyframes fadeIn {
 	from {opacity: 0;} 
 	to {opacity: 1;}
   }
-
-   @keyframes fadeIn {
+  
+  @keyframes fadeIn {
 	from {opacity: 0;}
-    to {opacity:1 ;}
-   }
+	to {opacity:1 ;}
+  }

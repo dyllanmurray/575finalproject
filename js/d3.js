@@ -6,7 +6,7 @@
     var expressed = attrArray[0];	// initial attribute
     
     //* Chart frame dimensions
-    var chartWidth = window.innerWidth * .500;
+    var chartWidth = window.innerWidth * .50;
         chartHeight = 500,
         leftPadding = 60,	
         rightPadding = 5,

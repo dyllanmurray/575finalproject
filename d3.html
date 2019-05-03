@@ -1,33 +1,31 @@
 <!DOCTYPE html>
+
 <html lang="en">
+	
 	<head>
+	
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-        <title>Dyllan Murray & Mark Jensen Final Lab</title>
+		<title>Dyllan Murray D3 Lab</title>
+		<!-- External Stylesheet Links -->
+		<link rel="stylesheet" href="css/d3.css">
+	</head>
 
-		<!--put your external stylesheet links here-->
-        <!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
-		<!--<link rel="stylesheet" href="css/bootstrap-theme.min.css">-->
-        <link href="css/d3.css" type="text/css" rel="stylesheet">
-	          
-    </head>
-    
-    <body id="page-top" class="index">
+	<body>
+		<h1 style="text-align:center;">Public Lands in the United States</h1>
 
-		<div class="metadata">
-		<h1 id="header"><Strong>Montana's Counties By Tourism Dollars and Visits</Strong></h1>
-		<div class="footer">
-			<h6 id="header6">Sources: Gas, Lodging, Restaurants, Total Spending, and Total Visitors comes from Institute for Tourism & Recreation Research. Visit rank comes from Mob-Rule.com based on user data.</h6>
-		</div>
-			<select class="dropdown"></select>
-		</div>
-		<!--put your external script links here-->
-		<script type="text/javascript" src="lib/jquery-3.3.2.js"></script>
+		<p style="text-align:center;">This map explores the public lands in each state across the United States of America.<br> Sources: https://www.nrcm.org/documents/publiclandownership.pdf</p>
+
+		<div id="mapTitle">
+		
+			</div>
+			<div id="map">
+			</div>
+	
+
+		<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
 		<script type="text/javascript" src="lib/d3.js"></script>
 		<script type="text/javascript" src="lib/topojson.js"></script>
-		<script type="text/javascript" src="lib/simple-statistics.js"></script>
 		<script type="text/javascript" src="js/d3.js"></script>
-        <br>
-        <br>
 	</body>
 </html>
